@@ -1,0 +1,17 @@
+name: Report a job or data problem
+description: Tell us about an incorrect, duplicate or closed job.
+title: "Job correction: "
+body:
+  - type: input
+    id: job
+    attributes:
+      label: Job URL or ID
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: What needs correcting?
+      description: Include the employer source when available. Do not include personal information.
+    validations:
+      required: true

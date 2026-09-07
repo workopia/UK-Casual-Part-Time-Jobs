@@ -1,0 +1,14 @@
+{
+  "name": "uk-casual-part-time-jobs",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "validate": "node scripts/validate.mjs",
+    "build-readme": "node scripts/render.mjs",
+    "check": "node scripts/check.mjs",
+    "check:draft": "node scripts/validate.mjs --allow-draft && node scripts/render.mjs --check"
+  }
+}
