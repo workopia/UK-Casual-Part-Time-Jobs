@@ -6,9 +6,9 @@
 
 | GitHub directory | UK search collection — launching soon |
 | --- | --- |
-| **2,000 selected roles** | **24,407 searchable postings prepared** |
+| **2,000 selected roles** | **24,406 searchable postings prepared** |
 
-The prepared collection includes **16,888 casual, part-time and contract/temp postings**, plus **7,519 related hourly/seasonal postings** with their real employment labels. Snapshot: **2026-09-07T03:38:54.690Z**.
+The prepared collection includes **16,888 casual, part-time and contract/temp postings**, plus **7,518 related hourly/seasonal postings** with their real employment labels. Snapshot: **2026-09-07T03:38:54.690Z**.
 
 This directory groups matching employer and role postings across locations and applies category and employer limits. Its selected-row count is not the full search collection or the entire UK job market.
 
@@ -26,7 +26,8 @@ Choose your location and available shifts, check the advertised employment type,
 | --- | ---: |
 | Selected roles | 2000 |
 | Employers | 384 |
-| Seasonal roles in this directory | 14 |
+| Seasonal roles in this directory (all seasons) | 13 |
+| Christmas-tagged roles in this directory | 11 |
 | Explicitly no experience required | 77 |
 | Data date | 7 Sept 2026 |
 
@@ -44,15 +45,14 @@ Counts describe this selected directory, not the entire UK market. Jobs are clas
 - [Hospitality & food](#hospitality) (403) — Casual 77 · Part-time 228 · Temp & seasonal 98
 - [Retail & supermarkets](#retail) (790) — Casual 21 · Part-time 500 · Temp & seasonal 269
 
-## 🎄 Seasonal roles
+## 🎄 Christmas-tagged roles
 
-Seasonal roles present in this snapshot; check each advert for its dates.
+The source feed tags these roles as Christmas casual. Check each employer advert for the actual season, contract and dates; summer and other seasonal tags are excluded.
 
 <table>
 <thead><tr><th>Company</th><th>Role</th><th>Location</th><th>Pay</th><th>Shift</th><th>Checks</th><th>Apply</th><th>Age</th></tr></thead>
 <tbody>
 <tr><td>Nestle Ltd</td><td>Festive Sales Assistant - Stratford 🎄</td><td>Stratford, United Kingdom</td><td>Base: £14.80 per hour; Bonus/Equity: Not specified; Benefits: Not specified</td><td>—</td><td>—</td><td><a href="https://jobdetails.nestle.com/job/London-Festive-Sales-Assistant-Stratford-E20-1EJ/1430538233/">Apply →</a></td><td>2d</td></tr>
-<tr><td>Ssp Group</td><td>Kitchen Assistant - Kissing Gate 🎄</td><td>Liverpool, England, GB +1</td><td>Base: £13.43 per hour; Bonus/Equity: £1.20 per hour for hours worked between midnight and 6 AM; Benefits: Extra tips and service charge, Discounted Meal, Discounted Parking, Employee Discounts, Friends and Family Discount App</td><td>—</td><td>—</td><td><a href="https://careers.foodtravelexperts.com/job/Liverpool-Kitchen-Assistant-Kissing-Gate-L24-1YD/1417640133/">Apply →</a></td><td>3d</td></tr>
 <tr><td>Selfridges</td><td>Christmas Sales Associate - Hampers &amp; Food (30 And 37.5 Hours) London, United Kingdom London: £14.80 / Hr; Regions: £13.45 / Hr Christmas Temp Apply By 1 October, 2026 Posted On 1 September, 2026 🎄</td><td>London, United Kingdom</td><td>London: £14.80 / Hr; Regions: £13.45 / Hr; Benefits: up to 35 percent discount</td><td>Weekend</td><td>—</td><td><a href="https://jobsearch.selfridges.com/jobs/job/Christmas-Sales-Associate-Hampers-Food-30-and-375-hours/7121">Apply →</a></td><td>6d</td></tr>
 <tr><td>Nestle SA</td><td>Festive Sales Assistant - Leeds 🎄</td><td>Leeds, United Kingdom</td><td>Base: £13.45 per hour; Bonus/Equity: Not specified; Benefits: Not specified</td><td>—</td><td>—</td><td><a href="https://jobdetails.nestle.com/job/Leeds-Festive-Sales-Assistant-Leeds-LS2-7JL/1430511233/">Apply →</a></td><td>9d</td></tr>
 <tr><td>Nestle SA</td><td>Festive Sales Assistant - Selfridges, Birmingham 🎄</td><td>Birmingham, United Kingdom</td><td>£13.45 per hour; Not specified; Not specified</td><td>—</td><td>—</td><td><a href="https://jobdetails.nestle.com/job/Birmingham-Festive-Sales-Assistant-Selfridges%2C-Birmingham-B5-4BP/1430522033/">Apply →</a></td><td>9d</td></tr>
@@ -61,10 +61,20 @@ Seasonal roles present in this snapshot; check each advert for its dates.
 <tr><td>Nestle Ltd</td><td>Festive Sales Assistant - Covent Garden 🎄</td><td>Covent Garden, London, United Kingdom</td><td>Base: £14.80 per hour; Bonus/Equity: Not specified; Benefits: Not specified</td><td>—</td><td>—</td><td><a href="https://jobdetails.nestle.com/job/London-Festive-Sales-Assistant-Covent-Garden-WC2E-8NL/1430487033/">Apply →</a></td><td>9d</td></tr>
 <tr><td>Nestle Ltd</td><td>Festive Sales Assistant - Edinburgh 🎄</td><td>Edinburgh, United Kingdom</td><td>Base: £13.45 per hour; Bonus/Equity: Not specified; Benefits: Not specified</td><td>—</td><td>—</td><td><a href="https://jobdetails.nestle.com/job/Edinburgh-Festive-Sales-Assistant-Edinburgh-EH1-3DQ/1430437833/">Apply →</a></td><td>9d</td></tr>
 <tr><td>Nestle Ltd</td><td>Festive Sales Assistant - Belfast 🎄</td><td>Belfast, United Kingdom</td><td>£13.45 per hour; Not specified; Not specified</td><td>—</td><td>—</td><td><a href="https://jobdetails.nestle.com/job/Belfast-Festive-Sales-Assistant-Belfast-BT1-4QG/1430538733/">Apply →</a></td><td>9d</td></tr>
-<tr><td>Welcome Break</td><td>Hotel Housekeeper 🎄</td><td>Gretna Green, UK +1</td><td>Up to £12.85 per hour; £1 meals on every shift; 50% off onsite brands</td><td>—</td><td>—</td><td><a href="https://careers.welcomebreak.co.uk/job/Gretna-Green%2C-Dumfries%2C-DG16-5-Hotel-Housekeeper-DG16-5HQ/1426258133/">Apply →</a></td><td>10d</td></tr>
-<tr><td>Aramark UK</td><td>Chef De Partie 🎄</td><td>Brighton, GB +1</td><td>Base: £15.97 per hour; Bonus/Equity: Not specified; Benefits: Not specified</td><td>—</td><td>—</td><td><a href="https://aramarkcareers.com/Northern-Europe/go/All-Current-Job-Opportunities-NE-%28en_GB%29/8731000/job/1377851800">Apply →</a></td><td>14d</td></tr>
 <tr><td>The TJX Companies, Inc</td><td>Temporary Christmas Retail Associate Part Time 🌱 🎄</td><td>Brighton, United Kingdom</td><td>—</td><td>—</td><td>—</td><td><a href="https://wd1.myworkdaysite.com/recruiting/tjx/TJX_EXTERNAL/job/Brighton-SUS-BN1-3GJ/Temporary-Christmas-Retail-Associate-Part-Time_REQ146269">Apply →</a></td><td>22d</td></tr>
 <tr><td>The TJX Companies, Inc</td><td>Christmas Retail Associate Hs Reading 🌱 🎄</td><td>Reading, United Kingdom</td><td>—</td><td>—</td><td>—</td><td><a href="https://wd1.myworkdaysite.com/recruiting/tjx/TJX_EXTERNAL/job/Reading-BER-RG1-3JD/Christmas-Retail-Associate-HS-Reading_REQ143010">Apply →</a></td><td>32d</td></tr>
+</tbody>
+</table>
+
+## Other seasonal roles
+
+Other seasonal work in this snapshot; a seasonal tag does not mean Christmas hiring. Check each advert for its dates.
+
+<table>
+<thead><tr><th>Company</th><th>Role</th><th>Location</th><th>Pay</th><th>Shift</th><th>Checks</th><th>Apply</th><th>Age</th></tr></thead>
+<tbody>
+<tr><td>Ssp Group</td><td>Kitchen Assistant - Kissing Gate</td><td>Liverpool, England, GB +1</td><td>Base: £13.43 per hour; Bonus/Equity: £1.20 per hour for hours worked between midnight and 6 AM; Benefits: Extra tips and service charge, Discounted Meal, Discounted Parking, Employee Discounts, Friends and Family Discount App</td><td>—</td><td>—</td><td><a href="https://careers.foodtravelexperts.com/job/Liverpool-Kitchen-Assistant-Kissing-Gate-L24-1YD/1417640133/">Apply →</a></td><td>3d</td></tr>
+<tr><td>Aramark UK</td><td>Chef De Partie</td><td>Brighton, GB +1</td><td>Base: £15.97 per hour; Bonus/Equity: Not specified; Benefits: Not specified</td><td>—</td><td>—</td><td><a href="https://aramarkcareers.com/Northern-Europe/go/All-Current-Job-Opportunities-NE-%28en_GB%29/8731000/job/1377851800">Apply →</a></td><td>14d</td></tr>
 </tbody>
 </table>
 
@@ -860,7 +870,7 @@ Seasonal roles present in this snapshot; check each advert for its dates.
 <tr><td>bupa.co.uk</td><td>Housekeeping Assistant</td><td>Ashford, United Kingdom +2</td><td>£13.10 - £14.10 per hour depending on experience</td><td>—</td><td>—</td><td><a href="https://bupa.wd3.myworkdayjobs.com/EXT_CAREER/job/Ashford/Housekeeping-Assistant_R1198955-1">Apply →</a></td><td>10d</td></tr>
 <tr><td>Upprewards</td><td>Part-time Heavy Duty Cleaner</td><td>Oxford, United Kingdom</td><td>Base: £17,683 per annum; Bonus/Equity: Not specified; Benefits: 25 days holiday plus bank holidays, pension, life assurance, enhanced family leave policy, training, two paid volunteering or personal development days, cycle to work scheme</td><td>—</td><td>—</td><td><a href="https://upp.wd3.myworkdayjobs.com/UPP-Careers/job/Oxford/Part-Time-Heavy-Duty-Cleaner_R6829">Apply →</a></td><td>10d</td></tr>
 <tr><td>Sofitel Melbourne On Collins</td><td>Late Housekeeping Attendant (£13.75 Per Hour)</td><td>Glasgow, United Kingdom</td><td>£13.75 Per Hour</td><td>—</td><td>—</td><td><a href="https://jobs.smartrecruiters.com/AccorHotel/744000145950809">Apply →</a></td><td>10d</td></tr>
-<tr><td>Welcome Break</td><td>Hotel Housekeeper 🎄</td><td>Gretna Green, UK +1</td><td>Up to £12.85 per hour; £1 meals on every shift; 50% off onsite brands</td><td>—</td><td>—</td><td><a href="https://careers.welcomebreak.co.uk/job/Gretna-Green%2C-Dumfries%2C-DG16-5-Hotel-Housekeeper-DG16-5HQ/1426258133/">Apply →</a></td><td>10d</td></tr>
+<tr><td>Welcome Break</td><td>Hotel Housekeeper</td><td>Gretna Green, UK +1</td><td>Up to £12.85 per hour; £1 meals on every shift; 50% off onsite brands</td><td>—</td><td>—</td><td><a href="https://careers.welcomebreak.co.uk/job/Gretna-Green%2C-Dumfries%2C-DG16-5-Hotel-Housekeeper-DG16-5HQ/1426258133/">Apply →</a></td><td>10d</td></tr>
 <tr><td>Sports Direct</td><td>General Assistant (cleaning Team)</td><td>Stoke Gifford, United Kingdom +4</td><td>—</td><td>—</td><td>—</td><td><a href="https://jobs.smartrecruiters.com/frasersgroup/744000145779119">Apply →</a></td><td>11d</td></tr>
 <tr><td>Pinnacle Group</td><td>Office Cleaner Sandycroft, United Kingdom £8293.28 - £8293.28 Permanent Apply By 30 September, 2026 Posted On 26 August, 2026</td><td>Queensferry, Deeside, United Kingdom</td><td>Base: £8293.28; Bonus/Equity: Not specified; Benefits: Not specified</td><td>—</td><td>—</td><td><a href="https://careers.pinnaclegroup.co.uk/jobs/job/Office-Cleaner/3069">Apply →</a></td><td>12d</td></tr>
 <tr><td>Spire Healthcare</td><td>Bank Housekeeper</td><td>West Yorkshire, United Kingdom +3</td><td>Weekly pay; Competitive rates; Not specified</td><td>—</td><td>—</td><td><a href="https://elij.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/jobs/28487">Apply →</a></td><td>12d</td></tr>
@@ -1044,7 +1054,7 @@ Seasonal roles present in this snapshot; check each advert for its dates.
 <tr><td>Agincare Group</td><td>Cook - Bank Poole, United Kingdom (incl. Northern Ireland) £13.50 Part Time Apply By 26 September, 2026</td><td>Poole, Dorset, United Kingdom</td><td>Base: £13.50 per hour; Bonus/Equity: Not specified; Benefits: Refer a friend scheme earn up to £1000</td><td>—</td><td>—</td><td><a href="https://careers.agincare.com/jobs/job/Cook-Bank/12757">Apply →</a></td><td>11d</td></tr>
 <tr><td>Marriott International</td><td>Casual Food &amp; Beverage Server</td><td>Edinburgh, United Kingdom</td><td>—</td><td>Weekend</td><td>—</td><td><a href="https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/en/jobs/26079471">Apply →</a></td><td>11d</td></tr>
 <tr><td>Aspens Services Ltd</td><td>Catering Assistant Wilford, Nottingham, United Kingdom £12.71 Per Hour Zero Hours Apply By 26 September, 2026 Posted On 27 August, 2026</td><td>Wilford, United Kingdom</td><td>Base: £12.71 Per Hour; Bonus/Equity: Not specified; Benefits: Not specified</td><td>Weekend</td><td>—</td><td><a href="https://careers.aspens-services.co.uk/jobs/job/Catering-Assistant/9138">Apply →</a></td><td>11d</td></tr>
-<tr><td>Aramark UK</td><td>Chef De Partie 🎄</td><td>Brighton, GB +1</td><td>Base: £15.97 per hour; Bonus/Equity: Not specified; Benefits: Not specified</td><td>—</td><td>—</td><td><a href="https://aramarkcareers.com/Northern-Europe/go/All-Current-Job-Opportunities-NE-%28en_GB%29/8731000/job/1377851800">Apply →</a></td><td>14d</td></tr>
+<tr><td>Aramark UK</td><td>Chef De Partie</td><td>Brighton, GB +1</td><td>Base: £15.97 per hour; Bonus/Equity: Not specified; Benefits: Not specified</td><td>—</td><td>—</td><td><a href="https://aramarkcareers.com/Northern-Europe/go/All-Current-Job-Opportunities-NE-%28en_GB%29/8731000/job/1377851800">Apply →</a></td><td>14d</td></tr>
 <tr><td>Sofitel Melbourne On Collins</td><td>Breakfast Waitress/waiter - Chef De Rang - Casual</td><td>London, United Kingdom</td><td>Competitive Salary; Service charge; Loyalty bonus of £1.300 per year</td><td>—</td><td>—</td><td><a href="https://jobs.smartrecruiters.com/AccorHotel/744000144585910">Apply →</a></td><td>17d</td></tr>
 <tr><td>Ecotricity Group</td><td>Cleaning Crew Member</td><td>Stroud, England, United Kingdom</td><td>—</td><td>—</td><td>—</td><td><a href="https://jobs.ecotricity.co.uk/vacancies/2809/cleaning-crew-member.html">Apply →</a></td><td>18d</td></tr>
 <tr><td>Bmwramsey</td><td>Catering Assistant - Bank</td><td>Colchester, United Kingdom</td><td>—</td><td>—</td><td>—</td><td><a href="https://ramsayhealthcare.wd3.myworkdayjobs.com/Ramsay_Careers/job/Colchester/Catering-Assistant---bank_JR16953">Apply →</a></td><td>18d</td></tr>
@@ -1347,7 +1357,7 @@ Seasonal roles present in this snapshot; check each advert for its dates.
 <tr><td>Greggs</td><td>Team Member 162 Bath Road Reading, United Kingdom £12.91 Per Hour, If You Are Under 18 This Will Be £11.03 Per Hour Permanent Apply By 3 October, 2026 Posted On 3 September, 2026 Contract Hours 12</td><td>Reading, United Kingdom</td><td>Base: £12.91 Per Hour (under 18: £11.03 Per Hour); Bonus/Equity: 10% profit share; Benefits: Colleague discount, free hot drinks, paid breaks, Health and Wellbeing App, holiday entitlement, share plans, pension scheme</td><td>—</td><td>—</td><td><a href="https://careerssearch.greggs.co.uk/jobs/job/Team-Member/62173">Apply →</a></td><td>2d</td></tr>
 <tr><td>Ssp Group</td><td>Barista - Starbucks</td><td>Leeds, United Kingdom +1</td><td>Base: £12.85 per hour; Bonus/Equity: £1.20 per hour for hours worked between midnight and 6 AM; Benefits: Discounted Meal while on shifts, Employee Discounts, Friends and Family Discount App</td><td>—</td><td>—</td><td><a href="https://careers.foodtravelexperts.com/job/Leeds-Barista-Starbucks-LS19-7TU/1425212433/">Apply →</a></td><td>3d</td></tr>
 <tr><td>Ssp Group</td><td>Kitchen Porter</td><td>Belfast, United Kingdom</td><td>Base: £13.35 per hour; Bonus/Equity: £1.20 per hour for night shifts (midnight-6am); Benefits: 75% Discounted Meal and parking while on shifts, Employee Discounts, Friends and Family Discount App, 50% off all units, 20% of alcohol</td><td>—</td><td>—</td><td><a href="https://careers.foodtravelexperts.com/job/Crumlin-Kitchen-Porter-BT29-4AB/1428432933/">Apply →</a></td><td>3d</td></tr>
-<tr><td>Ssp Group</td><td>Kitchen Assistant - Kissing Gate 🎄</td><td>Liverpool, England, GB +1</td><td>Base: £13.43 per hour; Bonus/Equity: £1.20 per hour for hours worked between midnight and 6 AM; Benefits: Extra tips and service charge, Discounted Meal, Discounted Parking, Employee Discounts, Friends and Family Discount App</td><td>—</td><td>—</td><td><a href="https://careers.foodtravelexperts.com/job/Liverpool-Kitchen-Assistant-Kissing-Gate-L24-1YD/1417640133/">Apply →</a></td><td>3d</td></tr>
+<tr><td>Ssp Group</td><td>Kitchen Assistant - Kissing Gate</td><td>Liverpool, England, GB +1</td><td>Base: £13.43 per hour; Bonus/Equity: £1.20 per hour for hours worked between midnight and 6 AM; Benefits: Extra tips and service charge, Discounted Meal, Discounted Parking, Employee Discounts, Friends and Family Discount App</td><td>—</td><td>—</td><td><a href="https://careers.foodtravelexperts.com/job/Liverpool-Kitchen-Assistant-Kissing-Gate-L24-1YD/1417640133/">Apply →</a></td><td>3d</td></tr>
 <tr><td>Ssp Group</td><td>Kitchen Porter - Dicken's Inn</td><td>London, United Kingdom</td><td>£12.85 per hour; Bonus/Equity: Opportunity to earn extra tips and service charge; Benefits: Discounted meal while on shifts, Employee Discounts, Friends and Family Discount App, Award-winning training, Health &amp; Wellbeing Support</td><td>—</td><td>—</td><td><a href="https://careers.foodtravelexperts.com/job/London-Kitchen-Porter-Dicken&amp;apos;s-Inn-E1W-1UH/1431453033/">Apply →</a></td><td>3d</td></tr>
 <tr><td>Ssp Group</td><td>Kitchen Assistant - Dicken's Inn</td><td>St Katherine Dock, United Kingdom</td><td>Base: £13.43 per hour; Bonus/Equity: Not specified; Benefits: Discounted Meal while on shifts, Employee Discounts, Friends and Family Discount App, Award-winning training, apprenticeships and development programs, Health &amp; Wellbeing Support</td><td>—</td><td>—</td><td><a href="https://careers.foodtravelexperts.com/job/London-Kitchen-Assistant-Dicken&amp;apos;s-Inn-E1W-1UH/1432869433/">Apply →</a></td><td>3d</td></tr>
 <tr><td>Greggs</td><td>Team Member Carmarthan, United Kingdom £12.91 Per Hour, If You Are Under 18 This Will Be £11.03 Per Hour Permanent Apply By 4 October, 2026 Posted On 4 September, 2026 Contract Hours 16</td><td>Carmarthan, United Kingdom</td><td>Base: £12.91 Per Hour (under 18: £11.03 Per Hour); Benefits: Colleague discount, Free hot drinks, Paid breaks, Health and Wellbeing App, Holiday entitlement, Colleague share plans, Pension scheme, Savings and discounts</td><td>—</td><td>—</td><td><a href="https://careerssearch.greggs.co.uk/jobs/job/Team-Member/62230">Apply →</a></td><td>3d</td></tr>
@@ -2260,7 +2270,7 @@ Seasonal roles present in this snapshot; check each advert for its dates.
 ## Legend and scope
 
 - 🌱 The source explicitly says no experience is required.
-- 🎄 The source identifies seasonal work.
+- 🎄 The source feed specifically tags Christmas casual work; it is not independent confirmation that Christmas recruitment is open.
 - Pay, shifts and checks are shown only where available; — means not specified.
 - Casual, part-time and temporary are separate employment labels. This directory does not apply Australian casual-loading rules to UK contracts.
 - Related full-time/hourly roles may appear in website search with their actual type; they do not inflate the base casual count. Explicitly seasonal roles can enter the seasonal tier while retaining their actual employment label.

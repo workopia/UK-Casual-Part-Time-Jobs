@@ -8,6 +8,7 @@ export function validate(data,{allowDraft=false,search=false}={}){
  const ids=new Set();for(const row of data.listings){
   if(!row.id||ids.has(row.id))fail('Missing or duplicate ID');ids.add(row.id);
   if(!row.title||!row.company||!row.location)fail('Missing public job fields');
+  if(row.xmas === true && row.seasonalTag !== 'christmas-casual')fail('Christmas flag requires a Christmas seasonal tag');
   if(!['Casual','Part-time','Contract-Temp'].includes(row.employmentType) && !(row.seasonal && row.tier==='Temp & Seasonal') && !(search && ['hourly-role','thin-bucket','seasonal'].includes(row.recallExpansion)))fail('Job type outside repo scope');
   if(!(search && row.category == null) && !data.categories.some(c=>c.key===row.category))fail('Unknown category');
   if (!allowDraft && data.meta.scope === (search ? 'full-tagged-employer-feed' : 'selected-tagged-employer-feed')) {
