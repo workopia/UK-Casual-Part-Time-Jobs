@@ -8,9 +8,11 @@ export function validate(data,{allowDraft=false,search=false}={}){
  const ids=new Set();for(const row of data.listings){
   if(!row.id||ids.has(row.id))fail('Missing or duplicate ID');ids.add(row.id);
   if(!row.title||!row.company||!row.location)fail('Missing public job fields');
-  if(!['Casual','Part-time','Contract-Temp'].includes(row.employmentType))fail('Job type outside repo scope');
+  if(!['Casual','Part-time','Contract-Temp'].includes(row.employmentType) && !(search && ['hourly-role','thin-bucket'].includes(row.recallExpansion)))fail('Job type outside repo scope');
   if(!(search && row.category == null) && !data.categories.some(c=>c.key===row.category))fail('Unknown category');
-  if (!allowDraft) {
+  if (!allowDraft && data.meta.scope === (search ? 'full-tagged-employer-feed' : 'selected-tagged-employer-feed')) {
+   if(data.meta.tagging_source!=='employmentTypeNorm'||!/^https:\/\//.test(row.sourceUrl||'')||!data.meta.quality?.sourceSha256)fail('Missing tagged-feed provenance');
+  } else if (!allowDraft) {
    if (!/^https:\/\//.test(row.sourceUrl || '') || !Number.isFinite(Date.parse(row.sourceVerifiedAt))) fail('Missing official source verification');
    if (data.meta.scope !== (search ? 'full-source-verified' : 'selected-source-verified') || !data.meta.verification?.sourceSha256) fail('Missing release provenance');
   }

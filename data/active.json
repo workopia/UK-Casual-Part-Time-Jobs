@@ -1,0 +1,4512 @@
+{
+  "asOf": "2026-09-07",
+  "count": 751,
+  "jobs": {
+    "28740": {
+      "id": "28740",
+      "company": "Estée Lauder",
+      "role": "Bobbi Brown Retail Artist 15 Hours Maternity Cover",
+      "location": "Bluewater, United Kingdom"
+    },
+    "51651": {
+      "id": "51651",
+      "company": "Delaware North",
+      "role": "Restaurant Waiter, Pride Park Stadium",
+      "location": "Derby, Derbyshire, United Kingdom"
+    },
+    "51669": {
+      "id": "51669",
+      "company": "Delaware North",
+      "role": "Back Of House Supervisor, London Stadium",
+      "location": "Stratford, London, United Kingdom"
+    },
+    "52633": {
+      "id": "52633",
+      "company": "Delaware North",
+      "role": "Senior Chef, Wembley Stadium",
+      "location": "Wembley, London, United Kingdom"
+    },
+    "53223": {
+      "id": "53223",
+      "company": "Delaware North",
+      "role": "Chef, Pride Park Stadium",
+      "location": "Derby, England, United Kingdom"
+    },
+    "53983": {
+      "id": "53983",
+      "company": "Delaware North",
+      "role": "Kitchen Porter, Stadium Of Light",
+      "location": "Sunderland, Tyne and Wear, United Kingdom"
+    },
+    "572246": {
+      "id": "572246",
+      "company": "Mountain Warehouse",
+      "role": "Sales Assistant",
+      "location": "Leeds, United Kingdom"
+    },
+    "573324": {
+      "id": "573324",
+      "company": "Mountain Warehouse",
+      "role": "Uk Sales Assistant (chain 1)",
+      "location": "Kimberley Way, United Kingdom"
+    },
+    "573453": {
+      "id": "573453",
+      "company": "Mountain Warehouse",
+      "role": "Uk Sales Assistant (chain 5)",
+      "location": "Fort William, United Kingdom"
+    },
+    "573561": {
+      "id": "573561",
+      "company": "Mountain Warehouse",
+      "role": "Uk Sales Assistant (chain 3)",
+      "location": "Oxford, United Kingdom"
+    },
+    "3fb05d3a1235708a983059c5d52d98c7": {
+      "id": "3fb05d3a1235708a983059c5d52d98c7",
+      "company": "Coach (Tapestry, Inc.)",
+      "role": "Sales Associate (40hrs)",
+      "location": "Bicester, United Kingdom"
+    },
+    "57b31ac5b1f51d8b6fab190918482c07": {
+      "id": "57b31ac5b1f51d8b6fab190918482c07",
+      "company": "Asda",
+      "role": "Customer Delivery Driver",
+      "location": "Ashford, United Kingdom"
+    },
+    "f3d15301b93762e7ea822e73245fc1f4": {
+      "id": "f3d15301b93762e7ea822e73245fc1f4",
+      "company": "Greene King",
+      "role": "Housekeeper",
+      "location": "Hitchin, United Kingdom"
+    },
+    "6453529029a9f9bd60e8f8f33ddca3f6": {
+      "id": "6453529029a9f9bd60e8f8f33ddca3f6",
+      "company": "Welcome Break",
+      "role": "Housekeeping Team Member",
+      "location": "Membury, RG17 7TY, United Kingdom"
+    },
+    "c3281bdca5b27c1baee57d8394ebf8a6": {
+      "id": "c3281bdca5b27c1baee57d8394ebf8a6",
+      "company": "Welcome Break",
+      "role": "Barista",
+      "location": "Sedgemoor, Weston-Super-Mare, GB"
+    },
+    "622830458e51089f2a0c47b9c98c2bb7": {
+      "id": "622830458e51089f2a0c47b9c98c2bb7",
+      "company": "Hampshire County Council",
+      "role": "Equipment Delivery Driver",
+      "location": "Basingstoke, Hampshire, United Kingdom"
+    },
+    "b87eebd07f533f50a7bae51b5d28d340": {
+      "id": "b87eebd07f533f50a7bae51b5d28d340",
+      "company": "newjob",
+      "role": "Care Assistant (older Adults)",
+      "location": "Malmesbury Lawn, Havant, United Kingdom"
+    },
+    "d000eea4f0ac6a59731fff8c3d3c02d3": {
+      "id": "d000eea4f0ac6a59731fff8c3d3c02d3",
+      "company": "newjob",
+      "role": "Secure Childrens Home Support Worker (weekends)",
+      "location": "Southampton, Hampshire, United Kingdom"
+    },
+    "346ee024a9280983690331bca10078a2": {
+      "id": "346ee024a9280983690331bca10078a2",
+      "company": "Sanctuary Housing Association",
+      "role": "Care Assistant",
+      "location": "Liverpool, GB"
+    },
+    "ef902cc42ff329523c9965d036abaaf1": {
+      "id": "ef902cc42ff329523c9965d036abaaf1",
+      "company": "Greene King",
+      "role": "Team Leader",
+      "location": "Chandlers Ford, United Kingdom"
+    },
+    "cf4e3814ee1c9b7fdf2c8cc02a02d75a": {
+      "id": "cf4e3814ee1c9b7fdf2c8cc02a02d75a",
+      "company": "Travelex",
+      "role": "Retail Sales Assistant",
+      "location": "Mansfield, United Kingdom"
+    },
+    "1691c61cd96b9d0e90e5bc0222bef5e5": {
+      "id": "1691c61cd96b9d0e90e5bc0222bef5e5",
+      "company": "Primark",
+      "role": "Retail Assistant",
+      "location": "Milton Keynes, United Kingdom"
+    },
+    "079f3b5b497081da04d7f36da99621ae": {
+      "id": "079f3b5b497081da04d7f36da99621ae",
+      "company": "The TJX Companies, Inc",
+      "role": "Retail Associate",
+      "location": "Croydon, United Kingdom"
+    },
+    "ffe843f02bd95f7f8655b733e9e616f0": {
+      "id": "ffe843f02bd95f7f8655b733e9e616f0",
+      "company": "Iceland Foods",
+      "role": "Home Delivery Driver",
+      "location": "Andover, United Kingdom"
+    },
+    "86e7239159df94d6a1455502a62502be": {
+      "id": "86e7239159df94d6a1455502a62502be",
+      "company": "Iceland Foods",
+      "role": "Retail Assistant",
+      "location": "Sunderland, United Kingdom"
+    },
+    "7ed5e26353d0d575bc84fee1583d7755": {
+      "id": "7ed5e26353d0d575bc84fee1583d7755",
+      "company": "Footasylum PLC",
+      "role": "Sales Assistant",
+      "location": "Manchester, United Kingdom"
+    },
+    "145379b6a774009a4a0bd7906bbec6b5": {
+      "id": "145379b6a774009a4a0bd7906bbec6b5",
+      "company": "Greene King",
+      "role": "Kitchen Assistant",
+      "location": "Bargeddie, United Kingdom"
+    },
+    "24a194e49ed25d10d02511590ef7aba7": {
+      "id": "24a194e49ed25d10d02511590ef7aba7",
+      "company": "Nando's",
+      "role": "Front Of House Nandoca",
+      "location": "Woolwich, United Kingdom"
+    },
+    "2b067bb6efd7a106d37f32992110d1d0": {
+      "id": "2b067bb6efd7a106d37f32992110d1d0",
+      "company": "Nando's",
+      "role": "Back Of House Nandoca",
+      "location": "Lakeside, United Kingdom"
+    },
+    "f42d3549a492de10080ae67bc94e186a": {
+      "id": "f42d3549a492de10080ae67bc94e186a",
+      "company": "Tommy Hilfiger",
+      "role": "Part Time Sales Associate, Tommy Hilfiger - Street (clarks Village) Outlet",
+      "location": "Street, United Kingdom"
+    },
+    "15e885ab9ec5a237858193951cdfd1f2": {
+      "id": "15e885ab9ec5a237858193951cdfd1f2",
+      "company": "Greene King",
+      "role": "Kitchen Team Leader",
+      "location": "Little Thornton, United Kingdom"
+    },
+    "320da0199b8ade24abb40032fd388233": {
+      "id": "320da0199b8ade24abb40032fd388233",
+      "company": "Iceland Foods",
+      "role": "Cleaner",
+      "location": "Rutherglen, , United Kingdom"
+    },
+    "26bd139bf5eaf362cb6fa3c743068372": {
+      "id": "26bd139bf5eaf362cb6fa3c743068372",
+      "company": "GXO Logistics",
+      "role": "Warehouse Systems Planner (15-month Ftc)",
+      "location": "Ipswich, England, United Kingdom"
+    },
+    "36c850f994499dc50acdf9bd09c4c5c6": {
+      "id": "36c850f994499dc50acdf9bd09c4c5c6",
+      "company": "Greene King",
+      "role": "Chef",
+      "location": "Corbridge, United Kingdom"
+    },
+    "711abc47a82285d33347d60cdf97ab0e": {
+      "id": "711abc47a82285d33347d60cdf97ab0e",
+      "company": "LEGO Group",
+      "role": "Sales Associate",
+      "location": "Stratford, London, United Kingdom"
+    },
+    "5d7867b3b1cf5359877ea35a5134ec6a": {
+      "id": "5d7867b3b1cf5359877ea35a5134ec6a",
+      "company": "Decathlon S.A",
+      "role": "20h Part-time Hiking Sport Advisor (sales Assistant)",
+      "location": "London, GB"
+    },
+    "a762f34040ca73ded0043d7d3751b404": {
+      "id": "a762f34040ca73ded0043d7d3751b404",
+      "company": "H&M",
+      "role": "Sales Advisor - Eastleigh (part-time)",
+      "location": "Eastleigh, United Kingdom"
+    },
+    "d3d8a87f0bf1fb8810edb83e86dee226": {
+      "id": "d3d8a87f0bf1fb8810edb83e86dee226",
+      "company": "Avery Healthcare Group",
+      "role": "Care Assistant - Nights Southbourne Beach Care Home, 42 Belle Vue Road. Bournemouth, Dorset, United Kingdom £13.30 Per Hour Part Time Apply By 25 September, 2026 Posted On 4 September, 2026",
+      "location": "Bournemouth, Dorset, United Kingdom"
+    },
+    "f24030aa6a4fe018368340b7aa08e720": {
+      "id": "f24030aa6a4fe018368340b7aa08e720",
+      "company": "TK Maxx",
+      "role": "Retail Associate",
+      "location": "Douglas, United Kingdom"
+    },
+    "9b9170290b91e6e277ae060bba1433c6": {
+      "id": "9b9170290b91e6e277ae060bba1433c6",
+      "company": "Lidl",
+      "role": "Customer Assistant",
+      "location": "Northfleet, United Kingdom"
+    },
+    "5273d059205ac0494dc3fc97485298a3": {
+      "id": "5273d059205ac0494dc3fc97485298a3",
+      "company": "Parcelforce Worldwide",
+      "role": "Warehouse Sorter",
+      "location": "Manchester, United Kingdom"
+    },
+    "baff80e305fc25b28040c14b1598d0e5": {
+      "id": "baff80e305fc25b28040c14b1598d0e5",
+      "company": "Sofitel Melbourne On Collins",
+      "role": "Kitchen Team Member",
+      "location": "Hayes, United Kingdom"
+    },
+    "8f36598e8a1a52044d2b6df74da1b66a": {
+      "id": "8f36598e8a1a52044d2b6df74da1b66a",
+      "company": "Diaverum Sweden AB",
+      "role": "Healthcare Assistant Nottingham (part-time)",
+      "location": "Nottingham, GB"
+    },
+    "3ed7f6781449993a60b78afb1640a020": {
+      "id": "3ed7f6781449993a60b78afb1640a020",
+      "company": "HUGO BOSS AG",
+      "role": "Sales Associate (part Time - 8 Hours) - Gateshead Newcastle (metrocentre)",
+      "location": "Gateshead, United Kingdom"
+    },
+    "238ef3eb969517835e4b9ef655996d5f": {
+      "id": "238ef3eb969517835e4b9ef655996d5f",
+      "company": "HUGO BOSS AG",
+      "role": "Sales Associate (part Time - 16 Hours) - Manchester Trafford Centre",
+      "location": "Manchester, United Kingdom"
+    },
+    "5b1a0109eaec436dba1e4b602599d51d": {
+      "id": "5b1a0109eaec436dba1e4b602599d51d",
+      "company": "HUGO BOSS AG",
+      "role": "Sales Associate (part Time - 16 And 24 Hour) - Livingston Designer Outlet",
+      "location": "Livingston, United Kingdom"
+    },
+    "6740fea87b36e5a849fa9eedddf14ca5": {
+      "id": "6740fea87b36e5a849fa9eedddf14ca5",
+      "company": "HUGO BOSS AG",
+      "role": "Sales Associate - Cotswolds (part Time - 16 Hours)",
+      "location": "Cotswolds, United Kingdom"
+    },
+    "72dd5cf0fcf024a39cab95f08d16403f": {
+      "id": "72dd5cf0fcf024a39cab95f08d16403f",
+      "company": "HUGO BOSS AG",
+      "role": "Sales Associate (part Time - 16 Hours) - Reading (oracle)",
+      "location": "Reading, United Kingdom"
+    },
+    "888dc335607cc0c4a764bde200c924d9": {
+      "id": "888dc335607cc0c4a764bde200c924d9",
+      "company": "TK Maxx",
+      "role": "Temporary Peak Retail Associate 8 Hour Per Week Contract",
+      "location": "Preston, United Kingdom"
+    },
+    "aec2b0d48ee6683ceae0d5522c3d1510": {
+      "id": "aec2b0d48ee6683ceae0d5522c3d1510",
+      "company": "UNIQLO UK",
+      "role": "Temporary Sales Assistant - Uniqlo Manchester",
+      "location": "Manchester, United Kingdom"
+    },
+    "c1c70bc6d995bf93a7dc4d92db19cd99": {
+      "id": "c1c70bc6d995bf93a7dc4d92db19cd99",
+      "company": "UNIQLO UK",
+      "role": "Temporary Sales Assistant - Uniqlo Watford",
+      "location": "Watford, United Kingdom"
+    },
+    "38eb3486faedc4c8744f7229e8e79cbd": {
+      "id": "38eb3486faedc4c8744f7229e8e79cbd",
+      "company": "Evri",
+      "role": "Bulk Driver",
+      "location": "Norwich, United Kingdom"
+    },
+    "ee9d11967b7563fb663f59580e66a9c5": {
+      "id": "ee9d11967b7563fb663f59580e66a9c5",
+      "company": "Evri",
+      "role": "Hgv Class 2 Day Driver",
+      "location": "Gatwick, United Kingdom"
+    },
+    "b0d1888a63f903a2f3f28f0abdfa8475": {
+      "id": "b0d1888a63f903a2f3f28f0abdfa8475",
+      "company": "Radfield Home Care",
+      "role": "Care Assistant (full Time)- Bromley, Orpington &amp; Beckenham",
+      "location": "Bromley, London, GB; Orpington, London, GB; Beckenham, London, GB"
+    },
+    "08be256a4e4f46c596525da7d36b8cb3": {
+      "id": "08be256a4e4f46c596525da7d36b8cb3",
+      "company": "McDonald's UK",
+      "role": "Crew Member Huyton Hey Road Part Time Hours",
+      "location": "Huyton Hey Road, Merseyside, GB"
+    },
+    "bc53e1aaa10d9e71bd17489c74c55311": {
+      "id": "bc53e1aaa10d9e71bd17489c74c55311",
+      "company": "McDonald's UK",
+      "role": "Crew Member",
+      "location": "Hampshire, United Kingdom"
+    },
+    "2750ef5514de805f53c41667cb026066": {
+      "id": "2750ef5514de805f53c41667cb026066",
+      "company": "Amey Ltd",
+      "role": "Part Time Cleaner",
+      "location": "Warrington, Cheshire, GB"
+    },
+    "fa946d1f3af50be994be2ea7655a3794": {
+      "id": "fa946d1f3af50be994be2ea7655a3794",
+      "company": "Amey Ltd",
+      "role": "Caretaker / Janitor",
+      "location": "Northampton, England, United Kingdom"
+    },
+    "a672ed2f0d66429b68b67f39b31b9969": {
+      "id": "a672ed2f0d66429b68b67f39b31b9969",
+      "company": "Amey Ltd",
+      "role": "Cleaner/housekeeper",
+      "location": "Lockerbie, United Kingdom"
+    },
+    "1cbd977eb8dbd6cd8583db771ec84435": {
+      "id": "1cbd977eb8dbd6cd8583db771ec84435",
+      "company": "Sofitel Melbourne On Collins",
+      "role": "F&b Team Member / Bartender",
+      "location": "Brentford, United Kingdom"
+    },
+    "a656bd49f0fe1d3d79ed2bcf3d8e22d6": {
+      "id": "a656bd49f0fe1d3d79ed2bcf3d8e22d6",
+      "company": "SSP Group plc",
+      "role": "Kitchen Assistant - Monty's",
+      "location": "Liverpool, United Kingdom"
+    },
+    "023c2c71ad5da54a77c96ae80b61b698": {
+      "id": "023c2c71ad5da54a77c96ae80b61b698",
+      "company": "SSP Group plc",
+      "role": "Commis Chef",
+      "location": "Stansted, United Kingdom"
+    },
+    "e75ffd7b1dd79e99512b0f73920b0050": {
+      "id": "e75ffd7b1dd79e99512b0f73920b0050",
+      "company": "SSP Group plc",
+      "role": "Barista - Starbucks",
+      "location": "Heathrow Airport, United Kingdom"
+    },
+    "29023879049751e7f8cc31cc2564887d": {
+      "id": "29023879049751e7f8cc31cc2564887d",
+      "company": "Onebacardi",
+      "role": "Global Performance Management Manager - Global Travel Retail",
+      "location": "London, United Kingdom"
+    },
+    "01f50007a9b0f4ee9b62884d0c9bbbc2": {
+      "id": "01f50007a9b0f4ee9b62884d0c9bbbc2",
+      "company": "John Lewis & Waitrose",
+      "role": "Night Replenishment, Supermarket Assistant",
+      "location": "Bury St Edmunds, United Kingdom"
+    },
+    "a71153859f19121f0485902692458722": {
+      "id": "a71153859f19121f0485902692458722",
+      "company": "John Lewis & Waitrose",
+      "role": "Customer Delivery Driver, Supermarket Assistant",
+      "location": "Meanwood, United Kingdom"
+    },
+    "deb442e694565b07533991ef3b3e18d1": {
+      "id": "deb442e694565b07533991ef3b3e18d1",
+      "company": "Cancer Research UK",
+      "role": "Retail Assistant Manager (reading Broad St)",
+      "location": "Reading, United Kingdom"
+    },
+    "5377ecb5525a2b94c97d3e130769fcb3": {
+      "id": "5377ecb5525a2b94c97d3e130769fcb3",
+      "company": "Nando's",
+      "role": "Nandos Team Member",
+      "location": "Dundee, United Kingdom"
+    },
+    "5c215af6c60705fbcd3bd6acea02e8b8": {
+      "id": "5c215af6c60705fbcd3bd6acea02e8b8",
+      "company": "William Wilson",
+      "role": "Warehouse Operative",
+      "location": "Cumbernauld, United Kingdom"
+    },
+    "0a7acee3d4c1877a93b5c408ad9c2833": {
+      "id": "0a7acee3d4c1877a93b5c408ad9c2833",
+      "company": "Ramsay Health Care UK",
+      "role": "Housekeeping Assistant",
+      "location": "Middlesbrough, United Kingdom"
+    },
+    "1efbf7009d2a88247afc05c31285ef57": {
+      "id": "1efbf7009d2a88247afc05c31285ef57",
+      "company": "Ramsay Health Care UK",
+      "role": "Weekend Housekeeping Assistant",
+      "location": "Salisbury, United Kingdom"
+    },
+    "f6744610810dc79a07f72d8c9cb7e884": {
+      "id": "f6744610810dc79a07f72d8c9cb7e884",
+      "company": "Radfield Home Care",
+      "role": "Care Assistant",
+      "location": "Watford, United Kingdom; Borehamwood, United Kingdom"
+    },
+    "97930e6e88934e090f1f822da6f1567f": {
+      "id": "97930e6e88934e090f1f822da6f1567f",
+      "company": "Superdrug",
+      "role": "Retail Assistant Manager Designate",
+      "location": "Norwich, United Kingdom"
+    },
+    "3807733d52f41169130682c4559b5715": {
+      "id": "3807733d52f41169130682c4559b5715",
+      "company": "Radfield Home Care",
+      "role": "Care Assistant - Mornings",
+      "location": "Watford, United Kingdom"
+    },
+    "97dec8f18e56e46715dff90e4d5c648c": {
+      "id": "97dec8f18e56e46715dff90e4d5c648c",
+      "company": "Entain",
+      "role": "Retail Customer Service",
+      "location": "Crowthorne, United Kingdom"
+    },
+    "8e485306d3589062b824b88b870ad506": {
+      "id": "8e485306d3589062b824b88b870ad506",
+      "company": "Novotel London Greenwich",
+      "role": "Kitchen Porter",
+      "location": "London, United Kingdom"
+    },
+    "1b82fb631f6b0fdd5d512e1dc945470b": {
+      "id": "1b82fb631f6b0fdd5d512e1dc945470b",
+      "company": "DPD",
+      "role": "Warehouse Operative - Days",
+      "location": "Dagenham, United Kingdom"
+    },
+    "697a5b03910166eae5098f66993250bc": {
+      "id": "697a5b03910166eae5098f66993250bc",
+      "company": "Nuffield Health",
+      "role": "Lifeguard",
+      "location": "Cambridge, United Kingdom"
+    },
+    "74382bdf11a5824dcc2f312089beb5e8": {
+      "id": "74382bdf11a5824dcc2f312089beb5e8",
+      "company": "Coach (Tapestry, Inc.)",
+      "role": "Sales Associate",
+      "location": "Leeds, United Kingdom"
+    },
+    "ea38bfca367499d0da40a43e8127b5d6": {
+      "id": "ea38bfca367499d0da40a43e8127b5d6",
+      "company": "Coach (Tapestry, Inc.)",
+      "role": "Sales Associate 20 Hrs",
+      "location": "Bicester, United Kingdom"
+    },
+    "c0322b97ed4afffe8817ec2607d9ea89": {
+      "id": "c0322b97ed4afffe8817ec2607d9ea89",
+      "company": "Alantra",
+      "role": "Senior Receptionist / Front Of House (maternity Contract)",
+      "location": "London, United Kingdom"
+    },
+    "9c3c71f20aa4692deea400a891b5b3d8": {
+      "id": "9c3c71f20aa4692deea400a891b5b3d8",
+      "company": "BMI Healthcare (Circle)",
+      "role": "Healthcare Assistant - Theatres (bank)",
+      "location": "Sheffield, United Kingdom"
+    },
+    "3b133f1174059f52055e2b8a5a0915bf": {
+      "id": "3b133f1174059f52055e2b8a5a0915bf",
+      "company": "152",
+      "role": "Sales Advisor",
+      "location": "Portsmouth, United Kingdom"
+    },
+    "7311c5d2b20dcc5e1988177a895377c6": {
+      "id": "7311c5d2b20dcc5e1988177a895377c6",
+      "company": "152",
+      "role": "Sales Associate",
+      "location": "Braintree, United Kingdom"
+    },
+    "13b960a480a269bb7a98f329c59437d8": {
+      "id": "13b960a480a269bb7a98f329c59437d8",
+      "company": "Bupa",
+      "role": "Kitchen Assistant",
+      "location": "Portishead, United Kingdom"
+    },
+    "8d07967455bf054446f6aae6e3bb6186": {
+      "id": "8d07967455bf054446f6aae6e3bb6186",
+      "company": "McDonald's UK",
+      "role": "Rothwell Nn14 1ss - Part Time Crew Member",
+      "location": "Rothwell, Northamptonshire, GB"
+    },
+    "624d354442b9a8da53df7af7f5b3dd99": {
+      "id": "624d354442b9a8da53df7af7f5b3dd99",
+      "company": "McDonald's UK",
+      "role": "Luton Parkway - Crew Member - Over 18 Part Time",
+      "location": "Luton, Bedfordshire, GB"
+    },
+    "e0addde1d39f5d237351e91f5035f2e0": {
+      "id": "e0addde1d39f5d237351e91f5035f2e0",
+      "company": "McDonald's UK",
+      "role": "Luton Chaul End Lane - Crew Member - Over 18 Part Time",
+      "location": "Luton, Bedfordshire, GB"
+    },
+    "ccddb9eed97c28353b9b17f66d7e9535": {
+      "id": "ccddb9eed97c28353b9b17f66d7e9535",
+      "company": "Flannels",
+      "role": "Casual Sales Assistant",
+      "location": "Peterborough, United Kingdom"
+    },
+    "165db9a80a5bbd643c0e3166a0efdb22": {
+      "id": "165db9a80a5bbd643c0e3166a0efdb22",
+      "company": "InPost",
+      "role": "Warehouse Administrator (1 Year Maternity Cover)",
+      "location": "Coventry, GB"
+    },
+    "310e6781f5ccad7862203fd3aade3c68": {
+      "id": "310e6781f5ccad7862203fd3aade3c68",
+      "company": "Sports Direct",
+      "role": "Casual Sales Assistant",
+      "location": "Crawley, United Kingdom"
+    },
+    "87554afbe91a81dd14f3163e4bdbef5e": {
+      "id": "87554afbe91a81dd14f3163e4bdbef5e",
+      "company": "Sports Direct",
+      "role": "Casual Sales Assistant - Sports Direct",
+      "location": "Exmouth, United Kingdom"
+    },
+    "58e1cd99e08df8ee6b651fe85ace1e87": {
+      "id": "58e1cd99e08df8ee6b651fe85ace1e87",
+      "company": "Maison Alaïa",
+      "role": "Barista (part Time - 20hours Per Week)",
+      "location": "London, United Kingdom"
+    },
+    "9d836cf34d2122cc8c13d2ebea1c4baa": {
+      "id": "9d836cf34d2122cc8c13d2ebea1c4baa",
+      "company": "Deckers",
+      "role": "Part Time Sales Associate - 8 Hrs",
+      "location": "Portsmouth, United Kingdom"
+    },
+    "e9656a8e177a67f3923d2945c93231ed": {
+      "id": "e9656a8e177a67f3923d2945c93231ed",
+      "company": "Sports Direct",
+      "role": "General Assistant / Cleaner",
+      "location": "Tunstall, United Kingdom"
+    },
+    "41c60774d13680a8c8f39c37d1d2f7f8": {
+      "id": "41c60774d13680a8c8f39c37d1d2f7f8",
+      "company": "McDonald's UK",
+      "role": "Crew Member Part Time Flexible Contract",
+      "location": "Alexandria, United Kingdom"
+    },
+    "6bed439f70c2fdc67815106cb2ffd4c2": {
+      "id": "6bed439f70c2fdc67815106cb2ffd4c2",
+      "company": "Superdrug",
+      "role": "Sales Assistant",
+      "location": "Stockport, United Kingdom"
+    },
+    "bad86042edd077b5a767f73fd9b377e6": {
+      "id": "bad86042edd077b5a767f73fd9b377e6",
+      "company": "Cencora",
+      "role": "Associate Operator, Warehouse Operations",
+      "location": "Chessington, United Kingdom"
+    },
+    "3c3756f45a6e1732d7f19b4926badb72": {
+      "id": "3c3756f45a6e1732d7f19b4926badb72",
+      "company": "Warburtons Ltd",
+      "role": "Kitchen Assistant",
+      "location": "Bristol, England, United Kingdom"
+    },
+    "b0a4bed61e9cd9a6857c2b3a143da7e2": {
+      "id": "b0a4bed61e9cd9a6857c2b3a143da7e2",
+      "company": "Warburtons Ltd",
+      "role": "Distribution Coordinator",
+      "location": "Bellshill, Scotland"
+    },
+    "2e477b06d5d4dc8bb191f13e95f25d6a": {
+      "id": "2e477b06d5d4dc8bb191f13e95f25d6a",
+      "company": "Yankee Candle",
+      "role": "Sales Associate",
+      "location": "Brent Cross, London, United Kingdom"
+    },
+    "f4c9d2639d75e618e5737722af7ec394": {
+      "id": "f4c9d2639d75e618e5737722af7ec394",
+      "company": "Dmgmedia",
+      "role": "Chief Information Security Officer (ciso)",
+      "location": "London, United Kingdom"
+    },
+    "4b5bec70032fb435ed69a96e6e38fd4f": {
+      "id": "4b5bec70032fb435ed69a96e6e38fd4f",
+      "company": "NARS",
+      "role": "Nars Retail Artist - John Lewis Southampton (30 Hours)",
+      "location": "Southampton, United Kingdom"
+    },
+    "911fafd603fec6e735949e9786f0f173": {
+      "id": "911fafd603fec6e735949e9786f0f173",
+      "company": "SHISEIDO CO.,LTD",
+      "role": "Nars Retail Artist - Selfridges, Exchange Square Manchester (15 Hours)",
+      "location": "Manchester, England, United Kingdom"
+    },
+    "f2da41fcee1cec706fe4b518430213ee": {
+      "id": "f2da41fcee1cec706fe4b518430213ee",
+      "company": "SHISEIDO CO.,LTD",
+      "role": "Nars Retail Artist Selfridges Manchester Exchange Square (15 Hours, 2 Days Per Week)",
+      "location": "Manchester, England, United Kingdom"
+    },
+    "56a88a51b3987c6719919ca57ce15edb": {
+      "id": "56a88a51b3987c6719919ca57ce15edb",
+      "company": "SHISEIDO CO.,LTD",
+      "role": "Nars Retail Artist - Harrods (22.5 Hours)",
+      "location": "London, , United Kingdom"
+    },
+    "3e70de8675f48e800f1467684e30e908": {
+      "id": "3e70de8675f48e800f1467684e30e908",
+      "company": "Sports Direct",
+      "role": "Sous Chef",
+      "location": "Worksop, United Kingdom"
+    },
+    "712e360d88f90bba0c252414ba12197b": {
+      "id": "712e360d88f90bba0c252414ba12197b",
+      "company": "Screwfix",
+      "role": "Retail Assistant Ftc",
+      "location": "Newtownabbey, United Kingdom"
+    },
+    "85f6e17bd1d444b0ca78dbd12aeb828a": {
+      "id": "85f6e17bd1d444b0ca78dbd12aeb828a",
+      "company": "Fred Perry Ltd",
+      "role": "Sales Assistant",
+      "location": "Livingston, United Kingdom"
+    },
+    "11427684b8cb69a55affe763711211cc": {
+      "id": "11427684b8cb69a55affe763711211cc",
+      "company": "DPD",
+      "role": "Warehouse Operative - Nights",
+      "location": "Hinckley, United Kingdom"
+    },
+    "6bd4cab21e9570a9b82067fa10a1dcda": {
+      "id": "6bd4cab21e9570a9b82067fa10a1dcda",
+      "company": "Primark",
+      "role": "Retail Assistant - Night Shift",
+      "location": "Newcastle Metro, United Kingdom"
+    },
+    "d19a1b044419efb7842cf1887fea5a62": {
+      "id": "d19a1b044419efb7842cf1887fea5a62",
+      "company": "Sofitel Melbourne On Collins",
+      "role": "Golf Shop Assistant",
+      "location": "Washington, United Kingdom"
+    },
+    "90eeb9adb7e2f6ca7bc5577140307589": {
+      "id": "90eeb9adb7e2f6ca7bc5577140307589",
+      "company": "Stmonicatrust",
+      "role": "Domiciliary Care Assistant",
+      "location": "Sandford Station, United Kingdom"
+    },
+    "7052e1550a148828f667e13e1ab6e932": {
+      "id": "7052e1550a148828f667e13e1ab6e932",
+      "company": "Belstaff International Ltd",
+      "role": "Sales Associate - Temporary Positions",
+      "location": "Swindon, GB"
+    },
+    "d795aeaa1da28a420d99c53e53bd77c5": {
+      "id": "d795aeaa1da28a420d99c53e53bd77c5",
+      "company": "Entain",
+      "role": "Retail Cleaner",
+      "location": "London, United Kingdom"
+    },
+    "e97b2245564f5594335c6e24fc9c97f4": {
+      "id": "e97b2245564f5594335c6e24fc9c97f4",
+      "company": "JYSK",
+      "role": "Warehouse Worker/sales Assistant - Doncaster- 24 Hour Contract Fully Flexible Monday-sunday",
+      "location": "Doncaster, United Kingdom"
+    },
+    "970ebf9d45831521529ce1e51159bad3": {
+      "id": "970ebf9d45831521529ce1e51159bad3",
+      "company": "Securitas Critical Infrastructure Services",
+      "role": "Alton, Front Of House And Security, Brand Ambassador (stars)",
+      "location": "Alton, United Kingdom"
+    },
+    "28c66757629e12e82817b991763b0c98": {
+      "id": "28c66757629e12e82817b991763b0c98",
+      "company": "Superdrug",
+      "role": "Retail Supervisor",
+      "location": "Cardiff, United Kingdom"
+    },
+    "799ca340b665f662a80d00160c2c4091": {
+      "id": "799ca340b665f662a80d00160c2c4091",
+      "company": "Burness Paull",
+      "role": "Front Of House | Facilities",
+      "location": "Edinburgh, United Kingdom"
+    },
+    "5c731662d19bf8d9fc6c5c4cc1a3ae5e": {
+      "id": "5c731662d19bf8d9fc6c5c4cc1a3ae5e",
+      "company": "Nike",
+      "role": "Retail Assistant (athlete) 30hrs - Kingston",
+      "location": "Kingston, United Kingdom"
+    },
+    "424f7bc062c63652c1e1618b4a2b418b": {
+      "id": "424f7bc062c63652c1e1618b4a2b418b",
+      "company": "Koninklijke BAM Groep NV",
+      "role": "Catering Assistant",
+      "location": "North Bromsgrove, United Kingdom"
+    },
+    "908691716debca1dd7e0d09304b3016b": {
+      "id": "908691716debca1dd7e0d09304b3016b",
+      "company": "Avery Healthcare Group",
+      "role": "Housekeeping Assistant Scholars Mews Care Home, 23-34 Scholars Lane , Stratford-upon-avon, United Kingdom £12.72 Per Hour Part Time Apply By 24 September, 2026 Posted On 3 September, 2026",
+      "location": "Stratford-upon-Avon, United Kingdom"
+    },
+    "9d77bb784ba8d88e0d0682a3fd0d026e": {
+      "id": "9d77bb784ba8d88e0d0682a3fd0d026e",
+      "company": "Greggs",
+      "role": "Team Member 162 Bath Road Reading, United Kingdom £12.91 Per Hour, If You Are Under 18 This Will Be £11.03 Per Hour Permanent Apply By 3 October, 2026 Posted On 3 September, 2026 Contract Hours 12",
+      "location": "Reading, United Kingdom"
+    },
+    "002996301724a6de4ca46cd92ca4022c": {
+      "id": "002996301724a6de4ca46cd92ca4022c",
+      "company": "VANS",
+      "role": "Sales Associate (part-time 10hr)",
+      "location": "Wembley, London, United Kingdom"
+    },
+    "20f15227789b034b26d7e2145b7fef02": {
+      "id": "20f15227789b034b26d7e2145b7fef02",
+      "company": "Nestle Ltd",
+      "role": "Festive Sales Assistant - Stratford",
+      "location": "Stratford, United Kingdom"
+    },
+    "ffc42048781e22f5a70d798f55adc982": {
+      "id": "ffc42048781e22f5a70d798f55adc982",
+      "company": "Nestle Ltd",
+      "role": "Retail Supervisor - Newcastle Fenwick",
+      "location": "Newcastle Upon Tyne, United Kingdom"
+    },
+    "ee1fb20dc86c8aafedab6e6d2117f8d4": {
+      "id": "ee1fb20dc86c8aafedab6e6d2117f8d4",
+      "company": "Nestle Ltd",
+      "role": "Retail Sales Assistant - Leeds - Part Time",
+      "location": "Leeds, United Kingdom"
+    },
+    "35123c2c515911cf1baea44bb2c5e45d": {
+      "id": "35123c2c515911cf1baea44bb2c5e45d",
+      "company": "Anthropologie",
+      "role": "Anthropologie Sales Associate - Cheltenham, Uk",
+      "location": "Cheltenham, United Kingdom"
+    },
+    "0f5bf83384fcd810c8544422d6015c67": {
+      "id": "0f5bf83384fcd810c8544422d6015c67",
+      "company": "Ssp Group",
+      "role": "Barista - Starbucks",
+      "location": "Leeds, United Kingdom"
+    },
+    "46194b3cadb1bc91653d1c60f30c300d": {
+      "id": "46194b3cadb1bc91653d1c60f30c300d",
+      "company": "Ssp Group",
+      "role": "Kitchen Porter",
+      "location": "Belfast, United Kingdom"
+    },
+    "91e531ce25e6dcc036fc897a5f6869ae": {
+      "id": "91e531ce25e6dcc036fc897a5f6869ae",
+      "company": "Ssp Group",
+      "role": "Kitchen Assistant - Kissing Gate",
+      "location": "Liverpool, England, GB"
+    },
+    "a2eff5b54bd1ccaac2a592970b4261df": {
+      "id": "a2eff5b54bd1ccaac2a592970b4261df",
+      "company": "Ssp Group",
+      "role": "Kitchen Porter - Dicken's Inn",
+      "location": "London, United Kingdom"
+    },
+    "a6a4d001b5a7d46e9c18003111b9a7f6": {
+      "id": "a6a4d001b5a7d46e9c18003111b9a7f6",
+      "company": "Ssp Group",
+      "role": "Kitchen Assistant - Dicken's Inn",
+      "location": "St Katherine Dock, United Kingdom"
+    },
+    "ad02d42edb2aa32c7d5142c8a08cc3a7": {
+      "id": "ad02d42edb2aa32c7d5142c8a08cc3a7",
+      "company": "NAPA Auto Parts UK & Ireland",
+      "role": "Driver",
+      "location": "South Shields, United Kingdom"
+    },
+    "0499fbead2573a37d05cfb4f53767e74": {
+      "id": "0499fbead2573a37d05cfb4f53767e74",
+      "company": "DFS",
+      "role": "Retail Sales Advisor - 20 Hours Cambridge, United Kingdom £12.71 Per Hour With An Ote Of £24,000 Part Time Apply By 31 October, 2026 Posted On 4 September, 2026",
+      "location": "Cambridge, United Kingdom"
+    },
+    "145d4972fd9707c1759619e93e62b6a3": {
+      "id": "145d4972fd9707c1759619e93e62b6a3",
+      "company": "Affinity Trust",
+      "role": "Female Support Worker (waking Nights) - Stowmarket Great Finborough, United Kingdom £13 - £13 Part Time Apply By 4 October, 2026 Posted On 4 September, 2026",
+      "location": "Great Finborough, United Kingdom"
+    },
+    "19ec3b3c70dcf226bd41d38f36bdd82b": {
+      "id": "19ec3b3c70dcf226bd41d38f36bdd82b",
+      "company": "Lincolnshire County Council",
+      "role": "Support Worker Lincoln, United Kingdom £26, 846 - £28,153 Permanent Apply By 20 September, 2026 Posted On 4 September, 2026",
+      "location": "Lincoln, United Kingdom"
+    },
+    "1e0fb7e0287588952ba9712f885e1ad1": {
+      "id": "1e0fb7e0287588952ba9712f885e1ad1",
+      "company": "Agincare Group",
+      "role": "Bank Housekeeper Hayling Island, United Kingdom (incl. Northern Ireland) £12.72 Part Time Apply By 4 October, 2026",
+      "location": "Hayling Island, United Kingdom"
+    },
+    "2548a7d87328f581b32395b1a96cc11f": {
+      "id": "2548a7d87328f581b32395b1a96cc11f",
+      "company": "Carlisle Support Services",
+      "role": "Relief Retail Security Officer Rhyl, United Kingdom £14.65 - £14.65 Part Time Apply By 4 October, 2026 Posted On 4 September, 2026",
+      "location": "Rhyl, United Kingdom"
+    },
+    "37f4ce63a4b24a8f4125075c966e7150": {
+      "id": "37f4ce63a4b24a8f4125075c966e7150",
+      "company": "Agincare Group",
+      "role": "Night Care Assistant - Bank Sheffield, United Kingdom (incl. Northern Ireland) £12.76 Full Time Apply By 4 October, 2026",
+      "location": "Sheffield, Yorkshire, United Kingdom"
+    },
+    "3b3484c56b4e599ff601e9513f84eb9d": {
+      "id": "3b3484c56b4e599ff601e9513f84eb9d",
+      "company": "Affinity Trust",
+      "role": "Support Worker - Wolverhampton Wolverhampton, United Kingdom £12.80- £12.80 Part Time Apply By 4 October, 2026 Posted On 4 September, 2026",
+      "location": "Wolverhampton, United Kingdom"
+    },
+    "4253861582d7cfcd1edc4e40c3d7f765": {
+      "id": "4253861582d7cfcd1edc4e40c3d7f765",
+      "company": "Beaverbrooks",
+      "role": "Sales Assistant Telford, United Kingdom £13.18 Per Hour; Ote 1st Year £17,124.21 Permanent – Part-time Apply By No Expiry Date",
+      "location": "Telford, United Kingdom"
+    },
+    "454fafe9c6afbe07a28ae0ea03d37d1c": {
+      "id": "454fafe9c6afbe07a28ae0ea03d37d1c",
+      "company": "Greggs",
+      "role": "Team Member Carmarthan, United Kingdom £12.91 Per Hour, If You Are Under 18 This Will Be £11.03 Per Hour Permanent Apply By 4 October, 2026 Posted On 4 September, 2026 Contract Hours 16",
+      "location": "Carmarthan, United Kingdom"
+    },
+    "5017170ac6df127355c52da67b59279d": {
+      "id": "5017170ac6df127355c52da67b59279d",
+      "company": "DFS",
+      "role": "Retail Sales Advisor - 30 Hours Shrewsbury, United Kingdom £12.71 Per Hour With An Ote Of £30,000 Part Time Apply By 31 October, 2026 Posted On 4 September, 2026",
+      "location": "Shrewsbury, United Kingdom"
+    },
+    "5d5db066e4b5a4bb53679a577a138ace": {
+      "id": "5d5db066e4b5a4bb53679a577a138ace",
+      "company": "DFS",
+      "role": "Retail Sales Advisor - 20 Hours Ipswich, United Kingdom £12.71 Per Hour With An Ote Of £24,000 Part Time Apply By 31 October, 2026 Posted On 4 September, 2026",
+      "location": "Ipswich, United Kingdom"
+    },
+    "5f1b43cf56bf413f3574b966dfcd1e26": {
+      "id": "5f1b43cf56bf413f3574b966dfcd1e26",
+      "company": "DFS",
+      "role": "Retail Sales Advisor - 20 Hours Bolton, United Kingdom £12.71 Per Hour With An Ote Of £22,000 Part Time Apply By 31 October, 2026 Posted On 4 September, 2026",
+      "location": "Bolton, United Kingdom"
+    },
+    "8ee698bdeba28a11aa69417a57e90ba0": {
+      "id": "8ee698bdeba28a11aa69417a57e90ba0",
+      "company": "Agincare Group",
+      "role": "Bank Care Assistant Weymouth, United Kingdom (incl. Northern Ireland) £12.85 Part Time Apply By 4 October, 2026",
+      "location": "Weymouth, United Kingdom"
+    },
+    "98db00a0ab41ca151a4b89d2542d3c11": {
+      "id": "98db00a0ab41ca151a4b89d2542d3c11",
+      "company": "Carlisle Support Services",
+      "role": "Cleaner Bicester , United Kingdom M-f 2-5pm 15 Hours Part Time Apply By 4 October, 2026 Posted On 4 September, 2026",
+      "location": "Bicester, United Kingdom"
+    },
+    "9bee8aa71e7ef9f7d0abf05b1a01ebb8": {
+      "id": "9bee8aa71e7ef9f7d0abf05b1a01ebb8",
+      "company": "Beaverbrooks",
+      "role": "Sales Assistant Telford, United Kingdom £13.18 Per Hour; Ote 1st Year £22,832.28 Permanent – Part-time Apply By No Expiry Date",
+      "location": "Telford, United Kingdom"
+    },
+    "ab39810693c5d956389fc788e8a7ec41": {
+      "id": "ab39810693c5d956389fc788e8a7ec41",
+      "company": "Northumberland County Council",
+      "role": "Community Hub Support Assistant (catering) Newbiggin Sports & Community Hub, United Kingdom £10,713 - £10,883 Fixed Term Apply By 18 September, 2026 Posted On 4 September, 2026",
+      "location": "Newbiggin, United Kingdom"
+    },
+    "b2413353256e2bb7db6e43cbc98b8c79": {
+      "id": "b2413353256e2bb7db6e43cbc98b8c79",
+      "company": "Carlisle Support Services",
+      "role": "Cleaner Bicester , United Kingdom Bicester North M-f Mornings. 15 Hours Part Time Apply By 4 October, 2026 Posted On 4 September, 2026",
+      "location": "Bicester, United Kingdom"
+    },
+    "bf8227893d35e0c8986f873af2dacc6d": {
+      "id": "bf8227893d35e0c8986f873af2dacc6d",
+      "company": "DFS",
+      "role": "Retail Sales Advisor - 20 Hours Bury St Edmunds, United Kingdom £12.71 Per Hour With An Ote Of £25,000 Part Time Apply By 31 October, 2026 Posted On 4 September, 2026",
+      "location": "Bury St Edmunds, United Kingdom"
+    },
+    "bfcb9e17a9b40fbd9a2c5a60bde7716a": {
+      "id": "bfcb9e17a9b40fbd9a2c5a60bde7716a",
+      "company": "Alzheimer's Society",
+      "role": "Community Support Worker",
+      "location": "Cardiff, United Kingdom; Vale of Glamorgan, United Kingdom"
+    },
+    "c2d3908e813ed6eef40fb78e402ef3b4": {
+      "id": "c2d3908e813ed6eef40fb78e402ef3b4",
+      "company": "GLL",
+      "role": "Nursery/child & Family Practitioner - Gll Kidbrooke And Eltham, United Kingdom £14.80 Sessional Apply By 30 November, 2026 Posted On 4 September, 2026",
+      "location": "Kidbrooke, United Kingdom; Eltham, United Kingdom"
+    },
+    "c36d90a89735b2eb564526db86e74300": {
+      "id": "c36d90a89735b2eb564526db86e74300",
+      "company": "Affinity Trust",
+      "role": "Male Support Worker - Loughborough (le11) Loughborough, United Kingdom £12.80 - £12.80 Part Time Apply By 4 October, 2026 Posted On 4 September, 2026",
+      "location": "Loughborough, United Kingdom"
+    },
+    "c7c826c3b4a2cbc108156c384ba75f6a": {
+      "id": "c7c826c3b4a2cbc108156c384ba75f6a",
+      "company": "Carlisle Support Services",
+      "role": "Depot Cleaner Banbury , United Kingdom 13.45 Part Time Apply By 4 October, 2026 Posted On 4 September, 2026",
+      "location": "Banbury, United Kingdom"
+    },
+    "ec118c1a508100a087af4e68f416136d": {
+      "id": "ec118c1a508100a087af4e68f416136d",
+      "company": "Carlisle Support Services",
+      "role": "Security Officer For Ascot Racecourse Reading, Slough £13.45 Part Time Apply By 4 October, 2026 Posted On 4 September, 2026",
+      "location": "Reading, Slough, GB"
+    },
+    "f78ebb67c4f7803439f47e039f44af3f": {
+      "id": "f78ebb67c4f7803439f47e039f44af3f",
+      "company": "DFS",
+      "role": "Retail Sales Advisor - 30 Hours Fixed Term For 9-12 Months Bury St Edmunds, United Kingdom £12.71 Per Hour With An Ote Of £30,000 Fixed Term Apply By 31 October, 2026 Posted On 4 September, 2026",
+      "location": "Bury St Edmunds, United Kingdom"
+    },
+    "a7d7bde5a5ff3b9c6c26330330542b83": {
+      "id": "a7d7bde5a5ff3b9c6c26330330542b83",
+      "company": "M&m's Store London",
+      "role": "Seasonal Retail Associate (ftc) - M&m's Store London",
+      "location": "London, United Kingdom"
+    },
+    "c47a2d192ad3bf1563b435566020a475": {
+      "id": "c47a2d192ad3bf1563b435566020a475",
+      "company": "Lidl",
+      "role": "Cleaner",
+      "location": "Motherwell, United Kingdom"
+    },
+    "8f0858b73fa32472e4b12266fa373300": {
+      "id": "8f0858b73fa32472e4b12266fa373300",
+      "company": "DHL UK",
+      "role": "Warehouse Operative-part Time",
+      "location": "Coventry, United Kingdom"
+    },
+    "1fc22e9bafc1393416f78250d5c89a18": {
+      "id": "1fc22e9bafc1393416f78250d5c89a18",
+      "company": "Mango",
+      "role": "Multifunctional Sales Associate (8hours, Fix Term, Craigavon)",
+      "location": "Craigavon, United Kingdom"
+    },
+    "1341402732c9adecbac2a1d73ce1f219": {
+      "id": "1341402732c9adecbac2a1d73ce1f219",
+      "company": "Greene King",
+      "role": "Foh - Team Leader",
+      "location": "Elmesthorpe, United Kingdom"
+    },
+    "0b88b2f6068a957e42ade20e01aa40e9": {
+      "id": "0b88b2f6068a957e42ade20e01aa40e9",
+      "company": "Bupa UK",
+      "role": "Senior Domiciliary Care Assistant",
+      "location": "Bedworth, United Kingdom"
+    },
+    "1b2e380a264722a603eb123549fca007": {
+      "id": "1b2e380a264722a603eb123549fca007",
+      "company": "Bupa UK",
+      "role": "Care Assistant - Bank",
+      "location": "Southall, United Kingdom"
+    },
+    "3918b2764596001675bed42702fbe2cf": {
+      "id": "3918b2764596001675bed42702fbe2cf",
+      "company": "Bupa UK",
+      "role": "Housekeeping Assistant - Bank",
+      "location": "Southall, United Kingdom"
+    },
+    "1de054bc9df6e86d58936c224ccb1891": {
+      "id": "1de054bc9df6e86d58936c224ccb1891",
+      "company": "Skechers",
+      "role": "Part-time Sales Associate, Canterbury",
+      "location": "Canterbury, United Kingdom"
+    },
+    "f855e3b61344eb6394470148ddb8a01b": {
+      "id": "f855e3b61344eb6394470148ddb8a01b",
+      "company": "Skechers",
+      "role": "Sales Associate - Birmingham Fort",
+      "location": "Birmingham, United Kingdom"
+    },
+    "c56d964c9566562d82d00c453e8e07f9": {
+      "id": "c56d964c9566562d82d00c453e8e07f9",
+      "company": "newjob",
+      "role": "Children's Homes Support Worker",
+      "location": "Romsey, United Kingdom"
+    },
+    "2f461169d8203770e17122ec2878a753": {
+      "id": "2f461169d8203770e17122ec2878a753",
+      "company": "newjob",
+      "role": "Day Opportunities Support Worker (hcc Care Ya)",
+      "location": "Gosport, United Kingdom"
+    },
+    "35d7d264b9a844d8c855e4ffdce2ba2c": {
+      "id": "35d7d264b9a844d8c855e4ffdce2ba2c",
+      "company": "Hampshire County Council",
+      "role": "Chef",
+      "location": "Hampshire, United Kingdom"
+    },
+    "d6ee518cb811ba039ecf6ec94f4e4d2d": {
+      "id": "d6ee518cb811ba039ecf6ec94f4e4d2d",
+      "company": "newjob",
+      "role": "Catering Assistant (older Adults)",
+      "location": "Winchester, GB"
+    },
+    "7fe108b76216a0b47b385258fcac5e39": {
+      "id": "7fe108b76216a0b47b385258fcac5e39",
+      "company": "Sanctuary Housing Association",
+      "role": "Chef",
+      "location": "Paignton, Devon, GB"
+    },
+    "c7bf6012c838a85e02a5a40f0e04ea4c": {
+      "id": "c7bf6012c838a85e02a5a40f0e04ea4c",
+      "company": "Sanctuary Housing Association",
+      "role": "Cook",
+      "location": "Ely, Cambridgeshire, GB"
+    },
+    "59e23b4952289e74897e52425ebf8d61": {
+      "id": "59e23b4952289e74897e52425ebf8d61",
+      "company": "Sanctuary Housing Association",
+      "role": "Catering Assistant",
+      "location": "Congleton, United Kingdom"
+    },
+    "991fe7a1cde4c70c36087f93a1c364e5": {
+      "id": "991fe7a1cde4c70c36087f93a1c364e5",
+      "company": "Sanctuary Housing Association",
+      "role": "Housekeeping Assistant",
+      "location": "Romford, United Kingdom"
+    },
+    "adae68cf27ecdbf4e95f6983ceacb0b4": {
+      "id": "adae68cf27ecdbf4e95f6983ceacb0b4",
+      "company": "Sanctuary Housing Association",
+      "role": "Assistant Chef",
+      "location": "Plymouth, United Kingdom"
+    },
+    "0d7eba07189b5de50f5c0dd0a5627453": {
+      "id": "0d7eba07189b5de50f5c0dd0a5627453",
+      "company": "Sanctuary Housing Association",
+      "role": "Cleaning Technician - Part Time",
+      "location": "Telford, United Kingdom"
+    },
+    "a212c04723fd3cb4ff56d5500fee2771": {
+      "id": "a212c04723fd3cb4ff56d5500fee2771",
+      "company": "Sanctuary Housing Association",
+      "role": "Housekeeping Supervisor",
+      "location": "Ilford, United Kingdom"
+    },
+    "a442306b331015fe775b974ca6b69830": {
+      "id": "a442306b331015fe775b974ca6b69830",
+      "company": "Sanctuary Housing Association",
+      "role": "Cleaning General Assistant",
+      "location": "Rye, GB"
+    },
+    "be6dff74b7e4e9114f1ffeb18714dee6": {
+      "id": "be6dff74b7e4e9114f1ffeb18714dee6",
+      "company": "Sanctuary Housing Association",
+      "role": "General Assistant Cleaning",
+      "location": "Helsby, United Kingdom"
+    },
+    "ec7dc06ac2344a1d1266100947a30850": {
+      "id": "ec7dc06ac2344a1d1266100947a30850",
+      "company": "Superdrug",
+      "role": "E Store Sales Assistant",
+      "location": "Coventry, United Kingdom"
+    },
+    "d0ebd0dc20dc1898c4941bd86c2b9df3": {
+      "id": "d0ebd0dc20dc1898c4941bd86c2b9df3",
+      "company": "Superdrug",
+      "role": "E Store Retail Supervisor",
+      "location": "Tamworth, United Kingdom"
+    },
+    "b4eda220de9cdbe7ef39c80c6971a009": {
+      "id": "b4eda220de9cdbe7ef39c80c6971a009",
+      "company": "Lidl",
+      "role": "Customer Assistant (night Shift)",
+      "location": "Southampton, GB"
+    },
+    "1bfff1d4585728fea7b46c6dd1e6cfe9": {
+      "id": "1bfff1d4585728fea7b46c6dd1e6cfe9",
+      "company": "Royal Mail",
+      "role": "Postal Delivery Driver (postie)",
+      "location": "Paignton, GB"
+    },
+    "131b3a9e2ced08c5497f8e5b5447fe1b": {
+      "id": "131b3a9e2ced08c5497f8e5b5447fe1b",
+      "company": "Aramark UK",
+      "role": "Efc Casual Commis Chef",
+      "location": "Liverpool, GB"
+    },
+    "c1b9539053cb2f45afb4c1f703ca958f": {
+      "id": "c1b9539053cb2f45afb4c1f703ca958f",
+      "company": "Aramark UK",
+      "role": "Efc Casual Chef De Partie",
+      "location": "Liverpool, GB"
+    },
+    "c73a8e1ec8b0ffda5348cbbfae003d0c": {
+      "id": "c73a8e1ec8b0ffda5348cbbfae003d0c",
+      "company": "Aramark UK",
+      "role": "General Retail Assistant",
+      "location": "Northallerton, GB"
+    },
+    "f12b894979f99840280c99f7756e0fe5": {
+      "id": "f12b894979f99840280c99f7756e0fe5",
+      "company": "Aramark UK",
+      "role": "Efc Casual Head Chef",
+      "location": "Liverpool, GB"
+    },
+    "19e9784869ba4a9b899bb040d745241e": {
+      "id": "19e9784869ba4a9b899bb040d745241e",
+      "company": "Aramark UK",
+      "role": "Kitchen Porter",
+      "location": "Poole, GB"
+    },
+    "99e183ba2eefe61b281b87bba07fb8e3": {
+      "id": "99e183ba2eefe61b281b87bba07fb8e3",
+      "company": "Aramark UK",
+      "role": "Chef Manager",
+      "location": "Bury St Edmunds, SFK, GB"
+    },
+    "f723a8141fba48b1ca9f0144b2eeac1c": {
+      "id": "f723a8141fba48b1ca9f0144b2eeac1c",
+      "company": "PPG Industries",
+      "role": "Sales Assistant - Part Time",
+      "location": "Newtown, United Kingdom"
+    },
+    "490aa3bfabd3e0fb97aeeb1098965209": {
+      "id": "490aa3bfabd3e0fb97aeeb1098965209",
+      "company": "atis",
+      "role": "Cleaner",
+      "location": "London, United Kingdom"
+    },
+    "9ca8167205dfd7a34fd87eb6924d3a42": {
+      "id": "9ca8167205dfd7a34fd87eb6924d3a42",
+      "company": "The Works Stores Ltd",
+      "role": "Retail Sales Assistant - Keyholder",
+      "location": "Telford, England, United Kingdom"
+    },
+    "1657bad5aa952dc1fbfab2ce9f152c9c": {
+      "id": "1657bad5aa952dc1fbfab2ce9f152c9c",
+      "company": "The Works Stores Ltd",
+      "role": "Retail Sales Assistant - Temporary Contract",
+      "location": "Minehead, United Kingdom"
+    },
+    "fa0be696970ef2463638ec285212da9c": {
+      "id": "fa0be696970ef2463638ec285212da9c",
+      "company": "Greene King",
+      "role": "Cleaner",
+      "location": "Newcastle-Upon-Tyne, Tyne and Wear, United Kingdom"
+    },
+    "a8bdb78db4750fa780993f8d25da1df3": {
+      "id": "a8bdb78db4750fa780993f8d25da1df3",
+      "company": "ibis Styles London Gatwick Airport",
+      "role": "Chef / Cook",
+      "location": "Crawley, United Kingdom"
+    },
+    "6f72f829c7276bfe77041822480f7bfe": {
+      "id": "6f72f829c7276bfe77041822480f7bfe",
+      "company": "Sofitel Melbourne On Collins",
+      "role": "Kitchen Porter",
+      "location": "Birmingham, United Kingdom"
+    },
+    "3d287badb937c578f77641080f67a922": {
+      "id": "3d287badb937c578f77641080f67a922",
+      "company": "Sofitel Melbourne On Collins",
+      "role": "Commis Chef",
+      "location": "Birmingham, United Kingdom"
+    },
+    "2ddbdd313d36fae51c11174a3a1b7830": {
+      "id": "2ddbdd313d36fae51c11174a3a1b7830",
+      "company": "Securitas Critical Infrastructure Services",
+      "role": "Relief, Front Of House & Security Brand Ambassador, Stars",
+      "location": "Milton Keynes, United Kingdom"
+    },
+    "ae58c6cca86ae431f400fb1fe63ca394": {
+      "id": "ae58c6cca86ae431f400fb1fe63ca394",
+      "company": "Avery Healthcare Group",
+      "role": "Housekeeping Assistant Avery Park Care Home, 231 Rockingham Road, Kettering, United Kingdom £12.72 Per Hour Part Time Apply By 23 September, 2026 Posted On 2 September, 2026",
+      "location": "Kettering, United Kingdom"
+    },
+    "c0e9e914d5ca0c66ce7edea87bddf1d0": {
+      "id": "c0e9e914d5ca0c66ce7edea87bddf1d0",
+      "company": "Avery Healthcare Group",
+      "role": "Kitchen Assistant Southbourne Beach Care Home, 42 Belle Vue Road. Bournemouth, Dorset, United Kingdom £12.75 Per Hour Part Time Apply By 23 September, 2026 Posted On 2 September, 2026",
+      "location": "Bournemouth, Dorset, United Kingdom"
+    },
+    "3915a630535b60737712c1676f94afd7": {
+      "id": "3915a630535b60737712c1676f94afd7",
+      "company": "Avery Healthcare Group",
+      "role": "Care Assistant - Nights Hempstalls Hall Care Home, Hempstalls Lane, Newcastle Under Lyme, United Kingdom £12.75 Per Hour Part Time Apply By 23 September, 2026 Posted On 2 September, 2026",
+      "location": "Newcastle Under Lyme, United Kingdom"
+    },
+    "4539867689f8759954b889e51d6f0084": {
+      "id": "4539867689f8759954b889e51d6f0084",
+      "company": "Cleveland Clinic London",
+      "role": "Bank Housekeeping Cleaning Supervisor",
+      "location": "London, United Kingdom"
+    },
+    "c1131aeb7845f7c1b670da4443a77ea2": {
+      "id": "c1131aeb7845f7c1b670da4443a77ea2",
+      "company": "Cleveland Clinic London",
+      "role": "Bank Hospital Cleaner",
+      "location": "Central London, United Kingdom"
+    },
+    "08169a2c35a806d954720086d8015e9a": {
+      "id": "08169a2c35a806d954720086d8015e9a",
+      "company": "Ralliant",
+      "role": "Packer / General Operative",
+      "location": "Belfast, United Kingdom"
+    },
+    "08867d2562f597fc93e41ff483eee83c": {
+      "id": "08867d2562f597fc93e41ff483eee83c",
+      "company": "Pinnacle Group",
+      "role": "Office Cleaner Nether Poppleton, United Kingdom £12.71 - £12.71 Permanent Apply By 25 September, 2026 Posted On 3 September, 2026",
+      "location": "Nether Poppleton, United Kingdom"
+    },
+    "1584b323b20798ed0bc23c9b22b22a34": {
+      "id": "1584b323b20798ed0bc23c9b22b22a34",
+      "company": "Avante Care & Support",
+      "role": "Community Home Care Assistant - Faversham - Day Or Evenings Shifts Faversham, United Kingdom £13.70 - £15 Part Time Apply By 3 October, 2026 Posted On 3 September, 2026",
+      "location": "Faversham, United Kingdom"
+    },
+    "1ef16004444befc848b94f10a09387be": {
+      "id": "1ef16004444befc848b94f10a09387be",
+      "company": "Sheraton Grand Hotel & Spa Edinburgh",
+      "role": "30 Hour F&b Server - Sheraton Grand Hotel & Spa Edinburgh",
+      "location": "Edinburgh, United Kingdom"
+    },
+    "221b1d6d713bcbd052a3f2699ca8ea02": {
+      "id": "221b1d6d713bcbd052a3f2699ca8ea02",
+      "company": "Aspens Services Ltd",
+      "role": "Catering Assistant Bristol, United Kingdom £12.71 Per Hour Part Time Apply By 3 October, 2026 Posted On 3 September, 2026",
+      "location": "Bristol, United Kingdom"
+    },
+    "23248678bb149b0e29ebb654f29f6937": {
+      "id": "23248678bb149b0e29ebb654f29f6937",
+      "company": "Beaverbrooks",
+      "role": "Dispatch Picking & Packing Assistant - Part Time Lytham St Annes, United Kingdom £12.71 Per Hour Temporary – Part-time Apply By 18 September, 2026",
+      "location": "Lytham St Annes, United Kingdom"
+    },
+    "2f40150df0cd64867445f6cb338400aa": {
+      "id": "2f40150df0cd64867445f6cb338400aa",
+      "company": "Beaverbrooks",
+      "role": "Sales Assistant Merry Hill, United Kingdom £13.37 Per Hour Temporary – Full-time Apply By No Expiry Date",
+      "location": "Merry Hill, United Kingdom"
+    },
+    "3593f99dca4565499635513dee9ec8c9": {
+      "id": "3593f99dca4565499635513dee9ec8c9",
+      "company": "Agincare Group",
+      "role": "Bank Support Worker Bromley, United Kingdom (incl. Northern Ireland) £13.00 Part Time Apply By 3 October, 2026",
+      "location": "Bromley, United Kingdom"
+    },
+    "35b9d854eeffcbc010d1597b52f275e5": {
+      "id": "35b9d854eeffcbc010d1597b52f275e5",
+      "company": "NEXT",
+      "role": "Short-term Temporary Team Member - Londonderry Retail Park (n126904)",
+      "location": "Londonderry, United Kingdom"
+    },
+    "3963a66d338ba4e0738ae6011ed64b45": {
+      "id": "3963a66d338ba4e0738ae6011ed64b45",
+      "company": "Greggs",
+      "role": "Team Member Lynchgate Road Canley, United Kingdom £12.91 Per Hour, If You Are Under 18 This Will Be £11.03 Per Hour Permanent Apply By 3 October, 2026 Posted On 3 September, 2026 Contract Hours 4-20",
+      "location": "Canley, United Kingdom"
+    },
+    "42cea78392ca01d85e70fbb5e0ccc1af": {
+      "id": "42cea78392ca01d85e70fbb5e0ccc1af",
+      "company": "NEXT",
+      "role": "Assistant Merchandiser - The Set",
+      "location": "Market Harborough, United Kingdom"
+    },
+    "436e213c1a3d6611a98cb78883be884f": {
+      "id": "436e213c1a3d6611a98cb78883be884f",
+      "company": "Spire Healthcare",
+      "role": "Bank Healthcare Assistant",
+      "location": "Harrogate, United Kingdom"
+    },
+    "43da5d3cce786cf5aabed06fa1e81452": {
+      "id": "43da5d3cce786cf5aabed06fa1e81452",
+      "company": "Beaverbrooks",
+      "role": "Replenishment Assistant - Part Time Lytham St Annes, United Kingdom £12.71 Per Hour Temporary – Part-time Apply By 18 September, 2026",
+      "location": "Lytham St Annes, United Kingdom"
+    },
+    "4a8bb8718ef9141f529ba93ba7352ec0": {
+      "id": "4a8bb8718ef9141f529ba93ba7352ec0",
+      "company": "Sheraton Grand Hotel & Spa Edinburgh",
+      "role": "20 Hour F&b Server - Sheraton Grand Hotel & Spa Edinburgh",
+      "location": "Edinburgh, United Kingdom"
+    },
+    "583fe5cb6b7c8d7ec5f7f6c9d94a7f39": {
+      "id": "583fe5cb6b7c8d7ec5f7f6c9d94a7f39",
+      "company": "Aspens Services Ltd",
+      "role": "Catering Assistant & Barista Reading, United Kingdom £12.71 Per Hour Part Time Apply By 3 October, 2026 Posted On 3 September, 2026",
+      "location": "Reading, United Kingdom"
+    },
+    "6622b29fda5a09e5bbd77222ea3a88dc": {
+      "id": "6622b29fda5a09e5bbd77222ea3a88dc",
+      "company": "Childbase Partnership",
+      "role": "Nursery Team Leader Reading, United Kingdom £33,150.20-£36,836.80 Per Annum (pro-rata) | £15.94-£17.71 Per Hour. Full Time, Fixed Term Apply By No Expiry Date Posted On 3 September, 2026",
+      "location": "Reading, United Kingdom"
+    },
+    "775e814e489c83b42d85def61739ffc4": {
+      "id": "775e814e489c83b42d85def61739ffc4",
+      "company": "sdrcare.co.uk",
+      "role": "Care Assistant Zero Hours (nights) | Elderly Care | Petersfield, Hampshire",
+      "location": "Petersfield, United Kingdom"
+    },
+    "92d5207c0a54cc1c442e439dfe739aa3": {
+      "id": "92d5207c0a54cc1c442e439dfe739aa3",
+      "company": "Aspens Services Ltd",
+      "role": "Catering Assistant Lutterworth, United Kingdom £12.71 Per Hour Fixed Term Apply By 3 October, 2026 Posted On 3 September, 2026",
+      "location": "Lutterworth, United Kingdom"
+    },
+    "a1b9b177f669a1f26dde60429200cd4f": {
+      "id": "a1b9b177f669a1f26dde60429200cd4f",
+      "company": "Childbase Partnership",
+      "role": "Relief Nursery Practitioner Barnet, United Kingdom £14.11-£14.80 Per Hour. Relief/seasonal, Permanent Apply By No Expiry Date Posted On 3 September, 2026",
+      "location": "Barnet, United Kingdom"
+    },
+    "c2f64b288491835c55de527e9811c1ee": {
+      "id": "c2f64b288491835c55de527e9811c1ee",
+      "company": "Greggs",
+      "role": "Team Member 430 Richmond Road Ham, United Kingdom £12.91 Per Hour, If You Are Under 18 This Will Be £11.03 Per Hour Permanent Apply By 3 October, 2026 Posted On 3 September, 2026 Contract Hours 8",
+      "location": "Ham, United Kingdom"
+    },
+    "d53970c2d5621afdb512b2252accbfb7": {
+      "id": "d53970c2d5621afdb512b2252accbfb7",
+      "company": "dorsetcouncil",
+      "role": "Teaching Assistant At Conifers Primary School",
+      "location": "Conifers Primary School, United Kingdom"
+    },
+    "e613d1991f708f515b7aca012e43fcf8": {
+      "id": "e613d1991f708f515b7aca012e43fcf8",
+      "company": "Sheraton Grand Hotel & Spa Edinburgh",
+      "role": "16 Hour F&b Server - Sheraton Grand Hotel & Spa Edinburgh",
+      "location": "Edinburgh, United Kingdom"
+    },
+    "f3658d560a1110e3d11f6764c0b33635": {
+      "id": "f3658d560a1110e3d11f6764c0b33635",
+      "company": "Childbase Partnership",
+      "role": "Qualified Relief Nursery Practitioner St Albans, United Kingdom £12.93-£14.33 Per Hour. Relief/seasonal, Permanent Apply By No Expiry Date Posted On 3 September, 2026",
+      "location": "St Albans, United Kingdom"
+    },
+    "f74f6d328bbbfe221524c9763368edcc": {
+      "id": "f74f6d328bbbfe221524c9763368edcc",
+      "company": "Ingeus - F & M",
+      "role": "Casual Cleaner - Ealing, London. Ingeus - F & M",
+      "location": "Ealing, London, GB"
+    },
+    "fd9d7d9702769439a0f334392707108c": {
+      "id": "fd9d7d9702769439a0f334392707108c",
+      "company": "Aspens Services Ltd",
+      "role": "Catering Assistant Bath , United Kingdom £12.71 Per Hour Part Time Apply By 3 October, 2026 Posted On 3 September, 2026",
+      "location": "Bath, United Kingdom"
+    },
+    "2a245f3582ba80b7c37dd40b4946a996": {
+      "id": "2a245f3582ba80b7c37dd40b4946a996",
+      "company": "Welcome Break",
+      "role": "Chef Team Member",
+      "location": "Edgware, United Kingdom"
+    },
+    "2fad4487948c6bf59b2900282c81c0ef": {
+      "id": "2fad4487948c6bf59b2900282c81c0ef",
+      "company": "Welcome Break",
+      "role": "Starbucks Barista - Nights",
+      "location": "Corley, United Kingdom"
+    },
+    "2ecb74d211ce13fc3cf6099167e24c80": {
+      "id": "2ecb74d211ce13fc3cf6099167e24c80",
+      "company": "Lowes Companies Inc",
+      "role": "Warehouse Part Time Days",
+      "location": "Yukon, OK, United Kingdom"
+    },
+    "d49d04f68498ae5fe7e94af5bf4422aa": {
+      "id": "d49d04f68498ae5fe7e94af5bf4422aa",
+      "company": "Lowes Companies Inc",
+      "role": "Warehouse Part Time Overnight",
+      "location": "Milwaukie, United Kingdom"
+    },
+    "04e21e0000df63ee5304ad3c0be44167": {
+      "id": "04e21e0000df63ee5304ad3c0be44167",
+      "company": "UNIQLO UK",
+      "role": "Temporary Sales Assistant - Uniqlo Wandsworth",
+      "location": "London, United Kingdom"
+    },
+    "396d36b3469070a18234ca55584f570d": {
+      "id": "396d36b3469070a18234ca55584f570d",
+      "company": "UNIQLO UK",
+      "role": "Temporary Sales Assistant - Uniqlo 170 Oxford Street",
+      "location": "London, United Kingdom"
+    },
+    "3fc329551e04cd821d8a02992b75db5b": {
+      "id": "3fc329551e04cd821d8a02992b75db5b",
+      "company": "UNIQLO UK",
+      "role": "Temporary Sales Assistant - Uniqlo Oxford Westgate",
+      "location": "Oxford, United Kingdom"
+    },
+    "2fc53a9d2292e7bc00a743487e60590b": {
+      "id": "2fc53a9d2292e7bc00a743487e60590b",
+      "company": "Evri",
+      "role": "Warehouse Operative - Pro Days",
+      "location": "Belfast, United Kingdom"
+    },
+    "433409908d4d6c8c4cff5ea381711681": {
+      "id": "433409908d4d6c8c4cff5ea381711681",
+      "company": "Harrods",
+      "role": "Private Shopping Waiter - Part Time - 12 Month Fixed Term Contract",
+      "location": "Knightsbridge, United Kingdom"
+    },
+    "d15a44bc56bfaa3b47224b62328d3b51": {
+      "id": "d15a44bc56bfaa3b47224b62328d3b51",
+      "company": "Waitrose & Partners",
+      "role": "Night Replenishment, Supermarket Assistant, Various East London Branches (london East)",
+      "location": "Greenwich, United Kingdom; St Katherine's Dock, United Kingdom"
+    },
+    "f4de8ec6d2e5e511b128745512654fa2": {
+      "id": "f4de8ec6d2e5e511b128745512654fa2",
+      "company": "Cancer Research UK",
+      "role": "Retail Shop Assistant (stokesley)",
+      "location": "Stokesley, United Kingdom"
+    },
+    "a2e368f53c29ff9397a13011de36cd91": {
+      "id": "a2e368f53c29ff9397a13011de36cd91",
+      "company": "Nando's",
+      "role": "Team Member",
+      "location": "Soho, United Kingdom"
+    },
+    "867b1dda8c5caee4bb2c0b34dc5f83f5": {
+      "id": "867b1dda8c5caee4bb2c0b34dc5f83f5",
+      "company": "Ramsay Health Care UK",
+      "role": "Bank Housekeeper",
+      "location": "Salford, United Kingdom"
+    },
+    "1373333005db3a5af7d21a5d503617de": {
+      "id": "1373333005db3a5af7d21a5d503617de",
+      "company": "Nuffield Health",
+      "role": "Front Of House Team Member",
+      "location": "Barbican, United Kingdom"
+    },
+    "515268486d7b26213318f97e2a191195": {
+      "id": "515268486d7b26213318f97e2a191195",
+      "company": "Nuffield Health",
+      "role": "Front Of House Team Member (bank)",
+      "location": "Guildford, United Kingdom"
+    },
+    "823337bf4d5b558bf0655599d8286529": {
+      "id": "823337bf4d5b558bf0655599d8286529",
+      "company": "Nuffield Health",
+      "role": "Lifeguard (bank)",
+      "location": "Oxford, United Kingdom"
+    },
+    "9c6f24fd7782c9ffa1bff98b1e397cd9": {
+      "id": "9c6f24fd7782c9ffa1bff98b1e397cd9",
+      "company": "Nuffield Health",
+      "role": "Nursery Assistant Lunch Cover",
+      "location": "Gloucester, United Kingdom"
+    },
+    "496287a24a35a12c7aaa863238030092": {
+      "id": "496287a24a35a12c7aaa863238030092",
+      "company": "BMI Healthcare (Circle)",
+      "role": "Housekeeper (bank)",
+      "location": "Birmingham, United Kingdom"
+    },
+    "58f2dd2fc2b5c0107848009b0a5c1cfd": {
+      "id": "58f2dd2fc2b5c0107848009b0a5c1cfd",
+      "company": "BMI Healthcare (Circle)",
+      "role": "Healthcare Assistant - Wards (bank)",
+      "location": "Bolton, United Kingdom"
+    },
+    "811527905af68ea753d0dde6ef332a24": {
+      "id": "811527905af68ea753d0dde6ef332a24",
+      "company": "McDonald's UK",
+      "role": "Crew Member Full Time Flexible Contract",
+      "location": "Alexandria, United Kingdom"
+    },
+    "e329b9a9797ea6bb1349433205a168e1": {
+      "id": "e329b9a9797ea6bb1349433205a168e1",
+      "company": "SANTANDER CONSUMER BANK S.p.A",
+      "role": "Customer Experience Advisor | S1 | Retail Banking | Southall Branch",
+      "location": "Southall, United Kingdom"
+    },
+    "368245deb8401a38d1d1c5884904f20e": {
+      "id": "368245deb8401a38d1d1c5884904f20e",
+      "company": "Marriott International",
+      "role": "Hotel Cleanliness Expert - Housekeeping Room Attendant (casual)",
+      "location": "London, United Kingdom"
+    },
+    "fbbd8a76196a782f63a6bbf7768d9c18": {
+      "id": "fbbd8a76196a782f63a6bbf7768d9c18",
+      "company": "Courtyard By Marriott Aberdeen Airport",
+      "role": "Commis Chef - Courtyard By Marriott Aberdeen Airport - Fixed-term Contract (ftc)",
+      "location": "Aberdeen, Scotland, GB"
+    },
+    "3ecf7d0046ade7ed6d313a5ba04c1ff0": {
+      "id": "3ecf7d0046ade7ed6d313a5ba04c1ff0",
+      "company": "Primark",
+      "role": "Visual Merchandiser",
+      "location": "Chester, United Kingdom"
+    },
+    "1c2dd05ca7bcbae4745694debce5308d": {
+      "id": "1c2dd05ca7bcbae4745694debce5308d",
+      "company": "Securitas Critical Infrastructure Services",
+      "role": "Casual Mobile Security Officer",
+      "location": "Edinburgh, United Kingdom"
+    },
+    "f83f1573f33c116c92cba9053234a518": {
+      "id": "f83f1573f33c116c92cba9053234a518",
+      "company": "DHL UK",
+      "role": "Warehouse Coordinator",
+      "location": "Scunthorpe, United Kingdom"
+    },
+    "43d81c78973f9a085a932edd441c9e0b": {
+      "id": "43d81c78973f9a085a932edd441c9e0b",
+      "company": "Cencora",
+      "role": "Warehouse Operative (30hrs)",
+      "location": "Coatbridge, United Kingdom"
+    },
+    "961733720d2fff985c228b6c9b68f2ab": {
+      "id": "961733720d2fff985c228b6c9b68f2ab",
+      "company": "Alloga UK",
+      "role": "Alloga Hgv Driver Fri/sat",
+      "location": "South Normanton, United Kingdom"
+    },
+    "d5b59a8f80d3ef370361716fff789314": {
+      "id": "d5b59a8f80d3ef370361716fff789314",
+      "company": "Cencora",
+      "role": "Warehouse Operative",
+      "location": "Bradford, United Kingdom"
+    },
+    "17199cd3443176cee1843650c7b31588": {
+      "id": "17199cd3443176cee1843650c7b31588",
+      "company": "Primark",
+      "role": "Retail Assistant - Weekend Only",
+      "location": "Chester, United Kingdom"
+    },
+    "7848c4d5c66dd729027c8a8e0594f35b": {
+      "id": "7848c4d5c66dd729027c8a8e0594f35b",
+      "company": "Lidl",
+      "role": "Warehouse Desk Clerk Goods In (14 Month Temporary Assignment)",
+      "location": "Doncaster, United Kingdom"
+    },
+    "2e837e68cc32ab9036011a7f73f08637": {
+      "id": "2e837e68cc32ab9036011a7f73f08637",
+      "company": "McDonald's UK",
+      "role": "Crewe Location (cw1) - Full Time Crew Member - Guaranteed Hours Contract Available",
+      "location": "Crewe, Cheshire, GB"
+    },
+    "targetjobs:674bb9d6-1bad-4ebb-b913-5ccc6096fd84": {
+      "id": "targetjobs:674bb9d6-1bad-4ebb-b913-5ccc6096fd84",
+      "company": "Aldi",
+      "role": "Retail Management Placement",
+      "location": "Chelmsford, United Kingdom; Swindon, United Kingdom; Darlington, United Kingdom; Bolton, United Kingdom; Atherstone, United Kingdom"
+    },
+    "691181baa95ecff8245d2df020d2ae45": {
+      "id": "691181baa95ecff8245d2df020d2ae45",
+      "company": "Manchester Airport Plc",
+      "role": "Hospitality Chef",
+      "location": "Manchester, United Kingdom"
+    },
+    "827b00c3793f71af45fa1bbe29a6745e": {
+      "id": "827b00c3793f71af45fa1bbe29a6745e",
+      "company": "Manchester Airport Plc",
+      "role": "Kitchen Assistant",
+      "location": "Manchester, GB"
+    },
+    "db5b7570d464face649f07030db5d64e": {
+      "id": "db5b7570d464face649f07030db5d64e",
+      "company": "Manchester Airport Plc",
+      "role": "Chef De Partie",
+      "location": "Manchester, United Kingdom"
+    },
+    "ddeee0c702f8b74a180a41f958ddcf78": {
+      "id": "ddeee0c702f8b74a180a41f958ddcf78",
+      "company": "Amey Ltd",
+      "role": "Catering Assistant",
+      "location": "Edinburgh, United Kingdom"
+    },
+    "1d7e6c71cde4d306ed6ebcc9ddb8a8bd": {
+      "id": "1d7e6c71cde4d306ed6ebcc9ddb8a8bd",
+      "company": "SSP Group plc",
+      "role": "Kitchen Assistant - Dicken's Inn",
+      "location": "St Katherine Dock, United Kingdom"
+    },
+    "targetjobs:5d57c69f-478d-4aaf-b328-ed89d10ebffa": {
+      "id": "targetjobs:5d57c69f-478d-4aaf-b328-ed89d10ebffa",
+      "company": "Philosophy Education",
+      "role": "Graduate Teaching Assistant Full Time Placement NEW",
+      "location": "Edgware, United Kingdom"
+    },
+    "targetjobs:a0501405-e4f4-4bdb-8c53-a556e1e44e43": {
+      "id": "targetjobs:a0501405-e4f4-4bdb-8c53-a556e1e44e43",
+      "company": "Philosophy Education",
+      "role": "Maths Graduate Teaching Assistant Full Time Temporary NEW",
+      "location": "Romford, United Kingdom"
+    },
+    "targetjobs:21742c07-ffae-43e8-b5b4-b584f9d8a6de": {
+      "id": "targetjobs:21742c07-ffae-43e8-b5b4-b584f9d8a6de",
+      "company": "Humly",
+      "role": "Cover Supervisor / Unqualified Teacher / Graduate / Sports Coach / Tutor",
+      "location": "Gosport, United Kingdom; Fareham, United Kingdom; Stubbington, United Kingdom; Hedge End, United Kingdom"
+    },
+    "9139331dbb8036a8a9cdfa812e23abb9": {
+      "id": "9139331dbb8036a8a9cdfa812e23abb9",
+      "company": "Northern Healthcare",
+      "role": "Bank - Mental Health Support Worker - Hull",
+      "location": "Hull, United Kingdom"
+    },
+    "1a19be172dc0a728c6c4ec2f77cc25ac": {
+      "id": "1a19be172dc0a728c6c4ec2f77cc25ac",
+      "company": "The Works Stores Ltd",
+      "role": "Retail Sales Assistant",
+      "location": "Skegness, United Kingdom"
+    },
+    "834a0334e7bfcc07b2535067875d5416": {
+      "id": "834a0334e7bfcc07b2535067875d5416",
+      "company": "Aston Martin Lagonda Ltd",
+      "role": "Warehouse Operative",
+      "location": "Milton Keynes, United Kingdom"
+    },
+    "3a96651dfae688da83c1c55220e25350": {
+      "id": "3a96651dfae688da83c1c55220e25350",
+      "company": "Four Seasons Hotel London at Park Lane",
+      "role": "Casual Food & Beverage Server",
+      "location": "London, United Kingdom"
+    },
+    "35a3df9bfbd646c5cd2345968744e179": {
+      "id": "35a3df9bfbd646c5cd2345968744e179",
+      "company": "Four Seasons Hotel London at Tower Bridge",
+      "role": "Casual Banqueting Waiter/waitress",
+      "location": "London, United Kingdom"
+    },
+    "3e3fa7b11d43caa59e3bca0f698631e9": {
+      "id": "3e3fa7b11d43caa59e3bca0f698631e9",
+      "company": "Four Seasons",
+      "role": "Casual Banqueting Bartender",
+      "location": "London, United Kingdom"
+    },
+    "cebcdb5de14b779ab681832006f999c8": {
+      "id": "cebcdb5de14b779ab681832006f999c8",
+      "company": "Four Seasons",
+      "role": "Casual Waiter / Waitress",
+      "location": "London, United Kingdom"
+    },
+    "d8155ef325ad8b119c1f402c9aadb232": {
+      "id": "d8155ef325ad8b119c1f402c9aadb232",
+      "company": "Avery Healthcare Group",
+      "role": "Care Assistant Darwin Court Care Home, Wissage Road, Lichfield, United Kingdom £12.75 Per Hour Part Time Apply By 22 September, 2026 Posted On 1 September, 2026",
+      "location": "Lichfield, United Kingdom"
+    },
+    "b3a40758c1c0521e6dd2ee8bc734b046": {
+      "id": "b3a40758c1c0521e6dd2ee8bc734b046",
+      "company": "Avery Healthcare Group",
+      "role": "Kitchen Assistant - Bank Pemberley House Care Home, Grove Road Basingstoke Hampshire, United Kingdom £12.75 Per Hour Bank Apply By 22 September, 2026 Posted On 1 September, 2026",
+      "location": "Basingstoke, Hampshire, United Kingdom"
+    },
+    "bb7a06a005544ec69f3877382910aeed": {
+      "id": "bb7a06a005544ec69f3877382910aeed",
+      "company": "Avery Healthcare Group",
+      "role": "Kitchen Assistant - Bank Frognal House Care Home, Frognal Avenue, Sidcup, Kent, United Kingdom £12.75 Per Hour Bank Apply By 22 September, 2026 Posted On 1 September, 2026",
+      "location": "Sidcup, United Kingdom"
+    },
+    "0f846c078d3e3711dbfbd10584ddcae4": {
+      "id": "0f846c078d3e3711dbfbd10584ddcae4",
+      "company": "Urban Outfitters",
+      "role": "Urban Outfitters Sales Associate (32hr) - Metrocentre, Gateshead",
+      "location": "Newcastle, United Kingdom"
+    },
+    "272a8d4c0208e04a54e40e8be7fbefd0": {
+      "id": "272a8d4c0208e04a54e40e8be7fbefd0",
+      "company": "TJX Winners HomeSense",
+      "role": "Retail Associate",
+      "location": "Torquay, United Kingdom"
+    },
+    "53aa7520d1c85e2918f4e8425daeaf4b": {
+      "id": "53aa7520d1c85e2918f4e8425daeaf4b",
+      "company": "NAPA Auto Parts - Commercial",
+      "role": "Driver",
+      "location": "Barnstaple, United Kingdom"
+    },
+    "02126ae15d6c54820742166d28da3f49": {
+      "id": "02126ae15d6c54820742166d28da3f49",
+      "company": "Carlisle Support Services",
+      "role": "Event Security Officer Cheltenham , United Kingdom £14.70 Temporary/casual Apply By No Expiry Date Posted On 2 September, 2026",
+      "location": "Cheltenham, United Kingdom"
+    },
+    "037edd76bea2a57c1c08b5939c3b689a": {
+      "id": "037edd76bea2a57c1c08b5939c3b689a",
+      "company": "Intertek",
+      "role": "Qsr Retail Auditor",
+      "location": "Nottinghamshire, United Kingdom"
+    },
+    "0d5b5970f12ae686a8b2f8bfec6a933c": {
+      "id": "0d5b5970f12ae686a8b2f8bfec6a933c",
+      "company": "dorsetcouncil",
+      "role": "Cleaner - Radipole Primary School",
+      "location": "Radipole, United Kingdom"
+    },
+    "2a58f7e66439f5f12fbbe88cffacf022": {
+      "id": "2a58f7e66439f5f12fbbe88cffacf022",
+      "company": "dorsetcouncil",
+      "role": "Teaching Assistant (fixed Term) - Radipole Primary School",
+      "location": "Radipole, United Kingdom"
+    },
+    "3971ad75569b42952e2663e6707d051f": {
+      "id": "3971ad75569b42952e2663e6707d051f",
+      "company": "Eakin Healthcare",
+      "role": "Warehouse Operator (fixed-term)",
+      "location": "Coleraine, United Kingdom"
+    },
+    "3a6e243bdfd90c4da21afec7e6bde54d": {
+      "id": "3a6e243bdfd90c4da21afec7e6bde54d",
+      "company": "NEXT",
+      "role": "Short-term Temporary Team Member - Lincoln Valentine Retail Park (n126770)",
+      "location": "Lincoln, United Kingdom"
+    },
+    "440774bbf005e2eef09cea2dadcb558c": {
+      "id": "440774bbf005e2eef09cea2dadcb558c",
+      "company": "Avante Care & Support",
+      "role": "Cook - Relief - Weybourne, Abbey Wood 1 Finchadale Road London, United Kingdom £12.75 Relief/ Bank/ Casual Apply By 2 October, 2026 Posted On 2 September, 2026",
+      "location": "Weybourne, London, United Kingdom"
+    },
+    "4bc99524b9dc7d7b6dac04f12ad8c5f2": {
+      "id": "4bc99524b9dc7d7b6dac04f12ad8c5f2",
+      "company": "Carlisle Support Services",
+      "role": "Event Steward Cheltenham , United Kingdom £13.45 Temporary/casual Apply By No Expiry Date Posted On 2 September, 2026",
+      "location": "Cheltenham, United Kingdom"
+    },
+    "506cc2db25e4cc2e08df67e077f73a92": {
+      "id": "506cc2db25e4cc2e08df67e077f73a92",
+      "company": "dorsetcouncil",
+      "role": "Teaching Assistant - Bincombe Valley Primary School",
+      "location": "Bincombe, Dorset, GB"
+    },
+    "a7adb13c8d5039ef79947377db463ddb": {
+      "id": "a7adb13c8d5039ef79947377db463ddb",
+      "company": "DFS",
+      "role": "Housekeeper - 20 Hours Cardiff, United Kingdom £13,264 + Company Benefits Fixed Term Apply By 2 October, 2026 Posted On 2 September, 2026",
+      "location": "Cardiff, United Kingdom"
+    },
+    "b16a29667f435cfb2a685c2985a1a1fc": {
+      "id": "b16a29667f435cfb2a685c2985a1a1fc",
+      "company": "Avante Care & Support",
+      "role": "Kitchen Assistant - Relief - Weybourne, Abbey Wood Weybourne, Abbey Wood , United Kingdom £12.75 Relief/ Bank/ Casual Apply By 2 October, 2026 Posted On 2 September, 2026",
+      "location": "Abbey Wood, United Kingdom"
+    },
+    "c02cabe546ef38c7f8b7bdb757acb912": {
+      "id": "c02cabe546ef38c7f8b7bdb757acb912",
+      "company": "Greggs",
+      "role": "Team Member Garrett Road Yeovil, United Kingdom £12.91 Per Hour, If You Are Under 18 This Will Be £11.03 Per Hour Permanent Apply By 2 October, 2026 Posted On 2 September, 2026 Contract Hours 12",
+      "location": "Yeovil, United Kingdom"
+    },
+    "c494ef06aa1834aa4fe6ee00d7f64fff": {
+      "id": "c494ef06aa1834aa4fe6ee00d7f64fff",
+      "company": "Dunelm Careers",
+      "role": "7.5t Delivery Driver - Part Time",
+      "location": "Bristol, United Kingdom"
+    },
+    "caca43d6cdbf16896ffcc42a959100b3": {
+      "id": "caca43d6cdbf16896ffcc42a959100b3",
+      "company": "dorsetcouncil",
+      "role": "Minbus Driver For Oakdale Junior School And Old Town Infant School And Nursery",
+      "location": "Poole, GB"
+    },
+    "f34dfb02e4cea1c27375e1a6639f37f9": {
+      "id": "f34dfb02e4cea1c27375e1a6639f37f9",
+      "company": "Agincare Group",
+      "role": "Care Assistant Witney, United Kingdom (incl. Northern Ireland) Up To £14.50 Part Time Apply By 2 October, 2026",
+      "location": "Witney, United Kingdom"
+    },
+    "2c79ec54c7287a1394b569373a23c877": {
+      "id": "2c79ec54c7287a1394b569373a23c877",
+      "company": "Ssp Group",
+      "role": "Waste & Removal Team Driver",
+      "location": "United Kingdom"
+    },
+    "8d002246933cda89ff4ffcd452f608c1": {
+      "id": "8d002246933cda89ff4ffcd452f608c1",
+      "company": "Ssp Group",
+      "role": "Barista",
+      "location": "Colchester, United Kingdom"
+    },
+    "c40416140dfdafad6f1aebfd88bc21db": {
+      "id": "c40416140dfdafad6f1aebfd88bc21db",
+      "company": "SSP Group plc",
+      "role": "Kitchen Porter - Dicken's Inn",
+      "location": "London, United Kingdom"
+    },
+    "81f6dfd36c83aa0fed1945745add63cd": {
+      "id": "81f6dfd36c83aa0fed1945745add63cd",
+      "company": "adidas AG",
+      "role": "Stockroom Manager (mat Cover, 12 Months) Adidas Carnaby Store, London",
+      "location": "London, United Kingdom"
+    },
+    "3ca01c6f395c4e17ce42e5f9efaf7ab0": {
+      "id": "3ca01c6f395c4e17ce42e5f9efaf7ab0",
+      "company": "adidas AG",
+      "role": "Stockroom Sales Consultant",
+      "location": "London, United Kingdom"
+    },
+    "8a42a2ab8989e59c32170459d2e32a88": {
+      "id": "8a42a2ab8989e59c32170459d2e32a88",
+      "company": "Glanbia PLC",
+      "role": "Sr. Merchandiser Coordinator - Ftc",
+      "location": "London, United Kingdom"
+    },
+    "73d6beeb457946044e5dcd9be2712d7a": {
+      "id": "73d6beeb457946044e5dcd9be2712d7a",
+      "company": "McDonald's UK",
+      "role": "Customer Care Assistant - Bassetts Pole - Sutton - Part Time Fri Sat And Sun 7am - 10pm Shift",
+      "location": "Bassetts Pole, Sutton, United Kingdom"
+    },
+    "0ec6629ebb7e27313d4c50daec3da762": {
+      "id": "0ec6629ebb7e27313d4c50daec3da762",
+      "company": "Morrisons",
+      "role": "Catering Assistant A",
+      "location": "Bradford, United Kingdom"
+    },
+    "4d8bd3701272bf061ac8c1ff581d6ed6": {
+      "id": "4d8bd3701272bf061ac8c1ff581d6ed6",
+      "company": "Sofitel Melbourne On Collins",
+      "role": "Kitchen Assistant (part Time)",
+      "location": "Cambridge, United Kingdom"
+    },
+    "8905fbf2671d5cf77edc49b57661f862": {
+      "id": "8905fbf2671d5cf77edc49b57661f862",
+      "company": "Evri",
+      "role": "Drivers - Cat C Driver Twilights",
+      "location": "Sheffield, United Kingdom"
+    },
+    "8df2d97f52dad7195ea5150f4ffcf6e2": {
+      "id": "8df2d97f52dad7195ea5150f4ffcf6e2",
+      "company": "Evri",
+      "role": "Cat C Driver Nights",
+      "location": "Sheffield, United Kingdom"
+    },
+    "cb9a781dd6ffe27ec793d73c325fcba1": {
+      "id": "cb9a781dd6ffe27ec793d73c325fcba1",
+      "company": "Evri",
+      "role": "Courier Training And Onboarding Specialist Ftc",
+      "location": "Oxford, United Kingdom"
+    },
+    "7a2296aca4cb17f9e5e0d06d3166220d": {
+      "id": "7a2296aca4cb17f9e5e0d06d3166220d",
+      "company": "Tesco",
+      "role": "Customer Delivery Driver - Ivybridge Lee Mill Extra",
+      "location": "Ivybridge, United Kingdom"
+    },
+    "cde704a7ae11527b9a7e1f95eaf5dcb8": {
+      "id": "cde704a7ae11527b9a7e1f95eaf5dcb8",
+      "company": "newjob",
+      "role": "Night Senior Care Assistant",
+      "location": "Gosport, United Kingdom"
+    },
+    "42d11943bfe6f433645cbf723837e164": {
+      "id": "42d11943bfe6f433645cbf723837e164",
+      "company": "Aramark UK",
+      "role": "Cleaner",
+      "location": "St Helens, GB"
+    },
+    "8bb9dd97cdef628e274d50ab2db33647": {
+      "id": "8bb9dd97cdef628e274d50ab2db33647",
+      "company": "Frasers Group",
+      "role": "Casual Beauty Sales Assistant",
+      "location": "Derby, United Kingdom"
+    },
+    "1cf4b9049ec70085b586dbf155bea133": {
+      "id": "1cf4b9049ec70085b586dbf155bea133",
+      "company": "The Savoy Hotel",
+      "role": "Housekeeping Floor Porter (0-hour Casual Contract), The Savoy Hotel",
+      "location": "London, United Kingdom"
+    },
+    "0e5ced54a18086a7687177374f846114": {
+      "id": "0e5ced54a18086a7687177374f846114",
+      "company": "DHL UK",
+      "role": "Warehouse First Line Manager",
+      "location": "Basildon, United Kingdom"
+    },
+    "c058c4bd8059660d349467f19818086e": {
+      "id": "c058c4bd8059660d349467f19818086e",
+      "company": "DHL UK",
+      "role": "Warehouse Clerical - Mis",
+      "location": "Daventry, United Kingdom"
+    },
+    "0acfd9f63506e9059ee9828e2dab329c": {
+      "id": "0acfd9f63506e9059ee9828e2dab329c",
+      "company": "McDonald's UK",
+      "role": "Customer Care Assistant - Lord Street - Full & Part Time",
+      "location": "Merseyside, United Kingdom"
+    },
+    "b2dbb006696d123850f82295470d05da": {
+      "id": "b2dbb006696d123850f82295470d05da",
+      "company": "Iceland Foods",
+      "role": "Home Delivery Driver (inside M25)",
+      "location": "Hounslow, United Kingdom"
+    },
+    "05655ce460d34fa909966a4921ce9086": {
+      "id": "05655ce460d34fa909966a4921ce9086",
+      "company": "University of Edinburgh School of Engineering",
+      "role": "Commis Chef",
+      "location": "Edinburgh, United Kingdom"
+    },
+    "0bd6602f0f92a08f9f7c1965e0553deb": {
+      "id": "0bd6602f0f92a08f9f7c1965e0553deb",
+      "company": "DFS",
+      "role": "Retail Sales Advisor - 30 Hours 9 Months Fixed Term Cannock, United Kingdom £12.71 Per Hour With An Ote Of £30,500 Part Time Apply By 1 October, 2026 Posted On 1 September, 2026",
+      "location": "Cannock, United Kingdom"
+    },
+    "1a1bee0d00b0b4ca2d27f883b27cfbbc": {
+      "id": "1a1bee0d00b0b4ca2d27f883b27cfbbc",
+      "company": "NEXT",
+      "role": "Van Driver - Aberdeen Berryden (n126660)",
+      "location": "Aberdeen, United Kingdom"
+    },
+    "2c7e38f6a0eca0a1af603a6654f6a12d": {
+      "id": "2c7e38f6a0eca0a1af603a6654f6a12d",
+      "company": "Right There",
+      "role": "Casual Intensive Family Support Worker",
+      "location": "Inverness, United Kingdom"
+    },
+    "3bb5eb88c516c90be81c618f00fc9324": {
+      "id": "3bb5eb88c516c90be81c618f00fc9324",
+      "company": "Lincolnshire County Council",
+      "role": "Support Worker Horncastle, United Kingdom £26,847 - £28,153 Pro Rata Permanent Apply By 4 October, 2026 Posted On 1 September, 2026",
+      "location": "Horncastle, United Kingdom"
+    },
+    "4c9cf5c0c675ac3b2fe1528dee646ab7": {
+      "id": "4c9cf5c0c675ac3b2fe1528dee646ab7",
+      "company": "Selfridges",
+      "role": "Christmas Sales Associate - Hampers & Food (30 And 37.5 Hours) London, United Kingdom London: £14.80 / Hr; Regions: £13.45 / Hr Christmas Temp Apply By 1 October, 2026 Posted On 1 September, 2026",
+      "location": "London, United Kingdom"
+    },
+    "587d283509deeb73d8db46e3d9776a32": {
+      "id": "587d283509deeb73d8db46e3d9776a32",
+      "company": "DFS",
+      "role": "Retail Sales Advisor - 30 Hours Fixed Term Aberdeen, United Kingdom £12.71 Per Hour With Ote Of £30,500 Per Year, Plus Benefits Fixed Term Apply By 1 October, 2026 Posted On 1 September, 2026",
+      "location": "Aberdeen, United Kingdom"
+    },
+    "5faba21418854040ca796a6464ed61c9": {
+      "id": "5faba21418854040ca796a6464ed61c9",
+      "company": "Atlas FM",
+      "role": "Housekeeper And Facilities Support",
+      "location": "Glasgow, United Kingdom"
+    },
+    "6a7e34a6077a6dfa89a04f581607c5d0": {
+      "id": "6a7e34a6077a6dfa89a04f581607c5d0",
+      "company": "Co-op",
+      "role": "Customer Team Member - Home Delivery Driver",
+      "location": "Wrexham, United Kingdom"
+    },
+    "72718725ea554f1766988d2e3e3de6b7": {
+      "id": "72718725ea554f1766988d2e3e3de6b7",
+      "company": "John Graham Construction Ltd",
+      "role": "Cleaning Operative",
+      "location": "Lisburn, Northern Ireland, United Kingdom"
+    },
+    "909a2b77da0e0c98378fa09d17a9594e": {
+      "id": "909a2b77da0e0c98378fa09d17a9594e",
+      "company": "The Brandon Trust",
+      "role": "Support Worker - Weston Super Mare Weston Super Mare, United Kingdom £12.71- £12.87 Permanent - Full Time & Part-time Apply By 1 October, 2026 Posted On 1 September, 2026",
+      "location": "Weston Super Mare, United Kingdom"
+    },
+    "9906f5b90b3ef1bffc43c0ad6047ef0b": {
+      "id": "9906f5b90b3ef1bffc43c0ad6047ef0b",
+      "company": "Affinity Trust",
+      "role": "Part Time Support Worker - Inverurie Inverurie, United Kingdom £13.45 - £13.45 Part Time Apply By 1 October, 2026 Posted On 1 September, 2026",
+      "location": "Inverurie, United Kingdom"
+    },
+    "9c1c0af1507f184f7009f46caeeaac78": {
+      "id": "9c1c0af1507f184f7009f46caeeaac78",
+      "company": "NEXT",
+      "role": "Van Driver - Stockton Teesside Park (n126683)",
+      "location": "Stockton, United Kingdom"
+    },
+    "cfcd461354402c5adc22cdf781757644": {
+      "id": "cfcd461354402c5adc22cdf781757644",
+      "company": "Agincare Group",
+      "role": "Kitchen Assistant London, United Kingdom (incl. Northern Ireland) £14.80 Part Time Apply By 1 October, 2026",
+      "location": "Bermondsey, London, United Kingdom"
+    },
+    "d8c561d539648d320018a690b4a6ce04": {
+      "id": "d8c561d539648d320018a690b4a6ce04",
+      "company": "Agincare Group",
+      "role": "Bank Housekeeper Richmond , United Kingdom (incl. Northern Ireland) £14.80 Part Time Apply By 1 October, 2026",
+      "location": "Richmond, United Kingdom"
+    },
+    "dac3db55ebc56766b1588fb9a45c92ef": {
+      "id": "dac3db55ebc56766b1588fb9a45c92ef",
+      "company": "Carlisle Support Services",
+      "role": "Cleaner Crawley, United Kingdom £13.85 Temporary/casual Apply By 1 October, 2026 Posted On 1 September, 2026",
+      "location": "Crawley, United Kingdom"
+    },
+    "de2c524164a0b189baacb639e921bbd4": {
+      "id": "de2c524164a0b189baacb639e921bbd4",
+      "company": "Agincare Group",
+      "role": "Care Assistant Nights Southwark, United Kingdom (incl. Northern Ireland) £14.80 Part Time Apply By 1 October, 2026",
+      "location": "London, United Kingdom"
+    },
+    "e253f7e0ec2a98b47fe49334f2821288": {
+      "id": "e253f7e0ec2a98b47fe49334f2821288",
+      "company": "The Ritz-Carlton",
+      "role": "Hotel Cleanliness Expert - Housekeeping Room Attendant (casual)",
+      "location": "London, United Kingdom"
+    },
+    "e6675808250e904742111353fabd83ec": {
+      "id": "e6675808250e904742111353fabd83ec",
+      "company": "Agincare Group",
+      "role": "Domestic Care Assistant Cheltenham, United Kingdom (incl. Northern Ireland) £12.75 Part Time Apply By 1 October, 2026",
+      "location": "Cheltenham, United Kingdom"
+    },
+    "ef78985ada8df480d5cc3ebe62d57932": {
+      "id": "ef78985ada8df480d5cc3ebe62d57932",
+      "company": "Turning Point",
+      "role": "Bank Support Worker Barnsley, Barnsley £13.71 Per Hour Bank Apply By 14 September, 2026 Posted On 1 September, 2026",
+      "location": "Barnsley, Barnsley, UK"
+    },
+    "f7fc9c9cda258ae97eae793b132c6630": {
+      "id": "f7fc9c9cda258ae97eae793b132c6630",
+      "company": "Affinity Trust",
+      "role": "Support Worker - Cannock Cannock, United Kingdom £12.75 - £12.75 Part Time Apply By 1 October, 2026 Posted On 1 September, 2026",
+      "location": "Cannock, United Kingdom"
+    },
+    "3705cd2fa1262ff9b7acf28eee51996d": {
+      "id": "3705cd2fa1262ff9b7acf28eee51996d",
+      "company": "Homesense At TJX Europe",
+      "role": "Temporary Part Time Retail Associate",
+      "location": "Cheltenham, United Kingdom"
+    },
+    "4a0df4659b5d975d3719e4dc124d5885": {
+      "id": "4a0df4659b5d975d3719e4dc124d5885",
+      "company": "Welcome Break",
+      "role": "Housekeeping Team Member - Gretna",
+      "location": "Gretna, United Kingdom"
+    },
+    "9bf3629e4c230681b386eaded2557f83": {
+      "id": "9bf3629e4c230681b386eaded2557f83",
+      "company": "Bakkavor Group",
+      "role": "Development Chef",
+      "location": "Newark, England, United Kingdom"
+    },
+    "af3fcdb690f7dedecb0f2c5c1c94983a": {
+      "id": "af3fcdb690f7dedecb0f2c5c1c94983a",
+      "company": "Decathlon S.A",
+      "role": "Part-time Sports Advisor (sales Assistant)",
+      "location": "Sheffield, United Kingdom"
+    },
+    "011586a0b5c90b08279d52c8da0e7d15": {
+      "id": "011586a0b5c90b08279d52c8da0e7d15",
+      "company": "Nando's",
+      "role": "Front Of House/back Of House Team Member",
+      "location": "Redditch, United Kingdom"
+    },
+    "174daa2b5554064267d7331d48e3a926": {
+      "id": "174daa2b5554064267d7331d48e3a926",
+      "company": "BMI Healthcare (Circle)",
+      "role": "Healthcare Assistant - Theatre (bank)",
+      "location": "Darlington, United Kingdom"
+    },
+    "9bed6a593c718e5c4deca98ef6efb2f8": {
+      "id": "9bed6a593c718e5c4deca98ef6efb2f8",
+      "company": "McDonald's UK",
+      "role": "King's Lynn-town Centre, Customer Care Assistant, Evenings/weekends Part-time (16-17 /18+£12.76ph)",
+      "location": "King's Lynn, Norfolk, GB"
+    },
+    "328e2dcd980c5494953caae2c21c05e9": {
+      "id": "328e2dcd980c5494953caae2c21c05e9",
+      "company": "City Football Group",
+      "role": "Casual Academy Driver",
+      "location": "Manchester, GB"
+    },
+    "dd83b57ca6f11210004906c56a40c183": {
+      "id": "dd83b57ca6f11210004906c56a40c183",
+      "company": "McDonald's UK",
+      "role": "Customer Care Assistant - Maylands Avenue - Part Time",
+      "location": "Hemel Hempstead, United Kingdom"
+    },
+    "f94f44cbe8801ea5ec2ae666dee7f49b": {
+      "id": "f94f44cbe8801ea5ec2ae666dee7f49b",
+      "company": "McDonald's UK",
+      "role": "Customer Care Assistant - Street, Somerset",
+      "location": "Street, Somerset, GB"
+    },
+    "be9d91e1a5ffe3ea318fc5a6e7f98e5a": {
+      "id": "be9d91e1a5ffe3ea318fc5a6e7f98e5a",
+      "company": "Warburtons Ltd",
+      "role": "Catering Assistant",
+      "location": "Enfield, England, United Kingdom"
+    },
+    "c0a107c9f7e078ba6d3ff13ab6016f71": {
+      "id": "c0a107c9f7e078ba6d3ff13ab6016f71",
+      "company": "NEXT",
+      "role": "Short-term Temporary Team Member - Newport Retail Park (n126564)",
+      "location": "Newport, United Kingdom"
+    },
+    "e085cff6679b0ad5468cb46914064601": {
+      "id": "e085cff6679b0ad5468cb46914064601",
+      "company": "B&M Retail Ltd",
+      "role": "Warehouse Operatives - Runcorn - Fixed Term Contract",
+      "location": "Runcorn, United Kingdom"
+    },
+    "e3f94514208983a0c80e0c413c5c3397": {
+      "id": "e3f94514208983a0c80e0c413c5c3397",
+      "company": "University of Edinburgh School of Engineering",
+      "role": "Associate Tutor – Physical Education Ma (placement)",
+      "location": "Edinburgh, United Kingdom"
+    },
+    "4a4dec66d97953074739f5dd0cb54894": {
+      "id": "4a4dec66d97953074739f5dd0cb54894",
+      "company": "CARE SOUTH",
+      "role": "Home Care Assistant",
+      "location": "Dorchester, GB; Weymouth, GB"
+    },
+    "7eb242fbc53d68a261da2e5f8d47843c": {
+      "id": "7eb242fbc53d68a261da2e5f8d47843c",
+      "company": "CARE SOUTH",
+      "role": "Weekend Home Care Assistant - Chard And Ilminster",
+      "location": "Chard, United Kingdom; Ilminster, United Kingdom"
+    },
+    "ea05adad5deeaee572d6827f2441a64b": {
+      "id": "ea05adad5deeaee572d6827f2441a64b",
+      "company": "CARE SOUTH",
+      "role": "Weekend Home Care Assistant - Crewkerne",
+      "location": "Crewkerne, GB"
+    },
+    "ea30e2954926c0d5d6620dc33a02642c": {
+      "id": "ea30e2954926c0d5d6620dc33a02642c",
+      "company": "CARE SOUTH",
+      "role": "Weekend Home Care Assistant - Yeovil And Martock",
+      "location": "Yeovil, GB; Martock, GB"
+    },
+    "2315178fb0ba3e47c6a99dd1b1ce2fb0": {
+      "id": "2315178fb0ba3e47c6a99dd1b1ce2fb0",
+      "company": "Koninklijke BAM Groep NV",
+      "role": "Cleaning Operative",
+      "location": "Bromsgrove, England, United Kingdom"
+    },
+    "4e85335909b686a0cb15681f33cf453b": {
+      "id": "4e85335909b686a0cb15681f33cf453b",
+      "company": "Koninklijke BAM Groep NV",
+      "role": "Cleaning Supervisor",
+      "location": "Bracknell, England, United Kingdom"
+    },
+    "f29b6623ddda6bb274672c5963dedfd7": {
+      "id": "f29b6623ddda6bb274672c5963dedfd7",
+      "company": "Koninklijke BAM Groep NV",
+      "role": "Caretaker",
+      "location": "Bromsgrove, Worcestershire, United Kingdom"
+    },
+    "5270fdfbfd0b632a23be0536e770f417": {
+      "id": "5270fdfbfd0b632a23be0536e770f417",
+      "company": "Babcock International",
+      "role": "Lifeguard",
+      "location": "Wareham, Dorset, GB"
+    },
+    "718b0df2b7167a747ab5d843581e4d2e": {
+      "id": "718b0df2b7167a747ab5d843581e4d2e",
+      "company": "Nestle Ltd",
+      "role": "Retail Sales Assistant - 6 Month Ftc - Bluewater",
+      "location": "Bluewater, United Kingdom"
+    },
+    "b16c05f806dfadedbfd6471a0ac3381e": {
+      "id": "b16c05f806dfadedbfd6471a0ac3381e",
+      "company": "Radfield Home Care",
+      "role": "Domicilary Care Assistant",
+      "location": "Chingford, London, GB; Loughton, London, GB"
+    },
+    "7fa18be1de21e63661aa2328d877d74d": {
+      "id": "7fa18be1de21e63661aa2328d877d74d",
+      "company": "Radfield Home Care",
+      "role": "Home Care Assistant",
+      "location": "Chingford, London, United Kingdom; Loughton, London, United Kingdom"
+    },
+    "33d7679fa5760decbf24c40dd565de8f": {
+      "id": "33d7679fa5760decbf24c40dd565de8f",
+      "company": "Aramark UK",
+      "role": "Foh Steward",
+      "location": "London, GB"
+    },
+    "4a27cb7d6a145ff9dafee88af7787e31": {
+      "id": "4a27cb7d6a145ff9dafee88af7787e31",
+      "company": "Aramark UK",
+      "role": "Front Of House Assistant",
+      "location": "Guildford, GU12 5RQ, GB"
+    },
+    "b100a202f8c4ce45772eb97e270e134e": {
+      "id": "b100a202f8c4ce45772eb97e270e134e",
+      "company": "Aramark UK",
+      "role": "Commis Chef",
+      "location": "Warwick, WAR, GB"
+    },
+    "bb520887454d3603185002920dfecad0": {
+      "id": "bb520887454d3603185002920dfecad0",
+      "company": "Aramark UK",
+      "role": "Cleaning Supervisor",
+      "location": "Camberley, GB"
+    },
+    "f923d7ac2e5c87bb741bd7a2188a6c79": {
+      "id": "f923d7ac2e5c87bb741bd7a2188a6c79",
+      "company": "Aramark UK",
+      "role": "Mess Steward",
+      "location": "Preston, GB"
+    },
+    "4e17e3c7713799c9264c786e3f6c0234": {
+      "id": "4e17e3c7713799c9264c786e3f6c0234",
+      "company": "Morrisons",
+      "role": "Customer Assistant - Service",
+      "location": "Lichfield, United Kingdom"
+    },
+    "0ff19ad57299a91efd6238906662c5bb": {
+      "id": "0ff19ad57299a91efd6238906662c5bb",
+      "company": "IKEA",
+      "role": "Goods Flow Assistant - Warehouse, Picking Services (pt)",
+      "location": "United Kingdom"
+    },
+    "056810b889b336c7156c55f714151443": {
+      "id": "056810b889b336c7156c55f714151443",
+      "company": "Henderson Group",
+      "role": "Kitchen Assistant - Dundonald",
+      "location": "Dundonald, Down, GB"
+    },
+    "14fa0c02680a88565b2c753d525b0cfb": {
+      "id": "14fa0c02680a88565b2c753d525b0cfb",
+      "company": "Henderson Group",
+      "role": "Kitchen Assistant - Moundview",
+      "location": "Dromore, United Kingdom"
+    },
+    "8ca5cdd64689721f7766c8a11a2ef678": {
+      "id": "8ca5cdd64689721f7766c8a11a2ef678",
+      "company": "Marks & Spencer",
+      "role": "Junior Merchandiser Lingerie",
+      "location": "United Kingdom, United Kingdom"
+    },
+    "acb7c85f833c67fd28a7592facc68a13": {
+      "id": "acb7c85f833c67fd28a7592facc68a13",
+      "company": "Urban Outfitters",
+      "role": "Urban Outfitters Sales Associate - Oxford, Uk",
+      "location": "Oxford, United Kingdom"
+    },
+    "ab57f7381b09ac0a7c5d113a5f795a53": {
+      "id": "ab57f7381b09ac0a7c5d113a5f795a53",
+      "company": "Waitrose & Partners",
+      "role": "Customer Delivery Driver, Supermarket Assistant",
+      "location": "Okehampton, United Kingdom"
+    },
+    "0403265cebc0b980183341a6d3ec1817": {
+      "id": "0403265cebc0b980183341a6d3ec1817",
+      "company": "BMI Healthcare (Circle)",
+      "role": "Healthcare Assistant - Outpatients (bank)",
+      "location": "Windsor, United Kingdom"
+    },
+    "f52865cf83114cb4ebfbf034b675a490": {
+      "id": "f52865cf83114cb4ebfbf034b675a490",
+      "company": "TK Maxx",
+      "role": "Christmas Temp Retail Associate",
+      "location": "Knaresborough, United Kingdom"
+    },
+    "5417e06f0e7d1bd89eeeb74d5d414b8b": {
+      "id": "5417e06f0e7d1bd89eeeb74d5d414b8b",
+      "company": "GXO Logistics, Inc.",
+      "role": "Warehouse Operative Ftc - 4",
+      "location": "Northampton, United Kingdom"
+    },
+    "b51cf81e64668b2e9e3a7d9906803ce5": {
+      "id": "b51cf81e64668b2e9e3a7d9906803ce5",
+      "company": "Sofitel Melbourne On Collins",
+      "role": "Housekeeping Attendant",
+      "location": "Ipswich, United Kingdom"
+    },
+    "2d4aeee06cafe90573fb8ec3e810ad7a": {
+      "id": "2d4aeee06cafe90573fb8ec3e810ad7a",
+      "company": "Morrisons",
+      "role": "Customer Assistant - Scanning",
+      "location": "Cranbrook, United Kingdom"
+    },
+    "eba74bf10abd574339bbd55172fe7c78": {
+      "id": "eba74bf10abd574339bbd55172fe7c78",
+      "company": "Morrisons",
+      "role": "Customer Assistant Cash Office",
+      "location": "Cranbrook, United Kingdom"
+    },
+    "75de7d284f0cd9720e0db88e5e018a2c": {
+      "id": "75de7d284f0cd9720e0db88e5e018a2c",
+      "company": "Evri",
+      "role": "Hgv Class 2 Night Driver",
+      "location": "Plymouth, United Kingdom"
+    },
+    "f64d1b7fac52bcdf3549f497169ce157": {
+      "id": "f64d1b7fac52bcdf3549f497169ce157",
+      "company": "Nike",
+      "role": "Retail Assistant (athlete) Temp Pt 8h - Cheshire Oaks",
+      "location": "Cheshire Oaks, United Kingdom"
+    },
+    "7e42997c5164b2dc607ecc27532359f0": {
+      "id": "7e42997c5164b2dc607ecc27532359f0",
+      "company": "Nike",
+      "role": "Retail Assistant (athlete) - Temp – Pt 8hrs – Swindon",
+      "location": "Swindon, United Kingdom"
+    },
+    "1cf73944273b2a4a8cdf099cf01fcb33": {
+      "id": "1cf73944273b2a4a8cdf099cf01fcb33",
+      "company": "Marriott International",
+      "role": "Bartender - Sushisamba - W Edinburgh",
+      "location": "Edinburgh, United Kingdom"
+    },
+    "6131677ab8633d5175f2ab0272fd7c61": {
+      "id": "6131677ab8633d5175f2ab0272fd7c61",
+      "company": "NEXT",
+      "role": "Short-term Temporary Team Member - Preston Deepdale Retail Park (n126408)",
+      "location": "Preston, United Kingdom"
+    },
+    "f191fea9c8fba2ea0dfb7c910865f7c9": {
+      "id": "f191fea9c8fba2ea0dfb7c910865f7c9",
+      "company": "W Edinburgh",
+      "role": "Bartender - Sushisamba - W Edinburgh",
+      "location": "Edinburgh, United Kingdom"
+    },
+    "3b54b0c686296b419b8346f930122b45": {
+      "id": "3b54b0c686296b419b8346f930122b45",
+      "company": "Avery Healthcare Group",
+      "role": "Chef De Partie Bagshot Gardens Care Home, 14-16 London Road, Bagshot, Surrey, United Kingdom £13.40 Per Hour Part Time Apply By 18 September, 2026 Posted On 28 August, 2026",
+      "location": "Bagshot, Surrey, United Kingdom"
+    },
+    "e8dd3fa9370a06239ff684357d34c032": {
+      "id": "e8dd3fa9370a06239ff684357d34c032",
+      "company": "Nestle SA",
+      "role": "Retail Manager - Meadowhall Sheffield",
+      "location": "Sheffield, South Yorkshire, United Kingdom"
+    },
+    "3078c998e63852665a8a65e8cc95ac1f": {
+      "id": "3078c998e63852665a8a65e8cc95ac1f",
+      "company": "Nestle SA",
+      "role": "Festive Sales Assistant - Leeds",
+      "location": "Leeds, United Kingdom"
+    },
+    "62585c73581189da45d513b343dbc03d": {
+      "id": "62585c73581189da45d513b343dbc03d",
+      "company": "Nestle SA",
+      "role": "Festive Sales Assistant - Selfridges, Birmingham",
+      "location": "Birmingham, United Kingdom"
+    },
+    "a2b80c010e7706d648eb7b217d143826": {
+      "id": "a2b80c010e7706d648eb7b217d143826",
+      "company": "Nestle SA",
+      "role": "Festive Sales Assistant - Nottingham",
+      "location": "Nottingham, England, United Kingdom"
+    },
+    "afb7d4750fd65caca4c89111167c5525": {
+      "id": "afb7d4750fd65caca4c89111167c5525",
+      "company": "Nestle SA",
+      "role": "Festive Sales Assistant - Trafford Centre, Manchester",
+      "location": "Manchester, United Kingdom"
+    },
+    "89d5b99633cb75d0f587a46971319fd3": {
+      "id": "89d5b99633cb75d0f587a46971319fd3",
+      "company": "Sports Direct",
+      "role": "(template 2026) Casual Sales Assistant - Sports Direct",
+      "location": "Carlisle, United Kingdom"
+    },
+    "83b824338759c1c8462049393ce0d5b0": {
+      "id": "83b824338759c1c8462049393ce0d5b0",
+      "company": "Fsmjobs",
+      "role": "Healthcare Assistant - Level 3 (health And Social Care)",
+      "location": "Taunton, United Kingdom"
+    },
+    "17e597c2cde2593682ee330f41ec0593": {
+      "id": "17e597c2cde2593682ee330f41ec0593",
+      "company": "Morrisons",
+      "role": "Customer Assistant - Online",
+      "location": "Derby, United Kingdom"
+    },
+    "8f6568af23d5cc37bde8d892649b7610": {
+      "id": "8f6568af23d5cc37bde8d892649b7610",
+      "company": "Morrisons",
+      "role": "Customer Assistant - Replenishment",
+      "location": "Chippenham, United Kingdom"
+    },
+    "e027811d29e79a20622d28250524e860": {
+      "id": "e027811d29e79a20622d28250524e860",
+      "company": "Lidl",
+      "role": "It Retail Systems Consultant 13 Month Fixed Term Contract",
+      "location": "London, United Kingdom"
+    },
+    "860c14c8bdef9176effb6fbb2c129f52": {
+      "id": "860c14c8bdef9176effb6fbb2c129f52",
+      "company": "Allen Motor Group",
+      "role": "Warehouse Operative - Northampton Parts Plus",
+      "location": "Northampton, , United Kingdom"
+    },
+    "0f05b879d31c242e1264f97743df3136": {
+      "id": "0f05b879d31c242e1264f97743df3136",
+      "company": "Greene King",
+      "role": "Pa Support Team Leader",
+      "location": "Burton, United Kingdom"
+    },
+    "97cfc0ba6a91b1e9bf174de62b651424": {
+      "id": "97cfc0ba6a91b1e9bf174de62b651424",
+      "company": "Hopscotch Day Nurseries",
+      "role": "Deputy Nursery Manager",
+      "location": "Southampton, GB"
+    },
+    "192e463b2aa6c8afa4b0762faef7287a": {
+      "id": "192e463b2aa6c8afa4b0762faef7287a",
+      "company": "Santander Arena",
+      "role": "Customer Experience Advisor | S1 | Retail Banking | Hastings",
+      "location": "Hastings, United Kingdom"
+    },
+    "e088bf03717ba505bd41034b73a614f6": {
+      "id": "e088bf03717ba505bd41034b73a614f6",
+      "company": "Securitas Critical Infrastructure Services",
+      "role": "Relief Security Officer",
+      "location": "Guildford, United Kingdom; Stirling Square, London, United Kingdom; Blue Fin, London, United Kingdom; New Malden, London, United Kingdom"
+    },
+    "ad803f0da9aa1eb8fa1da64c6e9f98b9": {
+      "id": "ad803f0da9aa1eb8fa1da64c6e9f98b9",
+      "company": "Entain",
+      "role": "Stadia - Security Officer",
+      "location": "Hove, United Kingdom"
+    },
+    "38aee308e830cb852db3ad5af025d52a": {
+      "id": "38aee308e830cb852db3ad5af025d52a",
+      "company": "Securitas Critical Infrastructure Services",
+      "role": "Casual Security Officer - Next Day Interviews",
+      "location": "Hatfield, United Kingdom"
+    },
+    "564f760b4bf4f8d0293ad89007b2c1e5": {
+      "id": "564f760b4bf4f8d0293ad89007b2c1e5",
+      "company": "Entain",
+      "role": "Stadia - Bar & Catering Team Member",
+      "location": "Romford, United Kingdom"
+    },
+    "9d2d5a1f4cd5a424a4d56670afd70d2c": {
+      "id": "9d2d5a1f4cd5a424a4d56670afd70d2c",
+      "company": "Entain",
+      "role": "Stadia - Kitchen Team Member",
+      "location": "Romford, United Kingdom"
+    },
+    "949a5af623d47046f5f05a6fe49a0939": {
+      "id": "949a5af623d47046f5f05a6fe49a0939",
+      "company": "GKN Aerospace Services Ltd",
+      "role": "Material Handler (packer - Goods Out) (12 Month Ftc)",
+      "location": "East Cowes, England, United Kingdom"
+    },
+    "c4e3cf8579913baaa6cb3d12e99f5112": {
+      "id": "c4e3cf8579913baaa6cb3d12e99f5112",
+      "company": "Nestle Ltd",
+      "role": "Festive Sales Assistant - Covent Garden",
+      "location": "Covent Garden, London, United Kingdom"
+    },
+    "ca0c1dbd907f36be3c442e11c06fe0b9": {
+      "id": "ca0c1dbd907f36be3c442e11c06fe0b9",
+      "company": "Morrisons",
+      "role": "Production Operative",
+      "location": "Flaxby, United Kingdom"
+    },
+    "52ae19b622e8cd37530701add047ff44": {
+      "id": "52ae19b622e8cd37530701add047ff44",
+      "company": "Morrisons",
+      "role": "Key Production Operative - Warehouse & Flt",
+      "location": "Flaxby, United Kingdom"
+    },
+    "bebef9eb657d3a0e1d1935acc36047a0": {
+      "id": "bebef9eb657d3a0e1d1935acc36047a0",
+      "company": "Morrisons",
+      "role": "Driver - Home Delivery",
+      "location": "Haverfordwest, United Kingdom"
+    },
+    "f67b0d565c5745e88c5288bc3e4d56c3": {
+      "id": "f67b0d565c5745e88c5288bc3e4d56c3",
+      "company": "Morrisons",
+      "role": "Production Operative - Warehouse",
+      "location": "Bradford, United Kingdom"
+    },
+    "649ee67b89f3e9c16c5d89e945dfa023": {
+      "id": "649ee67b89f3e9c16c5d89e945dfa023",
+      "company": "Iceland Foods",
+      "role": "Cleaner (inside M25)",
+      "location": "New Addington, United Kingdom"
+    },
+    "4e86bdc03fce20726ebdba370e7d1d97": {
+      "id": "4e86bdc03fce20726ebdba370e7d1d97",
+      "company": "Iceland Foods",
+      "role": "Home Delivery Driver - Thurrock",
+      "location": "Thurrock, United Kingdom"
+    },
+    "8b104dc31073060db45e2be3ff4efa32": {
+      "id": "8b104dc31073060db45e2be3ff4efa32",
+      "company": "Iceland Foods",
+      "role": "Home Delivery Driver - Maidstone",
+      "location": "Maidstone, United Kingdom"
+    },
+    "7491b85433fe901e6f383ff1f8a8b43d": {
+      "id": "7491b85433fe901e6f383ff1f8a8b43d",
+      "company": "Iceland Foods",
+      "role": "Home Delivery Driver - Oxford",
+      "location": "Oxford, United Kingdom"
+    },
+    "e37fef6420d0f66a6f57dc31201a9caa": {
+      "id": "e37fef6420d0f66a6f57dc31201a9caa",
+      "company": "Iceland Foods",
+      "role": "Cleaner - Part Time 15 Hours",
+      "location": "Deeside, GB"
+    },
+    "a34a9dea08dea8307a4eba315eb6cd74": {
+      "id": "a34a9dea08dea8307a4eba315eb6cd74",
+      "company": "Iceland Foods",
+      "role": "Home Delivery Driver - Didcot",
+      "location": "Didcot, Oxfordshire, GB"
+    },
+    "96f67e127d700153b4b43514937335b6": {
+      "id": "96f67e127d700153b4b43514937335b6",
+      "company": "Lidl",
+      "role": "It Warehouse Service Desk Analyst",
+      "location": "Avonmouth, England, United Kingdom"
+    },
+    "00a863801dc29df44f1e9ba3c61c2d4f": {
+      "id": "00a863801dc29df44f1e9ba3c61c2d4f",
+      "company": "Evri",
+      "role": "Warehouse Pro Days",
+      "location": "Maidstone, United Kingdom"
+    },
+    "4932b32c0bcdfeaf0382fb73608d18fb": {
+      "id": "4932b32c0bcdfeaf0382fb73608d18fb",
+      "company": "Evri",
+      "role": "Transport Administrator - Transport And Warehouse",
+      "location": "Gloucester, United Kingdom"
+    },
+    "8f17f457fa39cbb0a2a27d043589e259": {
+      "id": "8f17f457fa39cbb0a2a27d043589e259",
+      "company": "McDonald's UK",
+      "role": "Crew Member Seasonal Contract",
+      "location": "Somerset, GB"
+    },
+    "6a895f8668531eeaa7ad36be59f620ed": {
+      "id": "6a895f8668531eeaa7ad36be59f620ed",
+      "company": "McDonald's UK",
+      "role": "Crew Member Full Time Flexible Contract Over 18",
+      "location": "West Dumbartonshire, United Kingdom"
+    },
+    "03649fb5d1c48be37aa4328b575469b8": {
+      "id": "03649fb5d1c48be37aa4328b575469b8",
+      "company": "McDonald's UK",
+      "role": "Gapton Hall Nr31 0lz - Full-time Maintenance Caretaker 18+ (£12.76ph)",
+      "location": "Gapton Hall, Norfolk, GB"
+    },
+    "6a58a69a89d4237a9f9dc5ddd3b92831": {
+      "id": "6a58a69a89d4237a9f9dc5ddd3b92831",
+      "company": "McDonald's UK",
+      "role": "Overnight Cleaner - Renfrew Road - Must Be Over 18 - Part Time",
+      "location": "Renfrewshire, , GB"
+    },
+    "e0e95225b2f6f819fa564ffca1086a2e": {
+      "id": "e0e95225b2f6f819fa564ffca1086a2e",
+      "company": "McDonald's UK",
+      "role": "Cirencester - Weekday Cleaner - 6am Start",
+      "location": "Cirencester, Gloucestershire, GB"
+    },
+    "635cc53f19e70edb7f4f82eb8bca34b1": {
+      "id": "635cc53f19e70edb7f4f82eb8bca34b1",
+      "company": "St. Regis Hotels & Resorts",
+      "role": "Casual Food & Beverage Server",
+      "location": "Edinburgh, MIDLOTHIAN, United Kingdom"
+    },
+    "0414c54eb70b4c0facd7ad51b2499f99": {
+      "id": "0414c54eb70b4c0facd7ad51b2499f99",
+      "company": "Sheraton Grand Hotel & Spa Edinburgh",
+      "role": "Casual Commis Chef - Sheraton Grand Hotel & Spa Edinburgh",
+      "location": "Edinburgh, United Kingdom"
+    },
+    "1cecc4301a5db6a9f68b59306ad9cc43": {
+      "id": "1cecc4301a5db6a9f68b59306ad9cc43",
+      "company": "W Brisbane",
+      "role": "Casual Commis Chef - Sheraton Grand Hotel & Spa Edinburgh",
+      "location": "London, United Kingdom"
+    },
+    "3804ba7a9ca102becdd0bd5c627b0fe2": {
+      "id": "3804ba7a9ca102becdd0bd5c627b0fe2",
+      "company": "Marriott International",
+      "role": "Casual Conference Server - Jw Marriott Grosvenor House",
+      "location": "London, United Kingdom"
+    },
+    "3a470603dc0a44c838d88995d44970f4": {
+      "id": "3a470603dc0a44c838d88995d44970f4",
+      "company": "Agincare Group",
+      "role": "Senior Care Assistant Frome, United Kingdom (incl. Northern Ireland) £13.46 Part Time Apply By 27 September, 2026",
+      "location": "Frome, United Kingdom"
+    },
+    "40809aac26c7b283bc6d9aac1fa21a4d": {
+      "id": "40809aac26c7b283bc6d9aac1fa21a4d",
+      "company": "Marriott International",
+      "role": "Casual Banqueting Wine Waiter - Jw Marriott Grosvenor House",
+      "location": "London, United Kingdom"
+    },
+    "4eb65d2ca627aa6cba68c085cbeb06fa": {
+      "id": "4eb65d2ca627aa6cba68c085cbeb06fa",
+      "company": "SeeAbility",
+      "role": "Female Support Worker - Part Time",
+      "location": "Wellington, Somerset, United Kingdom"
+    },
+    "69e72973dad3c6801c5df09e8efd40be": {
+      "id": "69e72973dad3c6801c5df09e8efd40be",
+      "company": "SeeAbility",
+      "role": "Casual Support Worker",
+      "location": "Tadley, United Kingdom"
+    },
+    "82586137da52367c23bad7aa0255d945": {
+      "id": "82586137da52367c23bad7aa0255d945",
+      "company": "Spire Healthcare",
+      "role": "Bank Chef",
+      "location": "Sutton Coldfield, United Kingdom"
+    },
+    "e1ccc41f23874657a84924c1ef4faa45": {
+      "id": "e1ccc41f23874657a84924c1ef4faa45",
+      "company": "W Brisbane",
+      "role": "Casual Banqueting Wine Waiter - Jw Marriott Grosvenor House",
+      "location": "London, United Kingdom"
+    },
+    "e64db3166aebc07639c0c70d855d73af": {
+      "id": "e64db3166aebc07639c0c70d855d73af",
+      "company": "The Ritz-Carlton",
+      "role": "Casual Conference Server - Jw Marriott Grosvenor House",
+      "location": "London, United Kingdom"
+    },
+    "ee2d2bd7b427f28d5b64d85b82f5befd": {
+      "id": "ee2d2bd7b427f28d5b64d85b82f5befd",
+      "company": "Aspens Services Ltd",
+      "role": "Catering Assistant Newport Pagnell, United Kingdom £12.71 Per Hour Part Time Apply By 27 September, 2026 Posted On 28 August, 2026",
+      "location": "Newport Pagnell, United Kingdom"
+    },
+    "f76205e9bf9dd8a688cb0b0a3d505186": {
+      "id": "f76205e9bf9dd8a688cb0b0a3d505186",
+      "company": "Agincare Group",
+      "role": "Bank Cook Lydney , United Kingdom (incl. Northern Ireland) £14.60 Part Time Apply By 27 September, 2026",
+      "location": "Lydney, Gloucestershire, United Kingdom"
+    },
+    "fde46a19739cbeb68961525535858926": {
+      "id": "fde46a19739cbeb68961525535858926",
+      "company": "Hales Care",
+      "role": "Home Care Assistant - Weekends Stevenage, United Kingdom £13.64 Per Hour Part Time Apply By No Expiry Date Posted On 28 August, 2026",
+      "location": "Stevenage, United Kingdom"
+    },
+    "24f631857c29ec004f01d80f41f95413": {
+      "id": "24f631857c29ec004f01d80f41f95413",
+      "company": "Aramark UK",
+      "role": "Scp Chef",
+      "location": "Lossiemouth, GB"
+    },
+    "9dc38e14847a9dccf7d75e44eda777f2": {
+      "id": "9dc38e14847a9dccf7d75e44eda777f2",
+      "company": "Nomura International PLC",
+      "role": "Distribution Compliance Contractor - 6-month Contract",
+      "location": "London, United Kingdom"
+    },
+    "6d295a6e92ec2a8c845898b04a043370": {
+      "id": "6d295a6e92ec2a8c845898b04a043370",
+      "company": "Bmwramsey",
+      "role": "Bank Morning Housekeeper",
+      "location": "York, United Kingdom"
+    },
+    "b9fa74c66429a19af0d28b52d80d083a": {
+      "id": "b9fa74c66429a19af0d28b52d80d083a",
+      "company": "Ramsay Health Care UK",
+      "role": "Evening Bank Housekeeper",
+      "location": "York, United Kingdom"
+    },
+    "dd043ed18240593a36a6939bd19e75f1": {
+      "id": "dd043ed18240593a36a6939bd19e75f1",
+      "company": "bupa.co.uk",
+      "role": "Housekeeping Assistant",
+      "location": "Ashford, United Kingdom"
+    },
+    "f790adf91919fa0032995bd1e24999fc": {
+      "id": "f790adf91919fa0032995bd1e24999fc",
+      "company": "Nuffield Health",
+      "role": "Healthcare Support Worker",
+      "location": "Stockton On Tees, United Kingdom"
+    },
+    "a935b3407c183f6de450dd99981d9d79": {
+      "id": "a935b3407c183f6de450dd99981d9d79",
+      "company": "BMI Healthcare (Circle)",
+      "role": "Driver (bank)",
+      "location": "Circle Decontamination, United Kingdom"
+    },
+    "4b5453300ea50fab577fc80cb5c070bf": {
+      "id": "4b5453300ea50fab577fc80cb5c070bf",
+      "company": "Sofitel Melbourne On Collins",
+      "role": "Housekeeper",
+      "location": "Liphook, United Kingdom"
+    },
+    "e39c521e077861be2b4aeb7a9d2dbbab": {
+      "id": "e39c521e077861be2b4aeb7a9d2dbbab",
+      "company": "Upprewards",
+      "role": "Part-time Heavy Duty Cleaner",
+      "location": "Oxford, United Kingdom"
+    },
+    "d210ed409d2752b5865f3f65fbaa4a5f": {
+      "id": "d210ed409d2752b5865f3f65fbaa4a5f",
+      "company": "Xcenda",
+      "role": "Warehouse Operative (20 Hrs )",
+      "location": "Exeter, United Kingdom"
+    },
+    "c6478eda42aea44e34edbc614daf5bb2": {
+      "id": "c6478eda42aea44e34edbc614daf5bb2",
+      "company": "Sofitel Melbourne On Collins",
+      "role": "Late Housekeeping Attendant (£13.75 Per Hour)",
+      "location": "Glasgow, United Kingdom"
+    },
+    "e403ea2a9ca610ea19a4f18e26d89511": {
+      "id": "e403ea2a9ca610ea19a4f18e26d89511",
+      "company": "Sports Direct",
+      "role": "Casual Beauty Sales Assistant",
+      "location": "Belfast, United Kingdom"
+    },
+    "c28656c8cf29fe4da1c69e76047c68d3": {
+      "id": "c28656c8cf29fe4da1c69e76047c68d3",
+      "company": "DHL UK",
+      "role": "Warehouse Operative (team Leader)",
+      "location": "Leyland, United Kingdom"
+    },
+    "5f44c54f451f04fa635a66052cdc4774": {
+      "id": "5f44c54f451f04fa635a66052cdc4774",
+      "company": "Welcome Break",
+      "role": "Hotel Housekeeper",
+      "location": "Gretna Green, UK"
+    },
+    "0c9f634e93e874336234184522075ee7": {
+      "id": "0c9f634e93e874336234184522075ee7",
+      "company": "Sheraton Grand Hotel & Spa",
+      "role": "Casual Food & Beverage Server",
+      "location": "Edinburgh, United Kingdom"
+    },
+    "1e0bdee6eeea308d6b450a5ce97ab7a4": {
+      "id": "1e0bdee6eeea308d6b450a5ce97ab7a4",
+      "company": "Agincare Group",
+      "role": "Cook - Bank Poole, United Kingdom (incl. Northern Ireland) £13.50 Part Time Apply By 26 September, 2026",
+      "location": "Poole, Dorset, United Kingdom"
+    },
+    "33f5050d8ab3a91149e81dfb9cce0be9": {
+      "id": "33f5050d8ab3a91149e81dfb9cce0be9",
+      "company": "Marriott International",
+      "role": "Casual Food & Beverage Server",
+      "location": "Edinburgh, United Kingdom"
+    },
+    "45df5bcb074c69b58d420690dc25f0dd": {
+      "id": "45df5bcb074c69b58d420690dc25f0dd",
+      "company": "Pinnacle Group",
+      "role": "Cleaner Northolt £12.71 - £12.71 Temporary Apply By 1 October, 2026 Posted On 27 August, 2026",
+      "location": "Northolt, England, United Kingdom"
+    },
+    "4fb9dedfe543321133882b4cbebd18f2": {
+      "id": "4fb9dedfe543321133882b4cbebd18f2",
+      "company": "Carlisle Support Services",
+      "role": "Relief Security Officer Heysham, United Kingdom £13.47 - £13.47 Temporary/casual Apply By 26 September, 2026 Posted On 27 August, 2026",
+      "location": "Heysham, United Kingdom"
+    },
+    "5cf65b8a2c79383a137fd8f362f0763f": {
+      "id": "5cf65b8a2c79383a137fd8f362f0763f",
+      "company": "Affinity Trust",
+      "role": "Female Bank Support Worker - Lochgilphead Lochgilphead, United Kingdom £13.45 - £13.45 Bank Apply By 26 September, 2026 Posted On 27 August, 2026",
+      "location": "Lochgilphead, United Kingdom"
+    },
+    "9e80f6d5de4d27b575b590a4190d31ef": {
+      "id": "9e80f6d5de4d27b575b590a4190d31ef",
+      "company": "NEXT",
+      "role": "Level 3 Nursery Practitioner- 24 Hours",
+      "location": "Leicester, United Kingdom"
+    },
+    "a11a595ddcb54f62528466d8e2c4d4e8": {
+      "id": "a11a595ddcb54f62528466d8e2c4d4e8",
+      "company": "Aspens Services Ltd",
+      "role": "Catering Assistant Wilford, Nottingham, United Kingdom £12.71 Per Hour Zero Hours Apply By 26 September, 2026 Posted On 27 August, 2026",
+      "location": "Wilford, United Kingdom"
+    },
+    "e7a8e81e6191a5baa0779989e634a124": {
+      "id": "e7a8e81e6191a5baa0779989e634a124",
+      "company": "Carlisle Support Services",
+      "role": "Relief Security Officer Liverpool, United Kingdom £13.47 - £13.47 Temporary/casual Apply By 26 September, 2026 Posted On 27 August, 2026",
+      "location": "Liverpool, United Kingdom"
+    },
+    "468b41e944d26db5dfaa6b9aee98c5e4": {
+      "id": "468b41e944d26db5dfaa6b9aee98c5e4",
+      "company": "Sonova Group",
+      "role": "Warehouse Operative",
+      "location": "Warrington, United Kingdom"
+    },
+    "targetjobs:0fbb254b-38d4-4b56-b1d6-b02f5c4a395e": {
+      "id": "targetjobs:0fbb254b-38d4-4b56-b1d6-b02f5c4a395e",
+      "company": "Philosophy Education",
+      "role": "Teaching Assistant YR6 Full Time Placement NEW",
+      "location": "Islington, United Kingdom"
+    },
+    "targetjobs:222044a9-1641-4a1e-82ee-319151ec63bc": {
+      "id": "targetjobs:222044a9-1641-4a1e-82ee-319151ec63bc",
+      "company": "Philosophy Education",
+      "role": "English Graduate Teaching Assistant Full Time Temporary NEW",
+      "location": "Romford, United Kingdom"
+    },
+    "targetjobs:a3b147f4-8d26-41cd-ad70-c29fc6ebb649": {
+      "id": "targetjobs:a3b147f4-8d26-41cd-ad70-c29fc6ebb649",
+      "company": "Philosophy Education",
+      "role": "Psychology Graduate Teaching Assistant Full Time Temporary NEW",
+      "location": "Romford, GB"
+    },
+    "targetjobs:2ad193df-7993-4747-95c9-be79e77f82cc": {
+      "id": "targetjobs:2ad193df-7993-4747-95c9-be79e77f82cc",
+      "company": "Soas, University Of London",
+      "role": "Graduate Teaching Assistant / Teaching Fellow",
+      "location": "London, United Kingdom"
+    },
+    "50269c336872725ee696af94e56a6ce8": {
+      "id": "50269c336872725ee696af94e56a6ce8",
+      "company": "GXO Logistics",
+      "role": "Warehouse Operative",
+      "location": "Leeds, West Yorkshire, United Kingdom"
+    },
+    "e7d9b3c351045744c7635f7ec40bd871": {
+      "id": "e7d9b3c351045744c7635f7ec40bd871",
+      "company": "GXO Logistics",
+      "role": "Warehouse Operative Part Time",
+      "location": "Northampton, Northamptonshire, United Kingdom"
+    },
+    "e16dde75b69154700edad6456a5d9ada": {
+      "id": "e16dde75b69154700edad6456a5d9ada",
+      "company": "GXO Logistics",
+      "role": "Class 1 Driver (weekends)",
+      "location": "Northampton, England"
+    },
+    "2323751c21549ccd618ce2bf29f33405": {
+      "id": "2323751c21549ccd618ce2bf29f33405",
+      "company": "Northumberland County Council",
+      "role": "Care Worker The Pottergate Centre, Howling Lane, Alnwick, Ne66 1dj, United Kingdom £22,114.05 - 23,571.08 Permanent Apply By 9 September, 2026 Posted On 26 August, 2026",
+      "location": "Alnwick, Northumberland, United Kingdom"
+    },
+    "f9fdf2bcffa957dbcf88e71971f68624": {
+      "id": "f9fdf2bcffa957dbcf88e71971f68624",
+      "company": "City Football Group",
+      "role": "Casual Laundry Operative",
+      "location": "Manchester, United Kingdom"
+    },
+    "1aaf7f64a3b31c45baf5accd457269c1": {
+      "id": "1aaf7f64a3b31c45baf5accd457269c1",
+      "company": "Sports Direct",
+      "role": "General Assistant (cleaning Team)",
+      "location": "Stoke Gifford, United Kingdom"
+    },
+    "9cacbcf0b57c0416b1e1c8accdc645ef": {
+      "id": "9cacbcf0b57c0416b1e1c8accdc645ef",
+      "company": "Securitas Critical Infrastructure Services",
+      "role": "Casual Security Officer",
+      "location": "Luton, United Kingdom"
+    },
+    "1b3c4c7d2140718ec1ff9a10e7b8ef26": {
+      "id": "1b3c4c7d2140718ec1ff9a10e7b8ef26",
+      "company": "Ashridge Home Care",
+      "role": "Care Assistant",
+      "location": "Amersham, United Kingdom"
+    },
+    "20fe4073e52b2c5b23d9ebc2aca6d3f7": {
+      "id": "20fe4073e52b2c5b23d9ebc2aca6d3f7",
+      "company": "Mueller Service GmbH",
+      "role": "Lgv C+e Driver - 3 Month Fixed Teamcontract - Seasonal Peak",
+      "location": "Severnside, , United Kingdom"
+    },
+    "8f99afb9d2442e9ba13e4ec9f890c2c4": {
+      "id": "8f99afb9d2442e9ba13e4ec9f890c2c4",
+      "company": "Manchester Airport Plc",
+      "role": "Cleaning Supervisor",
+      "location": "Stansted Airport, GB"
+    },
+    "046a70150a990ae595b54406e55842d6": {
+      "id": "046a70150a990ae595b54406e55842d6",
+      "company": "Aspens Services Ltd",
+      "role": "Chef Manager Dobwalls, United Kingdom £14 Per Hour Fixed Term Apply By 25 September, 2026 Posted On 26 August, 2026",
+      "location": "Dobwalls, United Kingdom"
+    },
+    "0abd09259aa99ba3cf1c73efd2a481d1": {
+      "id": "0abd09259aa99ba3cf1c73efd2a481d1",
+      "company": "The Brandon Trust",
+      "role": "Bank Support Worker - Bristol Bristol, United Kingdom £12.71 Bank/casual Shifts Apply By 25 September, 2026 Posted On 26 August, 2026",
+      "location": "Bristol, United Kingdom"
+    },
+    "25127b36bf52940c7c41efc2fd6e242e": {
+      "id": "25127b36bf52940c7c41efc2fd6e242e",
+      "company": "Pinnacle Group",
+      "role": "Office Cleaner Sandycroft, United Kingdom £8293.28 - £8293.28 Permanent Apply By 30 September, 2026 Posted On 26 August, 2026",
+      "location": "Queensferry, Deeside, United Kingdom"
+    },
+    "374f87d66ae4923c45cc2c37d83f3d00": {
+      "id": "374f87d66ae4923c45cc2c37d83f3d00",
+      "company": "Aspens Services Ltd",
+      "role": "Catering Assistant Carlisle , United Kingdom £12.71 Per Hour Fixed Term Apply By 25 September, 2026 Posted On 26 August, 2026",
+      "location": "Carlisle, United Kingdom"
+    },
+    "46e6546aba8d444c4898c815d00caa1c": {
+      "id": "46e6546aba8d444c4898c815d00caa1c",
+      "company": "heathrowacademy",
+      "role": "Bartender - British Airways Lounges",
+      "location": "Heathrow Airport, London, United Kingdom"
+    },
+    "5c74c5c92a94e5f6ddd9d2c1569a3664": {
+      "id": "5c74c5c92a94e5f6ddd9d2c1569a3664",
+      "company": "Spire Healthcare",
+      "role": "Bank Housekeeper",
+      "location": "West Yorkshire, United Kingdom"
+    },
+    "f358b64ac77210973b486f5998ad8ce9": {
+      "id": "f358b64ac77210973b486f5998ad8ce9",
+      "company": "Turning Point",
+      "role": "Female Support Worker Sandwich, United Kingdom £25,274 Based On 37 Hours, £13.10 Per Hour Permanent Apply By 25 September, 2026 Posted On 26 August, 2026",
+      "location": "Sandwich, United Kingdom"
+    },
+    "1ff93927fedadb7ebd97c624b2b61494": {
+      "id": "1ff93927fedadb7ebd97c624b2b61494",
+      "company": "Nuffield Health",
+      "role": "Healthcare Assistant - Outpatients (bank)",
+      "location": "Glasgow, United Kingdom"
+    },
+    "13f207839c3a5b53e039f9d2005a4dd2": {
+      "id": "13f207839c3a5b53e039f9d2005a4dd2",
+      "company": "newjob",
+      "role": "Driver",
+      "location": "New Milton, United Kingdom"
+    },
+    "833578a45c7b8486a9db478432129488": {
+      "id": "833578a45c7b8486a9db478432129488",
+      "company": "newjob",
+      "role": "Night Care Assistant (adults)",
+      "location": "Basingstoke, Hampshire, GB"
+    },
+    "749a85f76570774a72b7338eb07811e7": {
+      "id": "749a85f76570774a72b7338eb07811e7",
+      "company": "Avery Healthcare Group",
+      "role": "Activities Driver - Bank Frognal House Care Home, Frognal Avenue, Sidcup, Kent, United Kingdom £12.75 Per Hour Bank Apply By 15 September, 2026 Posted On 25 August, 2026",
+      "location": "Sidcup, Kent, United Kingdom"
+    },
+    "a3f359047e761e0950303fda1e82bb1c": {
+      "id": "a3f359047e761e0950303fda1e82bb1c",
+      "company": "The TJX Companies, Inc",
+      "role": "Loss Prevention Security Officer",
+      "location": "Stockton, United Kingdom"
+    },
+    "2810a05062263cb45d974b940909c2a7": {
+      "id": "2810a05062263cb45d974b940909c2a7",
+      "company": "Bmwramsey",
+      "role": "Housekeeping Assistant",
+      "location": "Cornwall, United Kingdom"
+    },
+    "6a0b121e7887617c7276468d8ea2036b": {
+      "id": "6a0b121e7887617c7276468d8ea2036b",
+      "company": "Bmwramsey",
+      "role": "Bank Housekeeping Assistant",
+      "location": "Ormskirk, United Kingdom"
+    },
+    "9766c9aefd4f87ed77d6398c87a7a62b": {
+      "id": "9766c9aefd4f87ed77d6398c87a7a62b",
+      "company": "Bmwramsey",
+      "role": "Bank Healthcare Assistant Daycase",
+      "location": "Kettering, United Kingdom"
+    },
+    "273047c4d79a7a351ab7d26245f15a01": {
+      "id": "273047c4d79a7a351ab7d26245f15a01",
+      "company": "Moderna, Inc.",
+      "role": "(fixed Term) Warehouse Specialist",
+      "location": "Oxford, United Kingdom"
+    },
+    "2b4def98a93ffa533b70fa901ed403a4": {
+      "id": "2b4def98a93ffa533b70fa901ed403a4",
+      "company": "Stagecoach Group",
+      "role": "Vehicle Cleaner",
+      "location": "Carlisle, United Kingdom"
+    },
+    "2e37434a671db1b5f667490a158811bc": {
+      "id": "2e37434a671db1b5f667490a158811bc",
+      "company": "Nuffield Health",
+      "role": "Nursery Assistant - Lunchtime (bank)",
+      "location": "Gloucester, United Kingdom"
+    },
+    "0728c54447462486bcd70404562263e5": {
+      "id": "0728c54447462486bcd70404562263e5",
+      "company": "Nuffield Health",
+      "role": "Nursery Assistant (bank)",
+      "location": "Gloucester, United Kingdom"
+    },
+    "35f64101c5e4bd2b7301523fbb8a6d67": {
+      "id": "35f64101c5e4bd2b7301523fbb8a6d67",
+      "company": "Nuffield Health",
+      "role": "Housekeeping Assistant",
+      "location": "North Staffordshire, United Kingdom"
+    },
+    "d91d44d67bf753ad289bdc07a236f5b0": {
+      "id": "d91d44d67bf753ad289bdc07a236f5b0",
+      "company": "Nuffield Health",
+      "role": "Lifeguard - Weekends (bank)",
+      "location": "Cambridge, United Kingdom"
+    },
+    "873df1ecd7841467bad79b80e125a9ee": {
+      "id": "873df1ecd7841467bad79b80e125a9ee",
+      "company": "BMI Healthcare (Circle)",
+      "role": "Healthcare Assistant - Pre Operative Assessment",
+      "location": "Sheffield, United Kingdom"
+    },
+    "2d29ab9ccd4ce786a8c8b2fe71a9a7c4": {
+      "id": "2d29ab9ccd4ce786a8c8b2fe71a9a7c4",
+      "company": "Upprewards",
+      "role": "Part-time Cleaner",
+      "location": "Nottingham, United Kingdom"
+    },
+    "b6256facc942d2331061a09202dc1577": {
+      "id": "b6256facc942d2331061a09202dc1577",
+      "company": "Aramark UK",
+      "role": "Steward",
+      "location": "Beverley, ERY, GB"
+    },
+    "87720ea1e7615dc03e28394459a1f06f": {
+      "id": "87720ea1e7615dc03e28394459a1f06f",
+      "company": "InPost",
+      "role": "Nights Warehouse Manager 6-month Ftc",
+      "location": "Newbridge, Edinburgh, United Kingdom"
+    },
+    "0c5eb08f3eddb7c508348fec223a4ab2": {
+      "id": "0c5eb08f3eddb7c508348fec223a4ab2",
+      "company": "Xcenda",
+      "role": "Warehouse Operative Ft Ftc",
+      "location": "Exeter, United Kingdom"
+    },
+    "ca1c10800e31726cfb7fd307c79142ae": {
+      "id": "ca1c10800e31726cfb7fd307c79142ae",
+      "company": "Fennies Day Nurseries",
+      "role": "Lunchtime Teaching Assistant",
+      "location": "Addiscombe, , United Kingdom"
+    },
+    "8904d163905634252e900bfab9963ef1": {
+      "id": "8904d163905634252e900bfab9963ef1",
+      "company": "The Hoxton",
+      "role": "Waiter",
+      "location": "Edinburgh, United Kingdom"
+    },
+    "4ac478b84b9e1b490a0c133ee93bc5b1": {
+      "id": "4ac478b84b9e1b490a0c133ee93bc5b1",
+      "company": "Four Seasons Hotel London at Park Lane",
+      "role": "In Room Dining Server - Maternity Cover",
+      "location": "London, United Kingdom"
+    },
+    "0aaa296911e37e875e9fe029c1640051": {
+      "id": "0aaa296911e37e875e9fe029c1640051",
+      "company": "Pinnacle Group",
+      "role": "Caretaker Camden Town £14.80 - £14.80 Temporary Apply By 29 September, 2026 Posted On 25 August, 2026",
+      "location": "Camden Town, London, United Kingdom"
+    },
+    "3a30a17ed076b47b4ed9bbe147e66e66": {
+      "id": "3a30a17ed076b47b4ed9bbe147e66e66",
+      "company": "Agincare Group",
+      "role": "Housekeeper Swindon, United Kingdom (incl. Northern Ireland) £12.72 Part Time Apply By 24 September, 2026",
+      "location": "Swindon, United Kingdom"
+    },
+    "4817b95d7fd8814821b5315665dea5f4": {
+      "id": "4817b95d7fd8814821b5315665dea5f4",
+      "company": "PHS Group",
+      "role": "Warehouse Operative (part Time) - Smethwick",
+      "location": "Smethwick, United Kingdom"
+    },
+    "4a847e33f75c437b59d5de51bc0f128a": {
+      "id": "4a847e33f75c437b59d5de51bc0f128a",
+      "company": "The Brandon Trust",
+      "role": "Support Worker -flaxbourton Flaxbourton, United Kingdom £12.71 -£12.87 Permanent - Full Time & Part-time Apply By 24 September, 2026 Posted On 25 August, 2026",
+      "location": "Flax Bourton, United Kingdom"
+    },
+    "55ae8dbb2c20d19f4a3ba148376bf6a5": {
+      "id": "55ae8dbb2c20d19f4a3ba148376bf6a5",
+      "company": "HCRG Care Group",
+      "role": "Healthcare Assistant Farnham, United Kingdom £25760, Prorated To 30 Hours Permanent - Part Time Apply By 13 September, 2026 Posted On 25 August, 2026",
+      "location": "Farnham, United Kingdom"
+    },
+    "783388894a3e90e911996cb1f8760280": {
+      "id": "783388894a3e90e911996cb1f8760280",
+      "company": "Agincare Group",
+      "role": "Housekeeper Chatham, United Kingdom (incl. Northern Ireland) £12.72 Part Time Apply By 24 September, 2026",
+      "location": "Chatham, United Kingdom"
+    },
+    "90cbbba56d64e9e2bc07d45d13d54d68": {
+      "id": "90cbbba56d64e9e2bc07d45d13d54d68",
+      "company": "Childbase Partnership",
+      "role": "Relief Nursery Practitioner Leighton Buzzard, United Kingdom £12.87-£14.33 Per Hour. Relief/seasonal, Permanent Apply By No Expiry Date Posted On 25 August, 2026",
+      "location": "Leighton Buzzard, Bedfordshire, United Kingdom"
+    },
+    "aa5b4db4a85f6ad40edf0cb5bfe36733": {
+      "id": "aa5b4db4a85f6ad40edf0cb5bfe36733",
+      "company": "Pinnacle Group",
+      "role": "Office Cleaner Hull, United Kingdom £12.71 - £12.71 Permanent Apply By 25 September, 2026 Posted On 25 August, 2026",
+      "location": "Hull, East Riding of Yorkshire, United Kingdom"
+    },
+    "abd1bf3da9ffece6acd01474915d5f91": {
+      "id": "abd1bf3da9ffece6acd01474915d5f91",
+      "company": "Turning Point",
+      "role": "Peer Support Worker Mansfield, United Kingdom £24,773 (£12.84 Per Hour) Part Time Apply By 9 September, 2026 Posted On 25 August, 2026",
+      "location": "Mansfield, United Kingdom"
+    },
+    "c7acf8b56caa4aee92dd36a6ecd1d9ac": {
+      "id": "c7acf8b56caa4aee92dd36a6ecd1d9ac",
+      "company": "Spire Healthcare",
+      "role": "Housekeeper",
+      "location": "Washington, Tyne and Wear, United Kingdom"
+    },
+    "0c428d9b2e4a405b17cc13ae7e58b057": {
+      "id": "0c428d9b2e4a405b17cc13ae7e58b057",
+      "company": "Barry Callebaut AG",
+      "role": "Warehouse Controller",
+      "location": "Banbury, GB"
+    },
+    "bdb393d320ff402df17ffbf7e35119aa": {
+      "id": "bdb393d320ff402df17ffbf7e35119aa",
+      "company": "LKQ Europe",
+      "role": "Delivery Driver/branch Assistant",
+      "location": "Basingstoke, United Kingdom"
+    },
+    "6fa5ce0b62157dfd8a8ce9b2d11038f6": {
+      "id": "6fa5ce0b62157dfd8a8ce9b2d11038f6",
+      "company": "Serco",
+      "role": "Cleaner",
+      "location": "Shropshire, United Kingdom"
+    },
+    "d4039a71ad4b35c49fe0f6dd6ead0bc9": {
+      "id": "d4039a71ad4b35c49fe0f6dd6ead0bc9",
+      "company": "Sofitel Melbourne On Collins",
+      "role": "En - Housekeeping Attendant",
+      "location": "Worsley, United Kingdom"
+    },
+    "1f2b7ec972f85453fc8b0f229c1b7aaf": {
+      "id": "1f2b7ec972f85453fc8b0f229c1b7aaf",
+      "company": "Marshall Motor Group",
+      "role": "Tps Warehouse Operative",
+      "location": "Dartford, United Kingdom"
+    },
+    "1f58ce6d5c7b5e138ef0deaf375cf5f1": {
+      "id": "1f58ce6d5c7b5e138ef0deaf375cf5f1",
+      "company": "Coventry City Council",
+      "role": "Mental Health Support Worker Clifton House, Coventry, United Kingdom (incl. Northern Ireland) £23,185 To £26,403 ( Pro Rata ) Part Time Permanent Apply By 7 September, 2026 Posted On 24 August, 2026",
+      "location": "Coventry, England, United Kingdom"
+    },
+    "3ef1b653c35621b24627ba15b8164580": {
+      "id": "3ef1b653c35621b24627ba15b8164580",
+      "company": "Pinnacle Group",
+      "role": "School Cleaner Harlow £12.71 - £12.71 Temporary Apply By 27 September, 2026 Posted On 24 August, 2026",
+      "location": "Harlow, United Kingdom"
+    },
+    "4f6fb11ef9f1e26965ff51c0949e3f1d": {
+      "id": "4f6fb11ef9f1e26965ff51c0949e3f1d",
+      "company": "Pinnacle Group",
+      "role": "Relief Residential Cleaner Headingley £12.71 - £12.71 Temporary Apply By 1 September, 2026 Posted On 24 August, 2026",
+      "location": "Headingley, United Kingdom"
+    },
+    "53de803dc9eec7ec414068913ff3312a": {
+      "id": "53de803dc9eec7ec414068913ff3312a",
+      "company": "Agincare Group",
+      "role": "Care Assistant - Female Only - Driver Only Woking, United Kingdom (incl. Northern Ireland) Up To £13.75 Per Hour Part Time Apply By 23 September, 2026",
+      "location": "Woking, United Kingdom"
+    },
+    "5756c704e614bbced786425eec0e6560": {
+      "id": "5756c704e614bbced786425eec0e6560",
+      "company": "Pinnacle Group",
+      "role": "Cleaner Harlow £12.71 - £12.71 Temporary Apply By 27 September, 2026 Posted On 24 August, 2026",
+      "location": "Harlow, Essex, United Kingdom"
+    },
+    "5fa29cf6282109cd76bd5f02b227f5a9": {
+      "id": "5fa29cf6282109cd76bd5f02b227f5a9",
+      "company": "Childbase Partnership",
+      "role": "Nursery Cook / Chef Reading, United Kingdom £25,330.50-£31,200 Per Annum (pro-rata) | £12.99-£16.00 Per Hour. Full Time, Fixed Term Apply By No Expiry Date Posted On 24 August, 2026",
+      "location": "Reading, United Kingdom"
+    },
+    "844812e600379847ecb411f91f1bbdcc": {
+      "id": "844812e600379847ecb411f91f1bbdcc",
+      "company": "Childbase Partnership",
+      "role": "Nursery Domestic Assistant Cowley, Oxford, United Kingdom £25,096.50 Per Annum (pro-rata) | £12.87 Per Hour. Part Time, Permanent Apply By No Expiry Date Posted On 24 August, 2026",
+      "location": "Cowley, United Kingdom"
+    },
+    "92e98420af6a63643e090ae23571a563": {
+      "id": "92e98420af6a63643e090ae23571a563",
+      "company": "Childbase Partnership",
+      "role": "Seasonal Nursery Practitioner Houghton Regis, Linmere, United Kingdom £12.87-£14.33 Per Hour. Relief/seasonal, Permanent Apply By No Expiry Date Posted On 24 August, 2026",
+      "location": "Houghton Regis, United Kingdom"
+    },
+    "99ba6566df04d975be6e883435879eff": {
+      "id": "99ba6566df04d975be6e883435879eff",
+      "company": "chorleysouthribble",
+      "role": "Arts & Heritage Cleaner",
+      "location": "Astley Hall, United Kingdom"
+    },
+    "9a500350e3b63b65c6fab0e4fcbf2cb9": {
+      "id": "9a500350e3b63b65c6fab0e4fcbf2cb9",
+      "company": "Childbase Partnership",
+      "role": "Relief Nursery Practitioner Houghton Regis, Linmere, United Kingdom £12.87-£14.33 Per Hour. Relief/seasonal, Permanent Apply By No Expiry Date Posted On 24 August, 2026",
+      "location": "Houghton Regis, United Kingdom"
+    },
+    "ad32e418c1d2c0b32b0a9a0dcbab99a2": {
+      "id": "ad32e418c1d2c0b32b0a9a0dcbab99a2",
+      "company": "Eastwood Day Nursery",
+      "role": "Receptionist/administrative Assistant - Eastwood Day Nursery Greater London, United Kingdom £20,802 Per Annum (scale 2) Term Time Apply By 23 September, 2026 Posted On 24 August, 2026",
+      "location": "London, United Kingdom"
+    },
+    "d73f57fcc74234ab4cac67f78c023e84": {
+      "id": "d73f57fcc74234ab4cac67f78c023e84",
+      "company": "Childbase Partnership",
+      "role": "Qualified Nursery Practitioner (lunch Cover) Houghton Regis, Linmere, United Kingdom £13.00–£14.87 Per Hour. Part Time, Permanent Apply By No Expiry Date Posted On 24 August, 2026",
+      "location": "Houghton Regis, United Kingdom"
+    },
+    "ec18d1b4c121daf34229aa471a824770": {
+      "id": "ec18d1b4c121daf34229aa471a824770",
+      "company": "Affinity Trust",
+      "role": "Bank Support Worker (female) - Bristol Bs7 Bristol, United Kingdom £13.45 - £13.45 Bank Apply By 23 September, 2026 Posted On 24 August, 2026",
+      "location": "Bristol, United Kingdom"
+    },
+    "351a3ec414fc310f7b24bbd3cc5cf695": {
+      "id": "351a3ec414fc310f7b24bbd3cc5cf695",
+      "company": "Sanctuary Care",
+      "role": "Care Assistant",
+      "location": "Peterlee, Durham, GB"
+    },
+    "a5cccdfc24aa25b0f21c88463578d33a": {
+      "id": "a5cccdfc24aa25b0f21c88463578d33a",
+      "company": "Hampshire County Council",
+      "role": "Driver",
+      "location": "New Milton, United Kingdom"
+    },
+    "eee2124ec5a8ce5da23dea45161fcd54": {
+      "id": "eee2124ec5a8ce5da23dea45161fcd54",
+      "company": "newjob",
+      "role": "Learning And Skills Tutor",
+      "location": "Swanwick, Hampshire, United Kingdom"
+    },
+    "b81fce311f9eaf4b7d281cb1c1ec79ee": {
+      "id": "b81fce311f9eaf4b7d281cb1c1ec79ee",
+      "company": "Aramark UK",
+      "role": "Cleaner (temp)",
+      "location": "Thirsk, NYK, GB"
+    },
+    "bed5051237a168c6b919e1a316f3667a": {
+      "id": "bed5051237a168c6b919e1a316f3667a",
+      "company": "Welcome Break",
+      "role": "Temporary Chef",
+      "location": "East Kilbride, Glasgow, United Kingdom"
+    },
+    "f3375747e2596eb6a0407884dfad161c": {
+      "id": "f3375747e2596eb6a0407884dfad161c",
+      "company": "Harrods",
+      "role": "Transport Loader",
+      "location": "Thatcham, United Kingdom"
+    },
+    "1ab30174e7e737d9d3e322f33f99adc2": {
+      "id": "1ab30174e7e737d9d3e322f33f99adc2",
+      "company": "John Lewis & Waitrose",
+      "role": "Warehouse Partner, Nights",
+      "location": "Coulsdon, London, United Kingdom"
+    },
+    "370cc7f1cf5079a8fd1a3f0152546bee": {
+      "id": "370cc7f1cf5079a8fd1a3f0152546bee",
+      "company": "Warehouse Jobs UK",
+      "role": "Delivery Driver 3.5t",
+      "location": "Great Yarmouth, United Kingdom"
+    },
+    "643709f0967bdcd8fd06372f95c56d57": {
+      "id": "643709f0967bdcd8fd06372f95c56d57",
+      "company": "Bupa Group",
+      "role": "Housekeeping Assistant - Bank",
+      "location": "Blyth, United Kingdom"
+    },
+    "64e90b17f6ff075246236a97bc21f90f": {
+      "id": "64e90b17f6ff075246236a97bc21f90f",
+      "company": "Jobs Ups",
+      "role": "Warehouse Operative (evening Shift)",
+      "location": "Stansted, United Kingdom"
+    },
+    "e27bfdcfec58bb8aa5be6d8d3e3b95c4": {
+      "id": "e27bfdcfec58bb8aa5be6d8d3e3b95c4",
+      "company": "EDF Energy Ltd",
+      "role": "Park & Ride Security Officer (part Time) (sizewell C)",
+      "location": "Leiston, Suffolk, GB; Ipswich, Suffolk, GB"
+    },
+    "004b9a4e0b6d78e6bd097caa9e5ba7d8": {
+      "id": "004b9a4e0b6d78e6bd097caa9e5ba7d8",
+      "company": "Wandsworth Council",
+      "role": "Casual Tutor Wandsworth, London, United Kingdom £35.75 Per Hour Casual Apply By 13 September, 2026 Posted On 21 August, 2026",
+      "location": "Wandsworth, London, United Kingdom"
+    },
+    "1087a98613fa765ddb88b7d3ca682a79": {
+      "id": "1087a98613fa765ddb88b7d3ca682a79",
+      "company": "autismanglia",
+      "role": "Support Worker - Part Time – Supported Living Colchester, Co1, United Kingdom £13,515.47 Per Annum (£12.96 Per Hour) Permanent Apply By No Expiry Date Posted On 21 August, 2026",
+      "location": "Colchester, United Kingdom"
+    },
+    "1560f78377fbd7c1fbdbe96978f630ea": {
+      "id": "1560f78377fbd7c1fbdbe96978f630ea",
+      "company": "W Brisbane",
+      "role": "Casual Housekeeping Room Attendant",
+      "location": "Edinburgh, United Kingdom"
+    },
+    "38dfba5adb1b70169db2ff858da65b02": {
+      "id": "38dfba5adb1b70169db2ff858da65b02",
+      "company": "Speedy Asset Services Ltd",
+      "role": "Driver Category C + Hiab + Adr Newport, United Kingdom Competitive Temporary / Casual Apply By 21 September, 2026 Posted On 21 August, 2026",
+      "location": "Newport, United Kingdom"
+    },
+    "7993a704734bbf65193bc540c0b81983": {
+      "id": "7993a704734bbf65193bc540c0b81983",
+      "company": "Aspens Services Ltd",
+      "role": "Catering Assistant East London, United Kingdom £12.71 Per Hour Fixed Term Apply By 20 September, 2026 Posted On 21 August, 2026",
+      "location": "East London, United Kingdom"
+    },
+    "952cf7592e1b321adf296ca79d25a7bc": {
+      "id": "952cf7592e1b321adf296ca79d25a7bc",
+      "company": "Agincare Group",
+      "role": "Care Assistant - Driver Only Christchurch, United Kingdom (incl. Northern Ireland) Up To £13.40 Part Time Apply By 20 September, 2026",
+      "location": "Christchurch, United Kingdom"
+    },
+    "9ea36066ff86eef412db62d2f3d75764": {
+      "id": "9ea36066ff86eef412db62d2f3d75764",
+      "company": "Marriott International",
+      "role": "Casual Housekeeping Room Attendant",
+      "location": "Edinburgh, United Kingdom"
+    },
+    "5efd16e79a1a98fe1e2605a6507fcec2": {
+      "id": "5efd16e79a1a98fe1e2605a6507fcec2",
+      "company": "Sofitel Melbourne On Collins",
+      "role": "Breakfast Waitress/waiter - Chef De Rang - Casual",
+      "location": "London, United Kingdom"
+    },
+    "ed986a08587f51e0ebd3424b0f4830f9": {
+      "id": "ed986a08587f51e0ebd3424b0f4830f9",
+      "company": "Sofitel Melbourne On Collins",
+      "role": "Bar Server (0-hour Casual Contract), The Savoy Hotel",
+      "location": "London, United Kingdom"
+    },
+    "ed945d56a012d0ad6e960648c235e5b0": {
+      "id": "ed945d56a012d0ad6e960648c235e5b0",
+      "company": "Sofitel Melbourne On Collins",
+      "role": "Junior Sous Chef - Colleague Restaurant, The Savoy Hotel",
+      "location": "London, United Kingdom"
+    },
+    "8907ffaefd5a1d65df9f00276996e1c4": {
+      "id": "8907ffaefd5a1d65df9f00276996e1c4",
+      "company": "Sofitel Melbourne On Collins",
+      "role": "Chef De Partie In The Events Kitchen, The Savoy Hotel",
+      "location": "London, United Kingdom"
+    },
+    "387747174d84015b425048f606c5c39f": {
+      "id": "387747174d84015b425048f606c5c39f",
+      "company": "Carlisle Support Services",
+      "role": "Matchday Security Officer - Training Provided Leeds, United Kingdom £14.4 - £15 Temporary/casual Apply By 19 September, 2026 Posted On 20 August, 2026",
+      "location": "Leeds, United Kingdom"
+    },
+    "5052a76e3e36503a7f71e6e73032dcd0": {
+      "id": "5052a76e3e36503a7f71e6e73032dcd0",
+      "company": "Ecotricity Group",
+      "role": "Cleaning Crew Member",
+      "location": "Stroud, England, United Kingdom"
+    },
+    "5b699e206aa6356063ea5cc3c23986f9": {
+      "id": "5b699e206aa6356063ea5cc3c23986f9",
+      "company": "NEXT",
+      "role": "Van Driver - Cheshire Coliseum (n122008)",
+      "location": "Ellesmere Port, United Kingdom"
+    },
+    "7a1f116170a8a14dec9fac41d9a1802a": {
+      "id": "7a1f116170a8a14dec9fac41d9a1802a",
+      "company": "Spire Healthcare",
+      "role": "Bank Healthcare Assistant - Poa",
+      "location": "Harpenden, United Kingdom"
+    },
+    "a5cfa7e94c65e1727fecd62b16a20a8d": {
+      "id": "a5cfa7e94c65e1727fecd62b16a20a8d",
+      "company": "Landmarc Solutions",
+      "role": "Cleaning Operative Beckingham Training Area, Beckingham, Lincoln, United Kingdom £25,875.72 + £1,127.50 Variable Days Allowance Fixed Term/contract Apply By 30 August, 2026 Posted On 20 August, 2026",
+      "location": "Beckingham, Lincoln, United Kingdom"
+    },
+    "df7d1b3fcd53acc7984ee88ec4e6b831": {
+      "id": "df7d1b3fcd53acc7984ee88ec4e6b831",
+      "company": "sb-fm",
+      "role": "Casual Cleaner",
+      "location": "London, GB"
+    },
+    "targetjobs:80473bfc-6dd2-4902-9dd4-9d433cb96cf7": {
+      "id": "targetjobs:80473bfc-6dd2-4902-9dd4-9d433cb96cf7",
+      "company": "Elementa Support Services",
+      "role": "Graduate Teaching Assistant",
+      "location": "Cardiff, United Kingdom"
+    },
+    "targetjobs:b5479379-19da-4216-8055-9f7f42618b2d": {
+      "id": "targetjobs:b5479379-19da-4216-8055-9f7f42618b2d",
+      "company": "UCL",
+      "role": "Post Graduate Teaching Assistant (PGTA) - CDE",
+      "location": "London, United Kingdom"
+    },
+    "0c8b7898be691a59e838543c45e977c5": {
+      "id": "0c8b7898be691a59e838543c45e977c5",
+      "company": "Harrods",
+      "role": "Pastry Demi Chef De Partie - Production Kitchens",
+      "location": "Knightsbridge, United Kingdom"
+    },
+    "b60ddce4898d171e490194cfb57cc710": {
+      "id": "b60ddce4898d171e490194cfb57cc710",
+      "company": "Lowes Companies Inc",
+      "role": "Part Time - Loader/cart Associate - Flexible",
+      "location": "Yukon, OK, United Kingdom"
+    },
+    "b6e0980e1691c0eb5678ffca8ad6d363": {
+      "id": "b6e0980e1691c0eb5678ffca8ad6d363",
+      "company": "Old Thorns Hotel & Resort",
+      "role": "Restaurant Assistant",
+      "location": "Liphook, United Kingdom"
+    },
+    "3ab1ef6ca85ffb35563f929d46d1c8a8": {
+      "id": "3ab1ef6ca85ffb35563f929d46d1c8a8",
+      "company": "Bmwramsey",
+      "role": "Catering Assistant - Bank",
+      "location": "Colchester, United Kingdom"
+    },
+    "b26862acf902bbe3ea376956043cfa14": {
+      "id": "b26862acf902bbe3ea376956043cfa14",
+      "company": "W Brisbane",
+      "role": "Hotel Cleanliness Expert - Casual Room Attendant",
+      "location": "London, England, United Kingdom"
+    },
+    "8c09039193b3941f7442e87445b06f3b": {
+      "id": "8c09039193b3941f7442e87445b06f3b",
+      "company": "Nuffield Health",
+      "role": "Driver (bank)",
+      "location": "Cambridge, United Kingdom"
+    },
+    "cabdb992a52b32554f597871abf4c3a2": {
+      "id": "cabdb992a52b32554f597871abf4c3a2",
+      "company": "BMI Healthcare (Circle)",
+      "role": "Healthcare Assistant - 12 Months Fixed Term",
+      "location": "Harrow, United Kingdom"
+    },
+    "bbd9fb730dd3173fe0c48f02f6913452": {
+      "id": "bbd9fb730dd3173fe0c48f02f6913452",
+      "company": "Upprewards",
+      "role": "Part-time Cleaner (fixed Term)",
+      "location": "Swansea, United Kingdom"
+    },
+    "782dc79e3d7f99e7db9a23c46b087d00": {
+      "id": "782dc79e3d7f99e7db9a23c46b087d00",
+      "company": "Southampton Football Club",
+      "role": "Casual Chef De Partie",
+      "location": "Staplewood, United Kingdom"
+    },
+    "c02036fe2d934a0495bc8e9975c678e9": {
+      "id": "c02036fe2d934a0495bc8e9975c678e9",
+      "company": "Footballjobboard",
+      "role": "Casual Academy Minibus Driver - Bournemouth",
+      "location": "Bournemouth, United Kingdom"
+    },
+    "886de219256a99f0a8ebb05a5859e4a5": {
+      "id": "886de219256a99f0a8ebb05a5859e4a5",
+      "company": "Bupa Group",
+      "role": "Senior Care Assistant",
+      "location": "Bradford, United Kingdom"
+    },
+    "ed332385ccbba29ac0e4cd1a01414cdd": {
+      "id": "ed332385ccbba29ac0e4cd1a01414cdd",
+      "company": "TES Global",
+      "role": "Learner Support Tutor",
+      "location": "London, United Kingdom"
+    },
+    "e6a6bfc20cfdb6b850911d02d61f83c4": {
+      "id": "e6a6bfc20cfdb6b850911d02d61f83c4",
+      "company": "Xcenda",
+      "role": "Warehouse Operative - 3 Month Contract",
+      "location": "Leeds, United Kingdom"
+    },
+    "3689c5b8f89350b24683eecce7637573": {
+      "id": "3689c5b8f89350b24683eecce7637573",
+      "company": "GXO Logistics",
+      "role": "Warehouse Operative Ftc - 6",
+      "location": "Northampton, England, United Kingdom"
+    },
+    "6260a616a2dae8d471806425ae16becb": {
+      "id": "6260a616a2dae8d471806425ae16becb",
+      "company": "InPost",
+      "role": "Delivery Driver - Self Employed",
+      "location": "Sandwell, West Midlands, United Kingdom"
+    },
+    "3a1c3c3fa3abbc23f20c2af0d0ee77a6": {
+      "id": "3a1c3c3fa3abbc23f20c2af0d0ee77a6",
+      "company": "Agincare Group",
+      "role": "Bank Night Care Assistant Winslow, United Kingdom (incl. Northern Ireland) £12.91 Part Time Apply By 18 September, 2026",
+      "location": "Winslow, United Kingdom"
+    },
+    "7dfe055d0ca77ca7e08446d424312793": {
+      "id": "7dfe055d0ca77ca7e08446d424312793",
+      "company": "Spire Healthcare",
+      "role": "Bank Host And Catering Assistant",
+      "location": "Edinburgh, United Kingdom"
+    },
+    "9bc3f28bac245ba9cca6ece099f43f5a": {
+      "id": "9bc3f28bac245ba9cca6ece099f43f5a",
+      "company": "NEXT",
+      "role": "Level 3 Nursery Practitioner- 20 Hours",
+      "location": "Leicester, United Kingdom"
+    },
+    "1976f7444aa989b9fe43bc8af1ae104e": {
+      "id": "1976f7444aa989b9fe43bc8af1ae104e",
+      "company": "DHL UK",
+      "role": "Press Vehicle Delivery Driver",
+      "location": "Milton Keynes, United Kingdom"
+    },
+    "50948f537b13192c3ca56e6008a64f3e": {
+      "id": "50948f537b13192c3ca56e6008a64f3e",
+      "company": "DHL UK",
+      "role": "Warehouse Operative - 6 Hours Per Week",
+      "location": "Preston, United Kingdom"
+    },
+    "5599da155d1367931fd0adfd4551383b": {
+      "id": "5599da155d1367931fd0adfd4551383b",
+      "company": "DAMART S.A",
+      "role": "Warehouse Operative - Fixed Term",
+      "location": "Steeton, West Yorkshire, United Kingdom"
+    },
+    "6232884272e4beb7c3dfa768e679a63d": {
+      "id": "6232884272e4beb7c3dfa768e679a63d",
+      "company": "InPost",
+      "role": "Warehouse Operative (pm Picking &amp; Packing) Part/time",
+      "location": "Coventry, West Midlands, United Kingdom"
+    },
+    "1146537c314a9be90961466ab8f633a7": {
+      "id": "1146537c314a9be90961466ab8f633a7",
+      "company": "Sixt",
+      "role": "Part-time Valeter/driver - Stansted Airport",
+      "location": "Stansted, United Kingdom"
+    },
+    "dff36743e3ff57e2549f9a326c68a51f": {
+      "id": "dff36743e3ff57e2549f9a326c68a51f",
+      "company": "Sofitel Melbourne On Collins",
+      "role": "Breakfast Chef De Rang - Casual",
+      "location": "London, United Kingdom"
+    },
+    "bc4009244fca5d9136800ce6a571fa75": {
+      "id": "bc4009244fca5d9136800ce6a571fa75",
+      "company": "Avery Healthcare Group",
+      "role": "Housekeeping Assistant - Bank Newcross Care Home, 378 Prestwood Road, Wolverhampton, United Kingdom £12.72 Per Hour Bank Apply By 7 September, 2026 Posted On 17 August, 2026",
+      "location": "Wolverhampton, West Midlands, United Kingdom"
+    },
+    "db72b3fbf79e7e380149ec3262a47921": {
+      "id": "db72b3fbf79e7e380149ec3262a47921",
+      "company": "Avery Healthcare Group",
+      "role": "Housekeeping Assistant - Bank Frognal House Care Home, Frognal Avenue, Sidcup, Kent, United Kingdom £12.75 Per Hour Bank Apply By 7 September, 2026 Posted On 17 August, 2026",
+      "location": "Sidcup, Kent, United Kingdom"
+    },
+    "4c0390cc25eca3c72badc10f4351440d": {
+      "id": "4c0390cc25eca3c72badc10f4351440d",
+      "company": "InPost",
+      "role": "Warehouse Parcel Sorter (am Part/time)",
+      "location": "Carlisle, Cumbria, United Kingdom"
+    },
+    "0ea870afb5495803961c44510f211bd5": {
+      "id": "0ea870afb5495803961c44510f211bd5",
+      "company": "InPost",
+      "role": "Warehouse Operative (nights - Part/time)",
+      "location": "Dundee, Scotland, United Kingdom"
+    },
+    "824581d23e09c0e3b80c86e66c03bb07": {
+      "id": "824581d23e09c0e3b80c86e66c03bb07",
+      "company": "St. Regis Hotels & Resorts",
+      "role": "Casual Room Attendant - Sheraton Grand London Park Lane",
+      "location": "London, London, GB"
+    },
+    "0d0539495a1a1ee1f0c90d5529e23755": {
+      "id": "0d0539495a1a1ee1f0c90d5529e23755",
+      "company": "Avante Care & Support",
+      "role": "Kitchen Assistant - Care Home In Sidcup Sidcup, United Kingdom £12.75 - £12.95 Relief/ Bank/ Casual Apply By 17 September, 2026 Posted On 18 August, 2026",
+      "location": "Sidcup, United Kingdom"
+    },
+    "23cf8a0fa7b94d498261dc49c82d0a5e": {
+      "id": "23cf8a0fa7b94d498261dc49c82d0a5e",
+      "company": "The Ritz-Carlton",
+      "role": "Hotel Cleanliness Expert - Casual Room Attendant",
+      "location": "London, United Kingdom"
+    },
+    "33e39e202da307e43d3971bd9e53c3b2": {
+      "id": "33e39e202da307e43d3971bd9e53c3b2",
+      "company": "Marriott International",
+      "role": "Hotel Cleanliness Expert - Casual Room Attendant",
+      "location": "London, United Kingdom"
+    },
+    "3e6318deb6b042d615c130254993c850": {
+      "id": "3e6318deb6b042d615c130254993c850",
+      "company": "University of Edinburgh School of Engineering",
+      "role": "R(d)svs Student Ambassador",
+      "location": "Edinburgh, United Kingdom"
+    },
+    "997b69aa14f4e52281eaec5a31f84355": {
+      "id": "997b69aa14f4e52281eaec5a31f84355",
+      "company": "chorleysouthribble",
+      "role": "Front Of House Assistant (hospitality)",
+      "location": "Leyland, PR25 1DJ, United Kingdom"
+    },
+    "ee91de6d921b2cdcb80d1bc9b8ca31b8": {
+      "id": "ee91de6d921b2cdcb80d1bc9b8ca31b8",
+      "company": "Aspens Services Ltd",
+      "role": "Chef Manager Gresham, Norfolk, United Kingdom £14.00 - £14.00 Maternity Cover Apply By 17 September, 2026 Posted On 18 August, 2026",
+      "location": "Gresham, Norfolk, United Kingdom"
+    },
+    "8386e64051d923b4b8775d4f42341f5e": {
+      "id": "8386e64051d923b4b8775d4f42341f5e",
+      "company": "GPC Tools & Equipment Sydney",
+      "role": "Driver",
+      "location": "Coleraine, United Kingdom"
+    },
+    "385f371be96e00c1a0bb9a3d39d13e1c": {
+      "id": "385f371be96e00c1a0bb9a3d39d13e1c",
+      "company": "Bmwramsey",
+      "role": "Bank Chef",
+      "location": "Hitchin, United Kingdom"
+    },
+    "b958c3bef541c0bf7b713b539fbf608d": {
+      "id": "b958c3bef541c0bf7b713b539fbf608d",
+      "company": "Bmwramsey",
+      "role": "Health Care Assistant - Ward",
+      "location": "Chorley, United Kingdom"
+    },
+    "170bb3ec5c79f63eb3c8278de20ed117": {
+      "id": "170bb3ec5c79f63eb3c8278de20ed117",
+      "company": "Liverpool Football Club and Athletic Grounds Ltd",
+      "role": "Casual Retail Sales Advisor Williamson Square, Liverpool City Centre, United Kingdom Up To £13.45 Casual Apply By 24 August, 2026 Posted On 17 August, 2026",
+      "location": "Liverpool City Centre, United Kingdom"
+    },
+    "47e575ad8ca00d9c77e594d9a5c7afaa": {
+      "id": "47e575ad8ca00d9c77e594d9a5c7afaa",
+      "company": "The Ritz-Carlton",
+      "role": "Casual Room Attendant - Sheraton Grand London Park Lane",
+      "location": "London, United Kingdom"
+    },
+    "ee48a1a935691184638d0861a03943d0": {
+      "id": "ee48a1a935691184638d0861a03943d0",
+      "company": "Eden Futures",
+      "role": "Support Worker - Bank Including Weekend Availability Ollerton, United Kingdom Up To 27758.64 Bank/ Zero Hours Apply By 16 September, 2026 Posted On 17 August, 2026",
+      "location": "Ollerton, United Kingdom"
+    },
+    "efb0c568f8d939d55cf261f788cda859": {
+      "id": "efb0c568f8d939d55cf261f788cda859",
+      "company": "Cotton On",
+      "role": "Dc Team Member Part Time Fixed Term Contract – Cotton On Distribution Centre Uk, Blenheim Industrial Estate Bulwell, Nottingham",
+      "location": "Nottingham, United Kingdom"
+    },
+    "db54d65167dd05a25dd4cad40f8bac25": {
+      "id": "db54d65167dd05a25dd4cad40f8bac25",
+      "company": "Seetec",
+      "role": "Credit Control Delivery Tutor 3 Month Fixed Term Contract",
+      "location": "United Kingdom, GB"
+    },
+    "0f951bb7f0439744b223dcdc24cde400": {
+      "id": "0f951bb7f0439744b223dcdc24cde400",
+      "company": "Ramsay Health Care UK",
+      "role": "Chef",
+      "location": "Bingley, United Kingdom"
+    },
+    "313a28ca5907ada26b8d2fb0e18c71df": {
+      "id": "313a28ca5907ada26b8d2fb0e18c71df",
+      "company": "GXO Logistics, Inc.",
+      "role": "Warehouse Operative",
+      "location": "Greenford, England, United Kingdom"
+    },
+    "694c6a40d7d3443c75d2ef63dfb735c3": {
+      "id": "694c6a40d7d3443c75d2ef63dfb735c3",
+      "company": "Spire Healthcare",
+      "role": "Bank Healthcare Assistant - Opd",
+      "location": "Southampton, Hampshire, United Kingdom"
+    },
+    "c11ce7f1aa8e7e613ff22bb4a0cee233": {
+      "id": "c11ce7f1aa8e7e613ff22bb4a0cee233",
+      "company": "Currys",
+      "role": "Fork Lift Truck Driver",
+      "location": "Carmarthen, Wales, United Kingdom"
+    },
+    "fc1f10ee27e7ebc154239ac377fa9d7e": {
+      "id": "fc1f10ee27e7ebc154239ac377fa9d7e",
+      "company": "UK Power Networks Ltd",
+      "role": "Logistics Hgv Driver",
+      "location": "Maidstone, Kent, United Kingdom"
+    },
+    "fa6dc3f479ec5782d4ecdccdf1b1c6f7": {
+      "id": "fa6dc3f479ec5782d4ecdccdf1b1c6f7",
+      "company": "Sports Direct",
+      "role": "Casual Sales Assistant Loch Lomond",
+      "location": "Balloch, United Kingdom"
+    },
+    "6b9eb98b6725616d58b5f68f75f6b0c6": {
+      "id": "6b9eb98b6725616d58b5f68f75f6b0c6",
+      "company": "Greene King",
+      "role": "Admin Operations Team Leader",
+      "location": "Burton, United Kingdom"
+    },
+    "87ecdd6b9cc039f9ddaa3dec37cbb943": {
+      "id": "87ecdd6b9cc039f9ddaa3dec37cbb943",
+      "company": "Koninklijke BAM Groep NV",
+      "role": "Leisure Assistant",
+      "location": "Wallyford, Scotland, GB"
+    },
+    "f7f73266cafbe13836a9414965bf4186": {
+      "id": "f7f73266cafbe13836a9414965bf4186",
+      "company": "Junior Adventures Group",
+      "role": "After School Club Playworker - Bradford On Avon Ba15",
+      "location": "Bradford upon Avon, United Kingdom"
+    },
+    "cac7137ab1ab4678705d1bbd6a179151": {
+      "id": "cac7137ab1ab4678705d1bbd6a179151",
+      "company": "Avery Healthcare Group",
+      "role": "Care Assistant - Bank Brentwood Arches Care Home, London Road, Brentwood, Essex, United Kingdom £13.10 To £13.60 Per Hour Bank Apply By 3 September, 2026 Posted On 13 August, 2026",
+      "location": "Brentwood, Essex, United Kingdom"
+    },
+    "187da762358d8b018d1dd43ae63a30cf": {
+      "id": "187da762358d8b018d1dd43ae63a30cf",
+      "company": "St. Regis Hotels & Resorts",
+      "role": "F&b Team Members Kitchen & Bistro",
+      "location": "Exeter, United Kingdom"
+    },
+    "5cc5c1791514f318cac4404de889d714": {
+      "id": "5cc5c1791514f318cac4404de889d714",
+      "company": "Liverpool Football Club and Athletic Grounds Ltd",
+      "role": "Casual Matchday Kitchen Assistants Anfield Stadium, Anfield Road Anfield Liverpool, United Kingdom Up To £13.45 Casual Apply By 30 September, 2026 Posted On 14 August, 2026",
+      "location": "Liverpool, United Kingdom"
+    },
+    "5e5f8e3d94ad71647c79c8edab1f177c": {
+      "id": "5e5f8e3d94ad71647c79c8edab1f177c",
+      "company": "The Ritz-Carlton",
+      "role": "Hotel Cleanliness Expert Guest Room Attendant Maternity Cover(ftc) - London Marriott Hotel Grosvenor Square",
+      "location": "London, United Kingdom"
+    },
+    "8289038d9bf5ce40da5c994156634840": {
+      "id": "8289038d9bf5ce40da5c994156634840",
+      "company": "Carlisle Support Services",
+      "role": "Security Officer Ascot , United Kingdom £13.45 Part Time Apply By 13 September, 2026 Posted On 14 August, 2026",
+      "location": "Ascot, United Kingdom"
+    },
+    "927b46fecc102a4184c7e92141ca7a41": {
+      "id": "927b46fecc102a4184c7e92141ca7a41",
+      "company": "St. Regis Hotels & Resorts",
+      "role": "Hotel Cleanliness Expert Guest Room Attendant Maternity Cover(ftc) - London Marriott Hotel Grosvenor Square",
+      "location": "London, United Kingdom"
+    },
+    "b4ba91fe3a9f8e6bc12c082e4adbb19d": {
+      "id": "b4ba91fe3a9f8e6bc12c082e4adbb19d",
+      "company": "Gray Healthcare Ltd",
+      "role": "Bank Support Worker Wrexham, United Kingdom 13.50 Temporary/casual Apply By 4 September, 2026 Posted On 14 August, 2026",
+      "location": "Wrexham, United Kingdom"
+    },
+    "f4d95a5221c1885db85577714ed0ffbc": {
+      "id": "f4d95a5221c1885db85577714ed0ffbc",
+      "company": "The Ritz-Carlton",
+      "role": "F&b Team Members Kitchen & Bistro",
+      "location": "Exeter, United Kingdom"
+    },
+    "98052c5f3bde9e222f1fbd54c77f2801": {
+      "id": "98052c5f3bde9e222f1fbd54c77f2801",
+      "company": "Henderson Group",
+      "role": "Class 1 Driver - Logistics Wholesale",
+      "location": "Mallusk, Newtownabbey, Northern Ireland, United Kingdom"
+    },
+    "6c8066f5c16d5fa25c783b3efc442b28": {
+      "id": "6c8066f5c16d5fa25c783b3efc442b28",
+      "company": "Nuffield Health",
+      "role": "Nursery Nurse",
+      "location": "Medway, United Kingdom"
+    },
+    "12a47b4b25e109042b95406055398f2e": {
+      "id": "12a47b4b25e109042b95406055398f2e",
+      "company": "Circle Health Group",
+      "role": "Healthcare Assistant - 12 Month Fixed Term",
+      "location": "Reading, England, United Kingdom"
+    },
+    "898fd625f9363459bcf45d9b37e9602f": {
+      "id": "898fd625f9363459bcf45d9b37e9602f",
+      "company": "Bupa",
+      "role": "Kitchen Assistant - Bank",
+      "location": "Wilmslow, United Kingdom"
+    },
+    "756b30c907af0bdb38fcbf3d826bed8c": {
+      "id": "756b30c907af0bdb38fcbf3d826bed8c",
+      "company": "Joseph Gallagher Ltd",
+      "role": "Tractor Driver With Hgv Class 1",
+      "location": "Bourne, England, United Kingdom"
+    },
+    "4f87a10e4cdb2a12b1edc505b2e04520": {
+      "id": "4f87a10e4cdb2a12b1edc505b2e04520",
+      "company": "Marriott International",
+      "role": "Casual Commis Chef",
+      "location": "Edinburgh, Scotland, GB"
+    },
+    "36c3f975a30fe72d956ed81599f402ec": {
+      "id": "36c3f975a30fe72d956ed81599f402ec",
+      "company": "GXO Logistics",
+      "role": "Multi Task Warehouse Operative 12 Month Ftc",
+      "location": "Glasgow, Scotland, United Kingdom"
+    },
+    "6cef992f16dc1516307e7c003b4b7d83": {
+      "id": "6cef992f16dc1516307e7c003b4b7d83",
+      "company": "GXO Logistics",
+      "role": "Warehouse Team Leader",
+      "location": "Swadlincote, Derbyshire, United Kingdom"
+    },
+    "906ecf6618f06c22df69f14e11dc2a22": {
+      "id": "906ecf6618f06c22df69f14e11dc2a22",
+      "company": "Countrywide Healthcare Supplies",
+      "role": "Cleaning Operative",
+      "location": "Barnsley, South Yorkshire, United Kingdom"
+    },
+    "9c7539733f1665e2fe33cb7b5371dc49": {
+      "id": "9c7539733f1665e2fe33cb7b5371dc49",
+      "company": "Bestway National Chemist Ltd",
+      "role": "Delivery Driver Keighley, United Kingdom (incl. Northern Ireland) £12.24 - £12.24 Permanent - Part Time Apply By 12 September, 2026 Posted On 13 August, 2026",
+      "location": "Keighley, Country, United Kingdom"
+    },
+    "cbee3303e205d001324492b3dba9a047": {
+      "id": "cbee3303e205d001324492b3dba9a047",
+      "company": "Agincare Group",
+      "role": "Cook - Bank Fareham, United Kingdom (incl. Northern Ireland) £13.30 Part Time Apply By 12 September, 2026",
+      "location": "Fareham, Hampshire, United Kingdom"
+    },
+    "df293083e45c05ec172f8aa194a3ec5d": {
+      "id": "df293083e45c05ec172f8aa194a3ec5d",
+      "company": "Community Integrated Care",
+      "role": "Support Worker Temporary",
+      "location": "All Locations, United Kingdom"
+    },
+    "576854511931e7de2fb22e4dacd59467": {
+      "id": "576854511931e7de2fb22e4dacd59467",
+      "company": "Motionsolutions",
+      "role": "Warehouse Operative (outbound / Shipping Lanes)",
+      "location": "Gbr Aag, United Kingdom"
+    },
+    "c1516d6ce11dc5895efda8477cceb60f": {
+      "id": "c1516d6ce11dc5895efda8477cceb60f",
+      "company": "Windsor Forest Colleges Group",
+      "role": "Pastoral Support Tutor Windsor College St Leonards Road, Windsor, Berkshire, Sl4 3az, United Kingdom £12969.10 - £13802.20 Permanent Apply By 11 September, 2026 Posted On 12 August, 2026",
+      "location": "Windsor, Berkshire, United Kingdom"
+    },
+    "1547f5f5438853924aa5e96b09ce57b2": {
+      "id": "1547f5f5438853924aa5e96b09ce57b2",
+      "company": "Royal Mail",
+      "role": "Parcel Delivery Driver",
+      "location": "Rotherhithe, London, United Kingdom"
+    },
+    "544e8f9fda0f800bf2777e9f7a82f317": {
+      "id": "544e8f9fda0f800bf2777e9f7a82f317",
+      "company": "W Brisbane",
+      "role": "Chef De Partie (casual) - Sheraton Heathrow Hotel",
+      "location": "Heathrow Airport, West Drayton, England, GB"
+    },
+    "f581654c688bac841649fba9e1d0508f": {
+      "id": "f581654c688bac841649fba9e1d0508f",
+      "company": "InPost",
+      "role": "Warehouse Depot Administrator (part/time)",
+      "location": "Carlisle, England, United Kingdom"
+    },
+    "6f994fe228b192609e874a000b989318": {
+      "id": "6f994fe228b192609e874a000b989318",
+      "company": "InPost",
+      "role": "Warehouse Operative (nights) Part/time",
+      "location": "Aberdeen, Scotland, United Kingdom"
+    },
+    "0f20c54d85a4971dc051204fed651abc": {
+      "id": "0f20c54d85a4971dc051204fed651abc",
+      "company": "The Ritz-Carlton",
+      "role": "Casual Commis Chef",
+      "location": "Edinburgh, United Kingdom"
+    },
+    "b81e87695ce4195f5a0157e8c622edb9": {
+      "id": "b81e87695ce4195f5a0157e8c622edb9",
+      "company": "Atlas FM",
+      "role": "Relief Security Officer",
+      "location": "Bristol, England, United Kingdom; North Somerset, England, United Kingdom"
+    },
+    "b8fead378586b4818853f4d14160bb92": {
+      "id": "b8fead378586b4818853f4d14160bb92",
+      "company": "St. Regis Hotels & Resorts",
+      "role": "Casual Commis Chef",
+      "location": "Edinburgh, United Kingdom"
+    },
+    "be08f6b333577e5252b581d71636309b": {
+      "id": "be08f6b333577e5252b581d71636309b",
+      "company": "Agincare Group",
+      "role": "Care Assistant - Maternity Cover Chatham, United Kingdom (incl. Northern Ireland) £12.76 Temporary Apply By 11 September, 2026",
+      "location": "Chatham, Kent, United Kingdom"
+    },
+    "d47d3c2e94dde731c5240cbb4c2db28b": {
+      "id": "d47d3c2e94dde731c5240cbb4c2db28b",
+      "company": "The Brandon Trust",
+      "role": "Bank Support Worker - Warwickshire Nuneaton, Rugby £12.71 Bank/casual Shifts Apply By 11 September, 2026 Posted On 12 August, 2026",
+      "location": "Nuneaton, Warwickshire, United Kingdom; Rugby, Warwickshire, United Kingdom"
+    },
+    "013f38e45bdd9e93639fae471ceaef5d": {
+      "id": "013f38e45bdd9e93639fae471ceaef5d",
+      "company": "Avery Healthcare Group",
+      "role": "Kitchen Assistant - Bank Darwin Court Care Home, Wissage Road, Lichfield, United Kingdom £12.22 Per Hour Bank Apply By 25 August, 2026 Posted On 11 August, 2026",
+      "location": "Lichfield, United Kingdom"
+    },
+    "27440b325ca200cbc64a65a0bfe79ea9": {
+      "id": "27440b325ca200cbc64a65a0bfe79ea9",
+      "company": "Smiggle",
+      "role": "Sales Assistant - Smiggle Uk - Glasgow Silverburn",
+      "location": "Glasgow, United Kingdom"
+    },
+    "538834dcbb83f67b4e45c5fdbd9fb13f": {
+      "id": "538834dcbb83f67b4e45c5fdbd9fb13f",
+      "company": "Harrods",
+      "role": "Driver-2",
+      "location": "Thatcham, United Kingdom"
+    },
+    "5f3d4236a6669ccdd845ddabec968d5c": {
+      "id": "5f3d4236a6669ccdd845ddabec968d5c",
+      "company": "clarionexa.click",
+      "role": "Community Caretaker - 36",
+      "location": "Plymouth, United Kingdom"
+    },
+    "d5ebc121e9934a9b307da55e665d0acf": {
+      "id": "d5ebc121e9934a9b307da55e665d0acf",
+      "company": "Bmwramsey",
+      "role": "Bank Health Care Assistant - Outpatients",
+      "location": "Sawbridgeworth, United Kingdom"
+    },
+    "targetjobs:bbaac8eb-da8d-44c8-b763-04b113d008e2": {
+      "id": "targetjobs:bbaac8eb-da8d-44c8-b763-04b113d008e2",
+      "company": "Isle Of Wight Council",
+      "role": "Under-Graduate Support Worker",
+      "location": "Newport, Isle of Wight, GB"
+    },
+    "955c726d2e896f5bab913c4e77720111": {
+      "id": "955c726d2e896f5bab913c4e77720111",
+      "company": "Upprewards",
+      "role": "Cleaner (zero Hours Contract)",
+      "location": "Nottingham, United Kingdom"
+    },
+    "0434b8c6e47a161825246e6aa7eab377": {
+      "id": "0434b8c6e47a161825246e6aa7eab377",
+      "company": "NEXT",
+      "role": "Level 3 Nursery Practitioner -24 Hours",
+      "location": "Leicester, United Kingdom"
+    },
+    "18d82090899ab3301082b8a209d9cd2f": {
+      "id": "18d82090899ab3301082b8a209d9cd2f",
+      "company": "Hilton Grand Vacations",
+      "role": "Kitchen Porter - Casual",
+      "location": "United Kingdom, United Kingdom"
+    },
+    "27f1dc9f083d35f9a7c2f19d1cc8d9e3": {
+      "id": "27f1dc9f083d35f9a7c2f19d1cc8d9e3",
+      "company": "Affinity Trust",
+      "role": "Bank Support Worker - Wells/street, Somerset Wells, Somerset, United Kingdom £12.90 - £12.90 Bank Apply By 10 September, 2026 Posted On 11 August, 2026",
+      "location": "Wells, Somerset, United Kingdom; Street, Somerset, United Kingdom"
+    },
+    "77eced4bb1f27d00c4a544ceb3338ea9": {
+      "id": "77eced4bb1f27d00c4a544ceb3338ea9",
+      "company": "Agincare Group",
+      "role": "Bank Care Assistant High Wycombe, United Kingdom (incl. Northern Ireland) £12.91 Part Time Apply By 10 September, 2026",
+      "location": "High Wycombe, England, United Kingdom"
+    },
+    "861771671b5b7f0a44df7b86b1a52f2a": {
+      "id": "861771671b5b7f0a44df7b86b1a52f2a",
+      "company": "St. Regis Hotels & Resorts",
+      "role": "Chef De Partie (casual) - Sheraton Heathrow Hotel",
+      "location": "London, United Kingdom"
+    },
+    "d49c635f3c5ec87bb9cd77a2e372263a": {
+      "id": "d49c635f3c5ec87bb9cd77a2e372263a",
+      "company": "Agincare Group",
+      "role": "Bank Housekeeper High Wycombe , United Kingdom (incl. Northern Ireland) £12.87 Part Time Apply By 10 September, 2026",
+      "location": "High Wycombe, United Kingdom"
+    },
+    "ed22346685779a8b636e3f94cf24e3f2": {
+      "id": "ed22346685779a8b636e3f94cf24e3f2",
+      "company": "Eakin Healthcare",
+      "role": "Warehouse Operator",
+      "location": "Comber, Northern Ireland, United Kingdom"
+    },
+    "ea3ecf33c11eb3698c2ff8da945895d0": {
+      "id": "ea3ecf33c11eb3698c2ff8da945895d0",
+      "company": "Babcock International",
+      "role": "Warehouse Operative",
+      "location": "Wareham, Dorset, United Kingdom"
+    },
+    "5c7fb9576b00e5a6ee72026f3f35a8ac": {
+      "id": "5c7fb9576b00e5a6ee72026f3f35a8ac",
+      "company": "Joseph Gallagher Ltd",
+      "role": "Tractor Driver Cpcs",
+      "location": "North East, England"
+    },
+    "85fe24c31910e1b3558a79d344d5e5f6": {
+      "id": "85fe24c31910e1b3558a79d344d5e5f6",
+      "company": "Sofitel Melbourne On Collins",
+      "role": "Bartender",
+      "location": "Rochdale, United Kingdom"
+    },
+    "9e0d56f74c91bf4c8bb2e24be2786084": {
+      "id": "9e0d56f74c91bf4c8bb2e24be2786084",
+      "company": "sb-fm",
+      "role": "Casual Cleaner - Rotherham, Emp Part, Aug26",
+      "location": "Brighton, England, United Kingdom"
+    },
+    "b3ce018b1c9613dddb5480da73dc7f91": {
+      "id": "b3ce018b1c9613dddb5480da73dc7f91",
+      "company": "yourcareer",
+      "role": "Housekeeper - 20 Hours Cardiff, United Kingdom £13,264 + Company Benefits Fixed Term Apply By 31 October, 2026 Posted On 10 August, 2026",
+      "location": "Cardiff, United Kingdom"
+    },
+    "eb0d3987179311e14b5ddc47f4b18be8": {
+      "id": "eb0d3987179311e14b5ddc47f4b18be8",
+      "company": "Marriott International",
+      "role": "Food & Beverage Server Casual",
+      "location": "Hertfordshire, United Kingdom"
+    },
+    "f4130a74851d6d5b84c7a3793b038bfa": {
+      "id": "f4130a74851d6d5b84c7a3793b038bfa",
+      "company": "The Ritz-Carlton",
+      "role": "Food & Beverage Server Casual",
+      "location": "Hertfordshire, United Kingdom"
+    },
+    "973863adf26e2f15274e42c5768f6d4b": {
+      "id": "973863adf26e2f15274e42c5768f6d4b",
+      "company": "AccorHotels",
+      "role": "Housekeeping Floor Supervisor (0-hour Casual Contract), The Savoy Hotel",
+      "location": "London, United Kingdom"
+    },
+    "17f7439ff9168b1888e134060d28d705": {
+      "id": "17f7439ff9168b1888e134060d28d705",
+      "company": "Footballjobboard",
+      "role": "Casual Front Of House Team Member",
+      "location": "South Stand, United Kingdom"
+    },
+    "19bb74b03657bbdf6b540e4dc56be393": {
+      "id": "19bb74b03657bbdf6b540e4dc56be393",
+      "company": "AccorHotels",
+      "role": "Housekeeping Attendant",
+      "location": "Ipswich, United Kingdom"
+    },
+    "aea9d05fc1d3296bc3c3cc1196f8406d": {
+      "id": "aea9d05fc1d3296bc3c3cc1196f8406d",
+      "company": "DHL UK",
+      "role": "Warehouse Team Leader- Ftc",
+      "location": "Belfast, United Kingdom"
+    },
+    "560ffe62e094538565895c5b5d4129ee": {
+      "id": "560ffe62e094538565895c5b5d4129ee",
+      "company": "Juniper Training Ltd",
+      "role": "English Tutor - Leicester (part-time)",
+      "location": "Leicester, England, United Kingdom"
+    },
+    "bfaad9151c223fb20c7c6af804dc090c": {
+      "id": "bfaad9151c223fb20c7c6af804dc090c",
+      "company": "Juniper Training Ltd",
+      "role": "Vocational/employability Tutor – Leicester (part-time)",
+      "location": "Leicester, England, United Kingdom"
+    },
+    "08c94884396987684148cae7beb8c9b9": {
+      "id": "08c94884396987684148cae7beb8c9b9",
+      "company": "Selfridges",
+      "role": "Waiter 37.5 (temp) London, United Kingdom Competitive Plus Benefits Temp Apply By 24 August, 2026 Posted On 7 August, 2026",
+      "location": "London, United Kingdom"
+    },
+    "0eb88d4225bbcd0d3004f8f69dc2114e": {
+      "id": "0eb88d4225bbcd0d3004f8f69dc2114e",
+      "company": "Agincare Group",
+      "role": "Care Assistant Bath , United Kingdom (incl. Northern Ireland) £12.76 Full Time Apply By 6 September, 2026",
+      "location": "Bath, England, United Kingdom"
+    },
+    "81ceed72080a141bfc22e7e3a3ba0f3f": {
+      "id": "81ceed72080a141bfc22e7e3a3ba0f3f",
+      "company": "Carlisle Support Services",
+      "role": "Retail Security Officer- Relief Chorley, United Kingdom £14.15 - £14.15 Temporary/casual Apply By 6 September, 2026 Posted On 7 August, 2026",
+      "location": "Chorley, England, United Kingdom"
+    },
+    "aee0a5f9d2f84b08459195c8028b5be4": {
+      "id": "aee0a5f9d2f84b08459195c8028b5be4",
+      "company": "heathrowacademy",
+      "role": "Prep Chef (cook) - British Airways Lounges",
+      "location": "Heathrow Airport, London, United Kingdom"
+    },
+    "b31e32ac06982adfc8bf97da05e7248b": {
+      "id": "b31e32ac06982adfc8bf97da05e7248b",
+      "company": "Avante Care & Support",
+      "role": "Community Home Care Assistant - Evenings / Nights Bexley (sidcup) Bexleyheath, United Kingdom £13.70 - £15 Relief/ Bank/ Casual Apply By 6 September, 2026 Posted On 7 August, 2026",
+      "location": "Bexleyheath, Country, United Kingdom"
+    },
+    "c302e10928396422141ded9c3b48cebd": {
+      "id": "c302e10928396422141ded9c3b48cebd",
+      "company": "Carlisle Support Services",
+      "role": "Retail Security Officer- Relief Preston, United Kingdom £14.15 - £14.15 Temporary/casual Apply By 6 September, 2026 Posted On 7 August, 2026",
+      "location": "Preston, England, United Kingdom"
+    },
+    "c79f3bceb68f786fcb8dc1c8423f55f8": {
+      "id": "c79f3bceb68f786fcb8dc1c8423f55f8",
+      "company": "sb-fm",
+      "role": "Temporary Cleaner",
+      "location": "Derby, United Kingdom"
+    },
+    "e1a5c28133b9fa24889555e690aba46e": {
+      "id": "e1a5c28133b9fa24889555e690aba46e",
+      "company": "NEXT",
+      "role": "Warehouse Operative",
+      "location": "Motherwell, United Kingdom"
+    },
+    "82aa5550d3cb83c8fbd56ac6b660dc0d": {
+      "id": "82aa5550d3cb83c8fbd56ac6b660dc0d",
+      "company": "Gloucestershire County Council",
+      "role": "Early Years & Childcare Business Officer",
+      "location": "Gloucestershire, England, United Kingdom"
+    },
+    "2ba6cbfd60517b8318e2744d47785009": {
+      "id": "2ba6cbfd60517b8318e2744d47785009",
+      "company": "Securitas Critical Infrastructure Services",
+      "role": "Security Officer",
+      "location": "Wrexham, United Kingdom"
+    },
+    "664ef4423197d96450df6db5edae1a18": {
+      "id": "664ef4423197d96450df6db5edae1a18",
+      "company": "newjob",
+      "role": "Computing Tutor Wcc624213",
+      "location": "Westminster, London, United Kingdom"
+    },
+    "aaa2f2abae7681a1832b694d22063bff": {
+      "id": "aaa2f2abae7681a1832b694d22063bff",
+      "company": "newjob",
+      "role": "Digital Functional Skills Tutor Wcc624212",
+      "location": "Westminster, London, United Kingdom"
+    },
+    "7800d8cd68300c00b03c0a514144ae3c": {
+      "id": "7800d8cd68300c00b03c0a514144ae3c",
+      "company": "Community Integrated Care",
+      "role": "Temporary Support Worker (female)",
+      "location": "All Locations, United Kingdom"
+    },
+    "a4b4d547032f5fb2ff54223c72a1ab63": {
+      "id": "a4b4d547032f5fb2ff54223c72a1ab63",
+      "company": "St. Regis Hotels & Resorts",
+      "role": "Casual Housekeeping Room Attendant - Flexible Hours",
+      "location": "Edinburgh, United Kingdom"
+    },
+    "d31ceab4773cca9fec2bae579b3d0472": {
+      "id": "d31ceab4773cca9fec2bae579b3d0472",
+      "company": "The Ritz-Carlton",
+      "role": "Casual Housekeeping Room Attendant - Flexible Hours",
+      "location": "Edinburgh, United Kingdom"
+    },
+    "targetjobs:de509836-3458-4565-a31b-d924dbe6ad10": {
+      "id": "targetjobs:de509836-3458-4565-a31b-d924dbe6ad10",
+      "company": "UCL",
+      "role": "Post Graduate Teaching Assistant",
+      "location": "London, United Kingdom"
+    },
+    "3d9b9855c5fe61c7e87ccd3c96a47bad": {
+      "id": "3d9b9855c5fe61c7e87ccd3c96a47bad",
+      "company": "The TJX Companies, Inc",
+      "role": "Christmas Retail Associate Hs Reading",
+      "location": "Reading, United Kingdom"
+    },
+    "13c8e895ad9ccd1dcc99ab532ee06b2f": {
+      "id": "13c8e895ad9ccd1dcc99ab532ee06b2f",
+      "company": "Avery Healthcare Group",
+      "role": "Care Assistant Cliftonville Care Home, Cliftonville Road, Northampton, United Kingdom £12.80 Per Hour Permanent Apply By 26 August, 2026 Posted On 5 August, 2026",
+      "location": "Northampton, United Kingdom"
+    },
+    "59fd0079ae12d3a60431de4e8e4dfe2f": {
+      "id": "59fd0079ae12d3a60431de4e8e4dfe2f",
+      "company": "Upprewards",
+      "role": "Zero Hours Cleaner",
+      "location": "Nottingham, United Kingdom"
+    },
+    "2742055c0bd907fb3220c07caca3c9b1": {
+      "id": "2742055c0bd907fb3220c07caca3c9b1",
+      "company": "InPost",
+      "role": "Self-employed Contractor Driver",
+      "location": "Maidstone, England, United Kingdom"
+    },
+    "5c001c42867f203ae032b2cfc0a06e0c": {
+      "id": "5c001c42867f203ae032b2cfc0a06e0c",
+      "company": "careers",
+      "role": "Casual Leisure Assistant Lodge Park Sports Centre, United Kingdom Fte Salary Starting At £25,583. £13.26 Per Hour. Casual Apply By 7 August, 2026 Job Posted Date 5 August, 2026",
+      "location": "Lodge Park Sports Centre, United Kingdom"
+    },
+    "80a06e19bf0708b58e96782099c02423": {
+      "id": "80a06e19bf0708b58e96782099c02423",
+      "company": "ARROW XL Ltd",
+      "role": "Warehouse Operative (part Time, Fixed Term Contract) - Airdrie Airdrie, Block 9 Unit, Chapelhall Industrial Estate, United Kingdom Temporary Apply By 19 August, 2026 Posted On 5 August, 2026",
+      "location": "Airdrie, United Kingdom"
+    },
+    "46ec5065bdc92a16b67e5d72010bd4a3": {
+      "id": "46ec5065bdc92a16b67e5d72010bd4a3",
+      "company": "Community Integrated Care",
+      "role": "Support Worker - Bank",
+      "location": "Ellon, Scotland, United Kingdom"
+    },
+    "5807e549c62c8b5114c478c189c0d793": {
+      "id": "5807e549c62c8b5114c478c189c0d793",
+      "company": "Community Integrated Care",
+      "role": "Support Worker - Bank/relief",
+      "location": "Aberdeen, Scotland, GB"
+    },
+    "d20b900cd9523a5904516deb5a3b5def": {
+      "id": "d20b900cd9523a5904516deb5a3b5def",
+      "company": "The Brandon Trust",
+      "role": "Bank Support Worker - Backwell Backwell, United Kingdom £12.71 Bank/casual Shifts Apply By 3 September, 2026 Posted On 4 August, 2026",
+      "location": "Backwell, United Kingdom"
+    },
+    "d60e3a0dcc40ad3d34d85a60eae1c737": {
+      "id": "d60e3a0dcc40ad3d34d85a60eae1c737",
+      "company": "sb-fm",
+      "role": "Casual Cleaner - London Ealing - Ingeus - Aug",
+      "location": "London, England, United Kingdom"
+    },
+    "a3cc365b227715ce2bfe56f333a2b10c": {
+      "id": "a3cc365b227715ce2bfe56f333a2b10c",
+      "company": "Accomplish Group",
+      "role": "Casual Support Worker - Telford (tf10) Telford , United Kingdom",
+      "location": "Telford, United Kingdom"
+    },
+    "1df1e07e82c2f66aa585c2c622ff0d60": {
+      "id": "1df1e07e82c2f66aa585c2c622ff0d60",
+      "company": "Agincare Group",
+      "role": "Bank Cook Cheltenham, United Kingdom (incl. Northern Ireland) £14.60 Part Time Apply By 2 September, 2026",
+      "location": "Cheltenham, Gloucestershire, United Kingdom"
+    },
+    "6757c503f5df5fd896a15d44a81c9253": {
+      "id": "6757c503f5df5fd896a15d44a81c9253",
+      "company": "c-i-c",
+      "role": "Advanced Support Worker Bank",
+      "location": "Middlesborough, United Kingdom"
+    },
+    "7fad51c548951fb7374cd269b156dc9d": {
+      "id": "7fad51c548951fb7374cd269b156dc9d",
+      "company": "Northumberland County Council",
+      "role": "Lecturer In Childcare And Early Years Alnwick Campus, Lindisfarne Road, Alnwick, United Kingdom £35412 - £39152 Fixed Term Apply By 17 August, 2026 Posted On 3 August, 2026",
+      "location": "Alnwick, United Kingdom"
+    },
+    "8f23b37abe3a3091ce76cc37355453ed": {
+      "id": "8f23b37abe3a3091ce76cc37355453ed",
+      "company": "dorsetcouncil",
+      "role": "Mini Bus Driver - Ferndown Upper School",
+      "location": "Ferndown, United Kingdom"
+    },
+    "d42bd92e3d5ea4fc23e477bf81521a55": {
+      "id": "d42bd92e3d5ea4fc23e477bf81521a55",
+      "company": "Southampton Football Club",
+      "role": "Casual Front Of House Supervisor - Level1",
+      "location": "South Stand, United Kingdom"
+    },
+    "01037a64685f435134f2eadb6c7cd151": {
+      "id": "01037a64685f435134f2eadb6c7cd151",
+      "company": "Hopscotch Day Nurseries",
+      "role": "Relief Cook",
+      "location": "Fareham, Hampshire, United Kingdom"
+    },
+    "77a24918f53992fa12e87b7617e04764": {
+      "id": "77a24918f53992fa12e87b7617e04764",
+      "company": "Radfield Home Care",
+      "role": "Live In Carer",
+      "location": "York, England; Thirsk, England; Northallerton, England"
+    },
+    "07f2ef3ec548efdf8928bfe84f4ae3ba": {
+      "id": "07f2ef3ec548efdf8928bfe84f4ae3ba",
+      "company": "Accomplish Group",
+      "role": "Casual Support Worker - Glanmore (tf1) Telford, Shropshire, United Kingdom",
+      "location": "Telford, United Kingdom"
+    },
+    "1b45eae4c120129d3a8e304df876546f": {
+      "id": "1b45eae4c120129d3a8e304df876546f",
+      "company": "mgstransport",
+      "role": "Winter Maintenance Driver - Mere Area",
+      "location": "Mere Area, United Kingdom"
+    },
+    "4cb0235b37fdb7f65c97483add7db4c4": {
+      "id": "4cb0235b37fdb7f65c97483add7db4c4",
+      "company": "Coventry City Council",
+      "role": "Support Worker Gilbert Richards Centre , United Kingdom (incl. Northern Ireland) £25,185 - £26,403 Pro Rata Fixed Term - Part Time Apply By 14 August, 2026 Posted On 31 July, 2026",
+      "location": "United Kingdom"
+    },
+    "a7b67083d0fd8f2baa733bc6dcadfdf4": {
+      "id": "a7b67083d0fd8f2baa733bc6dcadfdf4",
+      "company": "Agincare Group",
+      "role": "Kitchen Assistant Hayling Island, United Kingdom (incl. Northern Ireland) £12.72 Per Hour Full Time Apply By 30 August, 2026",
+      "location": "Hayling Island, Hampshire, United Kingdom"
+    },
+    "b60ec640329adccb1c2112e309a4a0ad": {
+      "id": "b60ec640329adccb1c2112e309a4a0ad",
+      "company": "W Brisbane",
+      "role": "Banquet & Events Server - Casual Flexible Hours",
+      "location": "Edinburgh, Scotland, GB"
+    },
+    "87c0bcd0004304032a9e7bbfb8fdf6f6": {
+      "id": "87c0bcd0004304032a9e7bbfb8fdf6f6",
+      "company": "Footballjobboard",
+      "role": "Casual Minibus Driver - Reading",
+      "location": "Staplewood Campus, United Kingdom"
+    },
+    "2841b46f13d92262121beeae38f887fe": {
+      "id": "2841b46f13d92262121beeae38f887fe",
+      "company": "Windsor Forest Colleges Group",
+      "role": "Sessional Welding Tutor And Assessor Slough & Langley College, Station Road, Langley, Berkshire. Sl3 8by., United Kingdom 262.58 Day Rate Sessional Apply By 19 August, 2026 Posted On 29 July, 2026",
+      "location": "Slough, Berkshire, United Kingdom; Langley, Berkshire, United Kingdom"
+    },
+    "bd419e33adc03e208446a34f389fc351": {
+      "id": "bd419e33adc03e208446a34f389fc351",
+      "company": "Slhn",
+      "role": "Security Officer (part Time)",
+      "location": "Stroudsburg, PA, United Kingdom"
+    },
+    "3840c7b2b8807adcfd61c9626888fa81": {
+      "id": "3840c7b2b8807adcfd61c9626888fa81",
+      "company": "The Ritz-Carlton",
+      "role": "Banquet & Events Server - Casual Flexible Hours",
+      "location": "Edinburgh, United Kingdom"
+    },
+    "bf871995a745c45d24d8324cd1112313": {
+      "id": "bf871995a745c45d24d8324cd1112313",
+      "company": "mgstransport",
+      "role": "Winter Maintenance Driver - Salisbury Area",
+      "location": "Salisbury, United Kingdom"
+    },
+    "c8559817ceb0746000557ba86ff0ea2d": {
+      "id": "c8559817ceb0746000557ba86ff0ea2d",
+      "company": "Atlas FM",
+      "role": "Nursery Cover Cleaner",
+      "location": "Watford, United Kingdom"
+    },
+    "e5684eea22c0f6659a6cf179cf53cd3d": {
+      "id": "e5684eea22c0f6659a6cf179cf53cd3d",
+      "company": "dorsetcouncil",
+      "role": "Teaching Assistant Level 2 At Somerford Community Primary School",
+      "location": "Christchurch, Dorset, GB"
+    },
+    "f66443ab015df96a3f79b88bdfbf3409": {
+      "id": "f66443ab015df96a3f79b88bdfbf3409",
+      "company": "Atlas FM",
+      "role": "School Cover Cleaner",
+      "location": "Kent, SE26 6BL, United Kingdom"
+    },
+    "0f78616e359eaa27daa2cfe691688cc0": {
+      "id": "0f78616e359eaa27daa2cfe691688cc0",
+      "company": "Entain",
+      "role": "Stadia - Paddock Steward",
+      "location": "Romford, United Kingdom"
+    },
+    "f9cf81f37708f25bc065cec82cdff78d": {
+      "id": "f9cf81f37708f25bc065cec82cdff78d",
+      "company": "Welsh Water (Dwr Cymru)",
+      "role": "Cafe / Retail Assistant",
+      "location": "Rhayader, Powys, United Kingdom"
+    },
+    "df849e4f796ef4a277cc9ff73d2ce35c": {
+      "id": "df849e4f796ef4a277cc9ff73d2ce35c",
+      "company": "St. Regis Hotels & Resorts",
+      "role": "Casual Bartender - The Hansom",
+      "location": "London, London, United Kingdom"
+    },
+    "ab4deb73ecbf30de68adc4b71a4551a0": {
+      "id": "ab4deb73ecbf30de68adc4b71a4551a0",
+      "company": "Liverpool Football Club and Athletic Grounds Ltd",
+      "role": "Casual Retail Sales Advisor Liverpool One, John St, Liverpool, United Kingdom Up To £13.45 Casual Apply By 9 August, 2026 Posted On 29 July, 2026",
+      "location": "Liverpool, Merseyside, United Kingdom"
+    },
+    "74617212fd8970c15f3cbf3c66d5cb0f": {
+      "id": "74617212fd8970c15f3cbf3c66d5cb0f",
+      "company": "DWR CYMRU CYFYNGEDIG",
+      "role": "Cafe / Retail Assistant",
+      "location": "Rhayader, Wales, GB"
+    },
+    "603ad18635d3ee2baf821a9d97b1fe84": {
+      "id": "603ad18635d3ee2baf821a9d97b1fe84",
+      "company": "City Football Group",
+      "role": "Part-time A Level Tutor",
+      "location": "Manchester, England"
+    },
+    "af0e3b1093cfc9dea1b1a72e83ac1095": {
+      "id": "af0e3b1093cfc9dea1b1a72e83ac1095",
+      "company": "City Football Group",
+      "role": "Casual Catering Assistant",
+      "location": "Manchester, England, United Kingdom"
+    },
+    "b2cff41da3616a979d2ef6e492cff682": {
+      "id": "b2cff41da3616a979d2ef6e492cff682",
+      "company": "City Football Group",
+      "role": "Casual Chef",
+      "location": "Manchester, England, United Kingdom"
+    },
+    "e2075367b4255fbb83ddd14836301bbb": {
+      "id": "e2075367b4255fbb83ddd14836301bbb",
+      "company": "Four Seasons Hotels & Resorts",
+      "role": "General Housekeeping Assistant - Casual",
+      "location": "Hampshire, United Kingdom"
+    },
+    "4e0bb1aff9e347934aa357bdf90e19e6": {
+      "id": "4e0bb1aff9e347934aa357bdf90e19e6",
+      "company": "Nuffield Health",
+      "role": "Lifeguard-2",
+      "location": "Derby, United Kingdom"
+    },
+    "8d4b8dad733a395dc31798a27b179462": {
+      "id": "8d4b8dad733a395dc31798a27b179462",
+      "company": "The Arsenal Football Club Plc",
+      "role": "Academy Driver (casual)",
+      "location": "St Albans, Hertfordshire, United Kingdom"
+    },
+    "caf5b0a9cfeffaf90b47f92870b5987e": {
+      "id": "caf5b0a9cfeffaf90b47f92870b5987e",
+      "company": "Opal HealthCare",
+      "role": "Housekeeping Services Officer - Croydon Place Care Community",
+      "location": "Croydon, England, United Kingdom"
+    },
+    "07e0cc68df1e217796ed22bdeb7cfe66": {
+      "id": "07e0cc68df1e217796ed22bdeb7cfe66",
+      "company": "Gloucestershire County Council",
+      "role": "Cleaner",
+      "location": "Gloucester, Gloucestershire, United Kingdom"
+    },
+    "bfa0236d73ea8af1b60bb4e6c4b974d0": {
+      "id": "bfa0236d73ea8af1b60bb4e6c4b974d0",
+      "company": "Gloucestershire County Council",
+      "role": "Gm Music Tutor",
+      "location": "Cheltenham, England, GB"
+    },
+    "9e8b24c2d3d277448ff299c15b98306d": {
+      "id": "9e8b24c2d3d277448ff299c15b98306d",
+      "company": "TECOM Group",
+      "role": "Casual Room Attendant - The Lowndes",
+      "location": "London, United Kingdom"
+    },
+    "b37ae0e9c6f5c03f3578b2bf78f24d65": {
+      "id": "b37ae0e9c6f5c03f3578b2bf78f24d65",
+      "company": "NEXT",
+      "role": "Nursery Administrator- 20 Hours",
+      "location": "Leicester, United Kingdom"
+    },
+    "c04eb525ebe56b30fc94284937036a97": {
+      "id": "c04eb525ebe56b30fc94284937036a97",
+      "company": "Dubai Properties",
+      "role": "Casual Room Attendant - The Lowndes",
+      "location": "United Kingdom, United Kingdom"
+    },
+    "fb91546deb7690543acec1f5bd7e48ce": {
+      "id": "fb91546deb7690543acec1f5bd7e48ce",
+      "company": "W Brisbane",
+      "role": "Casual Bartender - The Hansom",
+      "location": "London, United Kingdom"
+    },
+    "38c5a4d9ec94157b55f5afdb90e3c6c3": {
+      "id": "38c5a4d9ec94157b55f5afdb90e3c6c3",
+      "company": "Securitas Critical Infrastructure Services",
+      "role": "Security Officer 12 Hour Guaranteed Contract",
+      "location": "Great Baddow, United Kingdom"
+    },
+    "ae40bc1bad084d176d70e889fa91b222": {
+      "id": "ae40bc1bad084d176d70e889fa91b222",
+      "company": "Liverpool Football Club and Athletic Grounds Ltd",
+      "role": "Casual Front Of House Sales Assistants Anfield Stadium, Anfield Road Anfield Liverpool, United Kingdom Up To £13.45 Casual Apply By 5 August, 2026 Posted On 27 July, 2026",
+      "location": "Liverpool, Merseyside, United Kingdom"
+    },
+    "fc740c82d77d4485b03ffbf8bc421151": {
+      "id": "fc740c82d77d4485b03ffbf8bc421151",
+      "company": "Turning Point",
+      "role": "Bank Support Worker Barnsley, Barnsley £13.71 Per Hour Bank Apply By 10 August, 2026 Posted On 27 July, 2026",
+      "location": "Barnsley, South Yorkshire, GB"
+    },
+    "2a51313e8cd440f03146fb7298ab1dd9": {
+      "id": "2a51313e8cd440f03146fb7298ab1dd9",
+      "company": "Welcome Break",
+      "role": "Temporary Cleaning Team Member",
+      "location": "Telford, Shropshire, United Kingdom"
+    },
+    "a92369ac6e7d53523901cef363607535": {
+      "id": "a92369ac6e7d53523901cef363607535",
+      "company": "Sports Direct",
+      "role": "General Assistant / Cleaner Ftc",
+      "location": "Londonderry, United Kingdom"
+    },
+    "c2e9943d9facfa07aefc2d847aae9b55": {
+      "id": "c2e9943d9facfa07aefc2d847aae9b55",
+      "company": "W Brisbane",
+      "role": "Hotel Cleanliness Expert Guest Room Attendant Maternity Cover Fixed Term",
+      "location": "London, United Kingdom"
+    },
+    "caf51ed9987e999b6f8a56a8b23c9b85": {
+      "id": "caf51ed9987e999b6f8a56a8b23c9b85",
+      "company": "DECJUBA",
+      "role": "Casual Retail Assistant - Newmarket",
+      "location": "Newmarket, United Kingdom"
+    }
+  }
+}
