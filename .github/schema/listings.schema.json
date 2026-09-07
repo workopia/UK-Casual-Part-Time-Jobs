@@ -2,11 +2,73 @@
   "$schema": "https://json-schema.org/draft/2020-12/schema",
   "title": "Workopia UK casual directory",
   "type": "object",
-  "required": ["schemaVersion", "meta", "categories", "listings"],
+  "required": [
+    "schemaVersion",
+    "meta",
+    "categories",
+    "listings"
+  ],
   "properties": {
-    "schemaVersion": {"const": 1},
-    "meta": {"type": "object", "required": ["country", "segment", "repo", "sourceTimestamp", "releaseReady"], "properties": {"country": {"const": "GB"}, "segment": {"const": "uk"}, "repo": {"const": "UK-Casual-Part-Time-Jobs"}, "sourceTimestamp": {"type": "string", "format": "date-time"}, "releaseReady": {"const": true}}},
-    "categories": {"type": "array", "minItems": 1},
-    "listings": {"type": "array", "minItems": 1, "items": {"type": "object", "required": ["id", "title", "company", "location", "employmentType", "category", "sourceUrl"], "properties": {"employmentType": {"enum": ["Casual", "Part-time", "Contract-Temp"]}, "sourceUrl": {"type": "string", "format": "uri"}}}}
+    "schemaVersion": {
+      "const": 1
+    },
+    "meta": {
+      "type": "object",
+      "required": [
+        "country",
+        "segment",
+        "repo",
+        "sourceTimestamp",
+        "releaseReady"
+      ],
+      "properties": {
+        "country": {
+          "const": "GB"
+        },
+        "segment": {
+          "const": "uk"
+        },
+        "repo": {
+          "const": "UK-Casual-Part-Time-Jobs"
+        },
+        "sourceTimestamp": {
+          "type": "string",
+          "format": "date-time"
+        },
+        "releaseReady": {
+          "const": true
+        }
+      }
+    },
+    "categories": {
+      "type": "array",
+      "minItems": 1
+    },
+    "listings": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "type": "object",
+        "required": [
+          "id",
+          "title",
+          "company",
+          "location",
+          "employmentType",
+          "category",
+          "sourceUrl"
+        ],
+        "properties": {
+          "employmentType": {
+            "type": "string",
+            "minLength": 1
+          },
+          "sourceUrl": {
+            "type": "string",
+            "format": "uri"
+          }
+        }
+      }
+    }
   }
 }

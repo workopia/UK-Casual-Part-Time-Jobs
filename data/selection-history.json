@@ -1,0 +1,44 @@
+[
+  {
+    "asOf": "2026-09-07",
+    "removed": [
+      {
+        "id": "573324",
+        "company": "Mountain Warehouse",
+        "role": "Uk Sales Assistant (chain 1)",
+        "location": "Kimberley Way, United Kingdom"
+      },
+      {
+        "id": "1341402732c9adecbac2a1d73ce1f219",
+        "company": "Greene King",
+        "role": "Foh - Team Leader",
+        "location": "Elmesthorpe, United Kingdom"
+      },
+      {
+        "id": "f723a8141fba48b1ca9f0144b2eeac1c",
+        "company": "PPG Industries",
+        "role": "Sales Assistant - Part Time",
+        "location": "Newtown, United Kingdom"
+      },
+      {
+        "id": "fa0be696970ef2463638ec285212da9c",
+        "company": "Greene King",
+        "role": "Cleaner",
+        "location": "Newcastle-Upon-Tyne, Tyne and Wear, United Kingdom"
+      },
+      {
+        "id": "c4e3cf8579913baaa6cb3d12e99f5112",
+        "company": "Nestle Ltd",
+        "role": "Festive Sales Assistant - Covent Garden",
+        "location": "Covent Garden, London, United Kingdom"
+      },
+      {
+        "id": "ee2d2bd7b427f28d5b64d85b82f5befd",
+        "company": "Aspens Services Ltd",
+        "role": "Catering Assistant Newport Pagnell, United Kingdom £12.71 Per Hour Part Time Apply By 27 September, 2026 Posted On 28 August, 2026",
+        "location": "Newport Pagnell, United Kingdom"
+      }
+    ],
+    "meaning": "No longer selected; not proof of closure"
+  }
+]

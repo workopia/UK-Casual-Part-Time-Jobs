@@ -44,12 +44,6 @@
       "role": "Sales Assistant",
       "location": "Leeds, United Kingdom"
     },
-    "573324": {
-      "id": "573324",
-      "company": "Mountain Warehouse",
-      "role": "Uk Sales Assistant (chain 1)",
-      "location": "Kimberley Way, United Kingdom"
-    },
     "573453": {
       "id": "573453",
       "company": "Mountain Warehouse",
@@ -61,6 +55,12 @@
       "company": "Mountain Warehouse",
       "role": "Uk Sales Assistant (chain 3)",
       "location": "Oxford, United Kingdom"
+    },
+    "573732": {
+      "id": "573732",
+      "company": "Mountain Warehouse",
+      "role": "Uk Sales Assistant (chain 1)",
+      "location": "High Wycombe, United Kingdom"
     },
     "3fb05d3a1235708a983059c5d52d98c7": {
       "id": "3fb05d3a1235708a983059c5d52d98c7",
@@ -92,6 +92,12 @@
       "role": "Barista",
       "location": "Sedgemoor, Weston-Super-Mare, GB"
     },
+    "e3431746d37a1a594777c6ee621edba2": {
+      "id": "e3431746d37a1a594777c6ee621edba2",
+      "company": "Welcome Break, Greggs",
+      "role": "Greggs Part-time Team Member",
+      "location": "Spaldwick, United Kingdom"
+    },
     "622830458e51089f2a0c47b9c98c2bb7": {
       "id": "622830458e51089f2a0c47b9c98c2bb7",
       "company": "Hampshire County Council",
@@ -116,6 +122,18 @@
       "role": "Care Assistant",
       "location": "Liverpool, GB"
     },
+    "6137790aae632b2cfb2f3511efcd47db": {
+      "id": "6137790aae632b2cfb2f3511efcd47db",
+      "company": "Greene King",
+      "role": "Cleaner",
+      "location": "Dinnington, United Kingdom"
+    },
+    "0f9e11b06c01196adf156f933be97c24": {
+      "id": "0f9e11b06c01196adf156f933be97c24",
+      "company": "POP MART Global",
+      "role": "Part Time Retail Assistant (london Flagship)",
+      "location": "London, United Kingdom"
+    },
     "ef902cc42ff329523c9965d036abaaf1": {
       "id": "ef902cc42ff329523c9965d036abaaf1",
       "company": "Greene King",
@@ -133,6 +151,12 @@
       "company": "Primark",
       "role": "Retail Assistant",
       "location": "Milton Keynes, United Kingdom"
+    },
+    "f534ee53468241958dc953affb2ec9f3": {
+      "id": "f534ee53468241958dc953affb2ec9f3",
+      "company": "Greene King",
+      "role": "Soft Play Team Member",
+      "location": "Lostock, United Kingdom"
     },
     "079f3b5b497081da04d7f36da99621ae": {
       "id": "079f3b5b497081da04d7f36da99621ae",
@@ -505,6 +529,12 @@
       "company": "152",
       "role": "Sales Associate",
       "location": "Braintree, United Kingdom"
+    },
+    "192e463b2aa6c8afa4b0762faef7287a": {
+      "id": "192e463b2aa6c8afa4b0762faef7287a",
+      "company": "Santander",
+      "role": "Customer Experience Advisor | S1 | Retail Banking | Hastings",
+      "location": "Hastings, United Kingdom"
     },
     "13b960a480a269bb7a98f329c59437d8": {
       "id": "13b960a480a269bb7a98f329c59437d8",
@@ -974,12 +1004,6 @@
       "role": "Multifunctional Sales Associate (8hours, Fix Term, Craigavon)",
       "location": "Craigavon, United Kingdom"
     },
-    "1341402732c9adecbac2a1d73ce1f219": {
-      "id": "1341402732c9adecbac2a1d73ce1f219",
-      "company": "Greene King",
-      "role": "Foh - Team Leader",
-      "location": "Elmesthorpe, United Kingdom"
-    },
     "0b88b2f6068a957e42ade20e01aa40e9": {
       "id": "0b88b2f6068a957e42ade20e01aa40e9",
       "company": "Bupa UK",
@@ -1148,12 +1172,6 @@
       "role": "Chef Manager",
       "location": "Bury St Edmunds, SFK, GB"
     },
-    "f723a8141fba48b1ca9f0144b2eeac1c": {
-      "id": "f723a8141fba48b1ca9f0144b2eeac1c",
-      "company": "PPG Industries",
-      "role": "Sales Assistant - Part Time",
-      "location": "Newtown, United Kingdom"
-    },
     "490aa3bfabd3e0fb97aeeb1098965209": {
       "id": "490aa3bfabd3e0fb97aeeb1098965209",
       "company": "atis",
@@ -1171,12 +1189,6 @@
       "company": "The Works Stores Ltd",
       "role": "Retail Sales Assistant - Temporary Contract",
       "location": "Minehead, United Kingdom"
-    },
-    "fa0be696970ef2463638ec285212da9c": {
-      "id": "fa0be696970ef2463638ec285212da9c",
-      "company": "Greene King",
-      "role": "Cleaner",
-      "location": "Newcastle-Upon-Tyne, Tyne and Wear, United Kingdom"
     },
     "a8bdb78db4750fa780993f8d25da1df3": {
       "id": "a8bdb78db4750fa780993f8d25da1df3",
@@ -2426,9 +2438,9 @@
       "role": "Deputy Nursery Manager",
       "location": "Southampton, GB"
     },
-    "192e463b2aa6c8afa4b0762faef7287a": {
-      "id": "192e463b2aa6c8afa4b0762faef7287a",
-      "company": "Santander Arena",
+    "26602882dd87603ad21e245aaa7e9ff1": {
+      "id": "26602882dd87603ad21e245aaa7e9ff1",
+      "company": "SANTANDER CONSUMER BANK S.p.A",
       "role": "Customer Experience Advisor | S1 | Retail Banking | Hastings",
       "location": "Hastings, United Kingdom"
     },
@@ -2467,12 +2479,6 @@
       "company": "GKN Aerospace Services Ltd",
       "role": "Material Handler (packer - Goods Out) (12 Month Ftc)",
       "location": "East Cowes, England, United Kingdom"
-    },
-    "c4e3cf8579913baaa6cb3d12e99f5112": {
-      "id": "c4e3cf8579913baaa6cb3d12e99f5112",
-      "company": "Nestle Ltd",
-      "role": "Festive Sales Assistant - Covent Garden",
-      "location": "Covent Garden, London, United Kingdom"
     },
     "ca0c1dbd907f36be3c442e11c06fe0b9": {
       "id": "ca0c1dbd907f36be3c442e11c06fe0b9",
@@ -2647,12 +2653,6 @@
       "company": "The Ritz-Carlton",
       "role": "Casual Conference Server - Jw Marriott Grosvenor House",
       "location": "London, United Kingdom"
-    },
-    "ee2d2bd7b427f28d5b64d85b82f5befd": {
-      "id": "ee2d2bd7b427f28d5b64d85b82f5befd",
-      "company": "Aspens Services Ltd",
-      "role": "Catering Assistant Newport Pagnell, United Kingdom £12.71 Per Hour Part Time Apply By 27 September, 2026 Posted On 28 August, 2026",
-      "location": "Newport Pagnell, United Kingdom"
     },
     "f76205e9bf9dd8a688cb0b0a3d505186": {
       "id": "f76205e9bf9dd8a688cb0b0a3d505186",
