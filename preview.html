@@ -2,7 +2,19 @@
 
 **2,000 selected roles from 384 employers**, from the employer-source snapshot dated **7 Sept 2026**.
 
-Maintained by [Workopia](https://workopia.io). The UK website is being prepared; use the employer application links below.
+## Explore beyond this selected directory
+
+| GitHub directory | UK search collection — launching soon |
+| --- | --- |
+| **2,000 selected roles** | **24,407 searchable postings prepared** |
+
+The prepared collection includes **16,888 casual, part-time and contract/temp postings**, plus **7,519 related hourly/seasonal postings** with their real employment labels. Snapshot: **2026-09-07T03:38:54.690Z**.
+
+This directory groups matching employer and role postings across locations and applies category and employer limits. Its selected-row count is not the full search collection or the entire UK job market.
+
+**UK web search is not public yet.** Apply through the employer links below for now. This section will link to UK search when it launches.
+
+Maintained by [Workopia](https://workopia.io). Counts refresh with the daily data pipeline.
 
 ## How to use this directory
 
