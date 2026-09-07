@@ -1,6 +1,6 @@
 {
   "asOf": "2026-09-07",
-  "count": 2000,
+  "count": 1982,
   "jobs": {
     "27973": {
       "id": "27973",
@@ -2414,12 +2414,6 @@
       "role": "Crewe Location (cw1) - Full Time Crew Member - Guaranteed Hours Contract Available",
       "location": "Crewe, Cheshire, GB"
     },
-    "targetjobs:674bb9d6-1bad-4ebb-b913-5ccc6096fd84": {
-      "id": "targetjobs:674bb9d6-1bad-4ebb-b913-5ccc6096fd84",
-      "company": "Aldi",
-      "role": "Retail Management Placement",
-      "location": "Chelmsford, United Kingdom; Swindon, United Kingdom; Darlington, United Kingdom; Bolton, United Kingdom; Atherstone, United Kingdom"
-    },
     "691181baa95ecff8245d2df020d2ae45": {
       "id": "691181baa95ecff8245d2df020d2ae45",
       "company": "Manchester Airport Plc",
@@ -2449,24 +2443,6 @@
       "company": "SSP Group plc",
       "role": "Kitchen Assistant - Dicken's Inn",
       "location": "St Katherine Dock, United Kingdom"
-    },
-    "targetjobs:5d57c69f-478d-4aaf-b328-ed89d10ebffa": {
-      "id": "targetjobs:5d57c69f-478d-4aaf-b328-ed89d10ebffa",
-      "company": "Philosophy Education",
-      "role": "Graduate Teaching Assistant Full Time Placement NEW",
-      "location": "Edgware, United Kingdom"
-    },
-    "targetjobs:a0501405-e4f4-4bdb-8c53-a556e1e44e43": {
-      "id": "targetjobs:a0501405-e4f4-4bdb-8c53-a556e1e44e43",
-      "company": "Philosophy Education",
-      "role": "Maths Graduate Teaching Assistant Full Time Temporary NEW",
-      "location": "Romford, United Kingdom"
-    },
-    "targetjobs:21742c07-ffae-43e8-b5b4-b584f9d8a6de": {
-      "id": "targetjobs:21742c07-ffae-43e8-b5b4-b584f9d8a6de",
-      "company": "Humly",
-      "role": "Cover Supervisor / Unqualified Teacher / Graduate / Sports Coach / Tutor",
-      "location": "Gosport, United Kingdom; Fareham, United Kingdom; Stubbington, United Kingdom; Hedge End, United Kingdom"
     },
     "9139331dbb8036a8a9cdfa812e23abb9": {
       "id": "9139331dbb8036a8a9cdfa812e23abb9",
@@ -5354,36 +5330,6 @@
       "role": "Sales Associate",
       "location": "Rugby, United Kingdom"
     },
-    "targetjobs:0fbb254b-38d4-4b56-b1d6-b02f5c4a395e": {
-      "id": "targetjobs:0fbb254b-38d4-4b56-b1d6-b02f5c4a395e",
-      "company": "Philosophy Education",
-      "role": "Teaching Assistant YR6 Full Time Placement NEW",
-      "location": "Islington, United Kingdom"
-    },
-    "targetjobs:222044a9-1641-4a1e-82ee-319151ec63bc": {
-      "id": "targetjobs:222044a9-1641-4a1e-82ee-319151ec63bc",
-      "company": "Philosophy Education",
-      "role": "English Graduate Teaching Assistant Full Time Temporary NEW",
-      "location": "Romford, United Kingdom"
-    },
-    "targetjobs:a3b147f4-8d26-41cd-ad70-c29fc6ebb649": {
-      "id": "targetjobs:a3b147f4-8d26-41cd-ad70-c29fc6ebb649",
-      "company": "Philosophy Education",
-      "role": "Psychology Graduate Teaching Assistant Full Time Temporary NEW",
-      "location": "Romford, GB"
-    },
-    "targetjobs:6976c96f-ab71-4adc-9d64-44d9ad0ea36d": {
-      "id": "targetjobs:6976c96f-ab71-4adc-9d64-44d9ad0ea36d",
-      "company": "Philosophy Education",
-      "role": "Graduate Teaching Assistant Contract Full Time NEW",
-      "location": "Wandsworth, United Kingdom"
-    },
-    "targetjobs:2ad193df-7993-4747-95c9-be79e77f82cc": {
-      "id": "targetjobs:2ad193df-7993-4747-95c9-be79e77f82cc",
-      "company": "Soas, University Of London",
-      "role": "Graduate Teaching Assistant / Teaching Fellow",
-      "location": "London, United Kingdom"
-    },
     "50269c336872725ee696af94e56a6ce8": {
       "id": "50269c336872725ee696af94e56a6ce8",
       "company": "GXO Logistics",
@@ -7382,18 +7328,6 @@
       "role": "Part Time Sales Associate, Tommy Hilfiger - Swindon",
       "location": "Swindon, United Kingdom"
     },
-    "targetjobs:80473bfc-6dd2-4902-9dd4-9d433cb96cf7": {
-      "id": "targetjobs:80473bfc-6dd2-4902-9dd4-9d433cb96cf7",
-      "company": "Elementa Support Services",
-      "role": "Graduate Teaching Assistant",
-      "location": "Cardiff, United Kingdom"
-    },
-    "targetjobs:b5479379-19da-4216-8055-9f7f42618b2d": {
-      "id": "targetjobs:b5479379-19da-4216-8055-9f7f42618b2d",
-      "company": "UCL",
-      "role": "Post Graduate Teaching Assistant (PGTA) - CDE",
-      "location": "London, United Kingdom"
-    },
     "7215e8e83e30910751512bbeb83982e8": {
       "id": "7215e8e83e30910751512bbeb83982e8",
       "company": "TOMMY HILFIGER",
@@ -9368,36 +9302,6 @@
       "role": "Temporary Sales Associate",
       "location": "Cannock, United Kingdom"
     },
-    "targetjobs:bbaac8eb-da8d-44c8-b763-04b113d008e2": {
-      "id": "targetjobs:bbaac8eb-da8d-44c8-b763-04b113d008e2",
-      "company": "Isle Of Wight Council",
-      "role": "Under-Graduate Support Worker",
-      "location": "Newport, Isle of Wight, GB"
-    },
-    "targetjobs:891659e0-17da-46ad-b927-65e6e70d5965": {
-      "id": "targetjobs:891659e0-17da-46ad-b927-65e6e70d5965",
-      "company": "Philosophy Education",
-      "role": "Graduate Teaching Assistant Contract Full Time",
-      "location": "Leytonstone, GB"
-    },
-    "targetjobs:e37900f6-362e-4fcb-806e-8d61f6f0336f": {
-      "id": "targetjobs:e37900f6-362e-4fcb-806e-8d61f6f0336f",
-      "company": "Philosophy Education",
-      "role": "Graduate Teaching Assistant Full Time Temporary NEW",
-      "location": "Slough, GB"
-    },
-    "targetjobs:e3ff038c-78e7-44ea-ab50-632b5381223a": {
-      "id": "targetjobs:e3ff038c-78e7-44ea-ab50-632b5381223a",
-      "company": "Philosophy Education",
-      "role": "Teaching Assistant YR6 Part Time Placement NEW",
-      "location": "Islington, United Kingdom"
-    },
-    "targetjobs:3df43af8-b3ad-4ed2-a75e-cc8ffb32b217": {
-      "id": "targetjobs:3df43af8-b3ad-4ed2-a75e-cc8ffb32b217",
-      "company": "Philosophy Education",
-      "role": "Psychology Graduate Teaching Assistant Full Time Placement NEW",
-      "location": "Haringey, United Kingdom"
-    },
     "b625d9dcab2eb1bd61efc47c4c539b97": {
       "id": "b625d9dcab2eb1bd61efc47c4c539b97",
       "company": "DPD",
@@ -10249,12 +10153,6 @@
       "company": "Atlas FM",
       "role": "Cleaning Supervisor",
       "location": "Birmingham, GB"
-    },
-    "targetjobs:de509836-3458-4565-a31b-d924dbe6ad10": {
-      "id": "targetjobs:de509836-3458-4565-a31b-d924dbe6ad10",
-      "company": "UCL",
-      "role": "Post Graduate Teaching Assistant",
-      "location": "London, United Kingdom"
     },
     "bc653ed3a20282b70c0f74167f666a13": {
       "id": "bc653ed3a20282b70c0f74167f666a13",
@@ -11263,12 +11161,6 @@
       "company": "UPS",
       "role": "Warehouse Operative Pm",
       "location": "Belfast, BT36 4WW, United Kingdom"
-    },
-    "targetjobs:40b3e665-655a-4826-958d-f173ea16dbb0": {
-      "id": "targetjobs:40b3e665-655a-4826-958d-f173ea16dbb0",
-      "company": "Philosophy Education",
-      "role": "Psychology Graduate Teaching Assistant Full Time Placement",
-      "location": "Haringey, United Kingdom"
     },
     "b40828120d40afa9d0047ff20af7262f": {
       "id": "b40828120d40afa9d0047ff20af7262f",

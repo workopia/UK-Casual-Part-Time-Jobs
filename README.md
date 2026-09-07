@@ -1,14 +1,14 @@
 # UK Casual, Part-Time & Temporary Jobs — Updated Daily
 
-**2,000 selected roles from 384 employers**, from the employer-source snapshot dated **7 Sept 2026**.
+**1,982 selected roles from 377 employers**, from the employer-source snapshot dated **7 Sept 2026**.
 
 ## Explore beyond this selected directory
 
 | GitHub directory | UK search collection — launching soon |
 | --- | --- |
-| **2,000 selected roles** | **24,406 searchable postings prepared** |
+| **1,982 selected roles** | **24,187 searchable postings prepared** |
 
-The prepared collection includes **16,888 casual, part-time and contract/temp postings**, plus **7,518 related hourly/seasonal postings** with their real employment labels. Snapshot: **2026-09-07T03:38:54.690Z**.
+The prepared collection includes **16,725 casual, part-time and contract/temp postings**, plus **7,462 related hourly/seasonal postings** with their real employment labels. Snapshot: **2026-09-07T03:38:54.690Z**.
 
 This directory groups matching employer and role postings across locations and applies category and employer limits. Its selected-row count is not the full search collection or the entire UK job market.
 
@@ -24,8 +24,8 @@ Choose your location and available shifts, check the advertised employment type,
 
 | Measure | Repository snapshot |
 | --- | ---: |
-| Selected roles | 2000 |
-| Employers | 384 |
+| Selected roles | 1982 |
+| Employers | 377 |
 | Seasonal roles in this directory (all seasons) | 13 |
 | Christmas-tagged roles in this directory | 11 |
 | Explicitly no experience required | 77 |
@@ -37,13 +37,13 @@ Counts describe this selected directory, not the entire UK market. Jobs are clas
 
 ## Browse by category
 
-- [Care & support](#care) (288) — Casual 20 · Part-time 243 · Temp & seasonal 25
-- [Education & childcare](#education) (68) — Casual 1 · Part-time 35 · Temp & seasonal 32
+- [Care & support](#care) (287) — Casual 20 · Part-time 243 · Temp & seasonal 24
+- [Education & childcare](#education) (52) — Casual 1 · Part-time 33 · Temp & seasonal 18
 - [Events & leisure](#events) (38) — Casual 18 · Part-time 18 · Temp & seasonal 2
 - [Warehouse, delivery & driving](#warehouse) (195) — Casual 9 · Part-time 112 · Temp & seasonal 74
 - [Cleaning & facilities](#cleaning) (218) — Casual 34 · Part-time 142 · Temp & seasonal 42
 - [Hospitality & food](#hospitality) (403) — Casual 77 · Part-time 228 · Temp & seasonal 98
-- [Retail & supermarkets](#retail) (790) — Casual 21 · Part-time 500 · Temp & seasonal 269
+- [Retail & supermarkets](#retail) (789) — Casual 21 · Part-time 500 · Temp & seasonal 268
 
 ## 🎄 Christmas-tagged roles
 
@@ -360,7 +360,7 @@ Other seasonal work in this snapshot; a seasonal tag does not mean Christmas hir
 </tbody>
 </table>
 
-### Temp & seasonal (25)
+### Temp & seasonal (24)
 
 <table>
 <thead><tr><th>Company</th><th>Role</th><th>Location</th><th>Pay</th><th>Shift</th><th>Checks</th><th>Apply</th><th>Age</th></tr></thead>
@@ -382,7 +382,6 @@ Other seasonal work in this snapshot; a seasonal tag does not mean Christmas hir
 <tr><td>Community Integrated Care</td><td>Support Worker Temporary</td><td>All Locations, United Kingdom</td><td>Base: £13.12 per hour; Bonus/Equity: Not specified; Benefits: Shopping discounts, ongoing training, wellbeing investment</td><td>—</td><td>—</td><td><a href="https://careers.communityintegratedcare.co.uk/vacancies/24505/support-worker-temporary.html">Apply →</a></td><td>25d</td></tr>
 <tr><td>Agincare Group</td><td>Care Assistant - Maternity Cover Chatham, United Kingdom (incl. Northern Ireland) £12.76 Temporary Apply By 11 September, 2026 🌱</td><td>Chatham, Kent, United Kingdom</td><td>Base: £12.76 per hour; Bonus/Equity: Not specified; Benefits: Fully funded training, Blue Light Card discounts, company pension scheme, on-demand pay</td><td>Weekend</td><td>—</td><td><a href="https://careers.agincare.com/jobs/job/Care-Assistant-Maternity-Cover/12623">Apply →</a></td><td>26d</td></tr>
 <tr><td>Bmwramsey</td><td>Bank Health Care Assistant - Outpatients</td><td>Sawbridgeworth, United Kingdom</td><td>—</td><td>—</td><td>—</td><td><a href="https://ramsayhealthcare.wd3.myworkdayjobs.com/Ramsay_Careers/job/Sawbridgeworth/Bank-Health-Care-Assistant---Outpatients_JR17011">Apply →</a></td><td>26d</td></tr>
-<tr><td>Isle Of Wight Council</td><td>Under-Graduate Support Worker</td><td>Newport, Isle of Wight, GB</td><td>Grade 4, £25,584 to £25,989 per annum pro-rata (actual salary £20,743.78 to £21,072.16); Not specified; 32 days annual leave PLUS public holidays</td><td>—</td><td>—</td><td><a href="https://targetjobs.co.uk/jobs/under-graduate-support-worker-235849">Apply →</a></td><td>26d</td></tr>
 <tr><td>Affinity Trust</td><td>Bank Support Worker - Wells/street, Somerset Wells, Somerset, United Kingdom £12.90 - £12.90 Bank Apply By 10 September, 2026 Posted On 11 August, 2026</td><td>Wells, Somerset, United Kingdom; Street, Somerset, United Kingdom</td><td>Base: £12.90 per hour; Bonus/Equity: Not specified; Benefits: Buy and sell annual leave, Stream pay access, wellbeing scheme, fully funded health plan, Blue Light Card reimbursement, pension, life assurance</td><td>—</td><td>—</td><td><a href="https://joinus.affinitytrust.org/jobs/job/Bank-Support-Worker-WellsStreet-Somerset/2204">Apply →</a></td><td>27d</td></tr>
 <tr><td>Community Integrated Care</td><td>Temporary Support Worker (female)</td><td>All Locations, United Kingdom</td><td>£13.86 per hour; Not specified; Not specified</td><td>—</td><td>—</td><td><a href="https://careers.communityintegratedcare.co.uk/vacancies/24456/temporary-support-worker-female.html">Apply →</a></td><td>32d</td></tr>
 <tr><td>Avery Healthcare Group</td><td>Care Assistant Cliftonville Care Home, Cliftonville Road, Northampton, United Kingdom £12.80 Per Hour Permanent Apply By 26 August, 2026 Posted On 5 August, 2026 🌱</td><td>Northampton, United Kingdom</td><td>Base: £12.80 per hour; Bonus/Equity: Not specified; Benefits: DBS Disclosure check cost met by Avery Healthcare</td><td>—</td><td>—</td><td><a href="https://jobsearch.averyhealthcare.co.uk/jobs/job/Care-Assistant/6102">Apply →</a></td><td>32d</td></tr>
@@ -405,7 +404,7 @@ Other seasonal work in this snapshot; a seasonal tag does not mean Christmas hir
 </tbody>
 </table>
 
-### Part-time (35)
+### Part-time (33)
 
 <table>
 <thead><tr><th>Company</th><th>Role</th><th>Location</th><th>Pay</th><th>Shift</th><th>Checks</th><th>Apply</th><th>Age</th></tr></thead>
@@ -425,7 +424,6 @@ Other seasonal work in this snapshot; a seasonal tag does not mean Christmas hir
 <tr><td>Childbase Partnership</td><td>Nursery Practitioner (lunch Cover) Headington, Oxford, United Kingdom £12.87-£16.22 Per Hour. Part Time, Permanent Apply By No Expiry Date Posted On 20 August, 2026</td><td>Headington, Oxford, United Kingdom</td><td>Base: £12.87-£16.22 per hour; Bonus/Equity: Not specified; Benefits: Not specified</td><td>—</td><td>—</td><td><a href="https://search.childbasecareers.com/jobs/job/Nursery-Practitioner-Lunch-Cover/6156">Apply →</a></td><td>18d</td></tr>
 <tr><td>Childbase Partnership</td><td>Nursery Practitioner (lunch Cover) Winchester, United Kingdom £12.87-£15.59 Per Hour. Part Time, Permanent Apply By No Expiry Date Posted On 20 August, 2026</td><td>Winchester, United Kingdom</td><td>Base: £12.87-£15.59 per hour; Bonus/Equity: Not specified; Benefits: Not specified</td><td>—</td><td>—</td><td><a href="https://search.childbasecareers.com/jobs/job/Nursery-Practitioner-Lunch-Cover/6157">Apply →</a></td><td>18d</td></tr>
 <tr><td>Childbase Partnership</td><td>Nursery Assistant Headington, Oxford, United Kingdom £26,769.60 Per Annum (pro-rata) | £12.87 Per Hour. Full Time Or Part Time, Permanent Apply By No Expiry Date Posted On 20 August, 2026</td><td>Headington, Oxford, United Kingdom</td><td>£26,769.60 per annum (pro-rata); Not specified; Not specified</td><td>—</td><td>—</td><td><a href="https://search.childbasecareers.com/jobs/job/Nursery-Assistant/6152">Apply →</a></td><td>18d</td></tr>
-<tr><td>UCL</td><td>Post Graduate Teaching Assistant (PGTA) - CDE</td><td>London, United Kingdom</td><td>£36,433-£41,833</td><td>—</td><td>—</td><td><a href="https://targetjobs.co.uk/jobs/post-graduate-teaching-assistant-pgta-cde-236301">Apply →</a></td><td>18d</td></tr>
 <tr><td>TES Global</td><td>Learner Support Tutor</td><td>London, United Kingdom</td><td>Base: up to £36,000 (0.8 FTE); Bonus/Equity: Not specified; Benefits: 25 days annual leave rising to 30; 5% pension; Free eye care cover; Life Assurance; Cycle to Work Scheme; EAP; Quarterly socials; Learning and Development menu</td><td>—</td><td>—</td><td><a href="https://jobs.dayforcehcm.com/en-GB/tesglobal/CANDIDATEPORTAL/jobs/1423">Apply →</a></td><td>18d</td></tr>
 <tr><td>Childbase Partnership</td><td>Nursery Practitioner (lunch Cover) Chobham, Woking, United Kingdom £12.87-£16.22 Per Hour. Part Time, Permanent Apply By No Expiry Date Posted On 19 August, 2026</td><td>Chobham, Woking, United Kingdom</td><td>£12.87-£16.22 per hour</td><td>—</td><td>—</td><td><a href="https://search.childbasecareers.com/jobs/job/Nursery-Practitioner-Lunch-Cover/6150">Apply →</a></td><td>19d</td></tr>
 <tr><td>University of Edinburgh School of Engineering</td><td>R(d)svs Student Ambassador</td><td>Edinburgh, United Kingdom</td><td>Base: £24,547 per annum pro rata; Bonus/Equity: Not specified; Benefits: Not specified</td><td>—</td><td>—</td><td><a href="https://elxw.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/jobs/14716">Apply →</a></td><td>20d</td></tr>
@@ -442,13 +440,12 @@ Other seasonal work in this snapshot; a seasonal tag does not mean Christmas hir
 <tr><td>Childbase Partnership</td><td>Nursery Domestic Assistant Aylesbury, United Kingdom £25,096.50 Per Annum (pro-rata) | £12.87 Per Hour. Full Time Or Part Time, Permanent Apply By No Expiry Date Posted On 6 August, 2026</td><td>Aylesbury, United Kingdom</td><td>£25,096.50 per annum (pro-rata); £12.87 per hour; Not specified</td><td>—</td><td>—</td><td><a href="https://search.childbasecareers.com/jobs/job/Nursery-Domestic-Assistant/6101">Apply →</a></td><td>32d</td></tr>
 <tr><td>Childbase Partnership</td><td>Qualified Nursery Practitioner Swindon, United Kingdom £27,040-£30,929.60 Per Annum (pro-rata) | £13.00-£14.87 Per Hour. Part Time, Permanent Apply By No Expiry Date Posted On 6 August, 2026</td><td>Swindon, SN5 6NX, United Kingdom</td><td>£27,040-£30,929.60 per annum (pro-rata); Not specified; Not specified</td><td>—</td><td>—</td><td><a href="https://search.childbasecareers.com/jobs/job/Qualified-Nursery-Practitioner/6107">Apply →</a></td><td>32d</td></tr>
 <tr><td>Childbase Partnership</td><td>Nursery Practitioner Barnet, United Kingdom £29,348.80-£34,590.40 Per Annum (pro-rata) | £14.11-£16.63 Per Hour. Part Time, Permanent Apply By No Expiry Date Posted On 6 August, 2026</td><td>Barnet, EN5 2HL, United Kingdom</td><td>£14.11-£16.63 per hour; Not specified; Not specified</td><td>—</td><td>—</td><td><a href="https://search.childbasecareers.com/jobs/job/Nursery-Practitioner/6105">Apply →</a></td><td>32d</td></tr>
-<tr><td>UCL</td><td>Post Graduate Teaching Assistant</td><td>London, United Kingdom</td><td>Base: £19.14 per hour inclusive of London Allowance; Bonus/Equity: Not specified; Benefits: Not specified</td><td>—</td><td>—</td><td><a href="https://targetjobs.co.uk/jobs/post-graduate-teaching-assistant-234767">Apply →</a></td><td>32d</td></tr>
 <tr><td>Gloucestershire County Council</td><td>Gm Music Tutor</td><td>Cheltenham, England, GB</td><td>Base: £41,771-£47,181 per annum (pro rata); Bonus/Equity: Not specified; Benefits: Flexible working, annual leave, family-friendly benefits, pension scheme, EAP, occupational health, employee discount, cycle to work, green car scheme</td><td>—</td><td>—</td><td><a href="https://careers.gloucestershire.gov.uk/GloucestershireCounty/job/GM-Music-Tutor-Chel/1361841655/">Apply →</a></td><td>40d</td></tr>
 <tr><td>NEXT</td><td>Nursery Administrator- 20 Hours</td><td>Leicester, United Kingdom</td><td>—</td><td>—</td><td>—</td><td><a href="https://ekeq.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/API抓取/jobs/75562">Apply →</a></td><td>41d</td></tr>
 </tbody>
 </table>
 
-### Temp & seasonal (32)
+### Temp & seasonal (18)
 
 <table>
 <thead><tr><th>Company</th><th>Role</th><th>Location</th><th>Pay</th><th>Shift</th><th>Checks</th><th>Apply</th><th>Age</th></tr></thead>
@@ -457,33 +454,19 @@ Other seasonal work in this snapshot; a seasonal tag does not mean Christmas hir
 <tr><td>Childbase Partnership</td><td>Nursery Team Leader Reading, United Kingdom £33,150.20-£36,836.80 Per Annum (pro-rata) | £15.94-£17.71 Per Hour. Full Time, Fixed Term Apply By No Expiry Date Posted On 3 September, 2026</td><td>Reading, United Kingdom</td><td>Base: £33,150.20-£36,836.80 per annum; Bonus/Equity: Not specified; Benefits: Not specified</td><td>—</td><td>—</td><td><a href="https://search.childbasecareers.com/jobs/job/Nursery-Team-Leader/6193">Apply →</a></td><td>4d</td></tr>
 <tr><td>dorsetcouncil</td><td>Teaching Assistant At Conifers Primary School</td><td>Conifers Primary School, United Kingdom</td><td>—</td><td>—</td><td>—</td><td><a href="https://www.jobs.dorsetcouncil.gov.uk/vacancies/36738/teaching-assistant-at-conifers-primary-school.html">Apply →</a></td><td>4d</td></tr>
 <tr><td>Childbase Partnership</td><td>Qualified Relief Nursery Practitioner St Albans, United Kingdom £12.93-£14.33 Per Hour. Relief/seasonal, Permanent Apply By No Expiry Date Posted On 3 September, 2026</td><td>St Albans, United Kingdom</td><td>£12.93-£14.33 per hour; Not specified; Not specified</td><td>—</td><td>—</td><td><a href="https://search.childbasecareers.com/jobs/job/Qualified-Relief-Nursery-Practitioner/6187">Apply →</a></td><td>4d</td></tr>
-<tr><td>Philosophy Education</td><td>Graduate Teaching Assistant Full Time Placement NEW</td><td>Edgware, United Kingdom</td><td>—</td><td>—</td><td>—</td><td><a href="https://targetjobs.co.uk/jobs/graduate-teaching-assistant-full-time-placement-new-238017">Apply →</a></td><td>4d</td></tr>
-<tr><td>Philosophy Education</td><td>Maths Graduate Teaching Assistant Full Time Temporary NEW</td><td>Romford, United Kingdom</td><td>—</td><td>—</td><td>—</td><td><a href="https://targetjobs.co.uk/jobs/maths-graduate-teaching-assistant-full-time-temporary-new-237899">Apply →</a></td><td>4d</td></tr>
-<tr><td>Humly</td><td>Cover Supervisor / Unqualified Teacher / Graduate / Sports Coach / Tutor</td><td>Gosport, United Kingdom; Fareham, United Kingdom; Stubbington, United Kingdom; Hedge End, United Kingdom</td><td>£100 – £150 per day; Not specified; Not specified</td><td>—</td><td>—</td><td><a href="https://targetjobs.co.uk/jobs/cover-supervisor-unqualified-teacher-graduate-sports-coach-tutor-237825">Apply →</a></td><td>4d</td></tr>
 <tr><td>dorsetcouncil</td><td>Teaching Assistant (fixed Term) - Radipole Primary School</td><td>Radipole, United Kingdom</td><td>FTE: £26,427 to £26,847; Actual Pro Rata: £18,792 to £19,091; Hourly: £13.70 to £13.92</td><td>—</td><td>—</td><td><a href="https://www.jobs.dorsetcouncil.gov.uk/vacancies/36718/teaching-assistant-fixed-term--radipole-primary-school.html">Apply →</a></td><td>5d</td></tr>
 <tr><td>dorsetcouncil</td><td>Teaching Assistant - Bincombe Valley Primary School</td><td>Bincombe, Dorset, GB</td><td>Dorset Grade 5 XS10.5; Not specified; Not specified</td><td>—</td><td>—</td><td><a href="https://www.jobs.dorsetcouncil.gov.uk/vacancies/36724/teaching-assistant--bincombe-valley-primary-school.html">Apply →</a></td><td>5d</td></tr>
 <tr><td>University of Edinburgh School of Engineering</td><td>Associate Tutor – Physical Education Ma (placement)</td><td>Edinburgh, United Kingdom</td><td>£41,064 - £48,822 per annum pro rata</td><td>—</td><td>—</td><td><a href="https://elxw.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/jobs/14644">Apply →</a></td><td>7d</td></tr>
 <tr><td>Hopscotch Day Nurseries</td><td>Deputy Nursery Manager</td><td>Southampton, GB</td><td>Base: £34,715.20; Bonus/Equity: Not specified; Benefits: Not specified</td><td>—</td><td>—</td><td><a href="https://workwithus.hopscotchdaynurseries.co.uk/jobs/8286470-deputy-nursery-manager">Apply →</a></td><td>9d</td></tr>
-<tr><td>Philosophy Education</td><td>Teaching Assistant YR6 Full Time Placement NEW</td><td>Islington, United Kingdom</td><td>—</td><td>—</td><td>—</td><td><a href="https://targetjobs.co.uk/jobs/teaching-assistant-yr6-full-time-placement-new-237239">Apply →</a></td><td>11d</td></tr>
-<tr><td>Philosophy Education</td><td>English Graduate Teaching Assistant Full Time Temporary NEW</td><td>Romford, United Kingdom</td><td>—</td><td>—</td><td>—</td><td><a href="https://targetjobs.co.uk/jobs/english-graduate-teaching-assistant-full-time-temporary-new-237165">Apply →</a></td><td>11d</td></tr>
-<tr><td>Philosophy Education</td><td>Psychology Graduate Teaching Assistant Full Time Temporary NEW</td><td>Romford, GB</td><td>—</td><td>—</td><td>—</td><td><a href="https://targetjobs.co.uk/jobs/psychology-graduate-teaching-assistant-full-time-temporary-new-237167">Apply →</a></td><td>11d</td></tr>
-<tr><td>Philosophy Education</td><td>Graduate Teaching Assistant Contract Full Time NEW</td><td>Wandsworth, United Kingdom</td><td>—</td><td>—</td><td>—</td><td><a href="https://targetjobs.co.uk/jobs/graduate-teaching-assistant-contract-full-time-new-237129">Apply →</a></td><td>11d</td></tr>
-<tr><td>Soas, University Of London</td><td>Graduate Teaching Assistant / Teaching Fellow</td><td>London, United Kingdom</td><td>basic hourly rate starts from £23.46 per hour, inclusive of London Allowance; Contact hours paid at 2.5 multiplier of basic hours; Marking paid at basic hourly rate</td><td>—</td><td>—</td><td><a href="https://targetjobs.co.uk/jobs/graduate-teaching-assistant-teaching-fellow-237011">Apply →</a></td><td>11d</td></tr>
 <tr><td>Childbase Partnership</td><td>Relief Nursery Practitioner Leighton Buzzard, United Kingdom £12.87-£14.33 Per Hour. Relief/seasonal, Permanent Apply By No Expiry Date Posted On 25 August, 2026</td><td>Leighton Buzzard, Bedfordshire, United Kingdom</td><td>Base: £12.87-£14.33 per hour; Bonus/Equity: Not specified; Benefits: Not specified</td><td>—</td><td>—</td><td><a href="https://search.childbasecareers.com/jobs/job/Relief-Nursery-Practitioner/6168">Apply →</a></td><td>13d</td></tr>
 <tr><td>Eastwood Day Nursery</td><td>Receptionist/administrative Assistant - Eastwood Day Nursery Greater London, United Kingdom £20,802 Per Annum (scale 2) Term Time Apply By 23 September, 2026 Posted On 24 August, 2026</td><td>London, United Kingdom</td><td>£20,802 Per Annum; Not specified; 32 days annual leave plus Bank Holidays</td><td>—</td><td>—</td><td><a href="https://jobs.richmondandwandsworth.gov.uk/jobs/job/ReceptionistAdministrative-Assistant-Eastwood-Day-Nursery/9509">Apply →</a></td><td>14d</td></tr>
-<tr><td>Elementa Support Services</td><td>Graduate Teaching Assistant</td><td>Cardiff, United Kingdom</td><td>Competitive daily rate</td><td>—</td><td>—</td><td><a href="https://targetjobs.co.uk/jobs/graduate-teaching-assistant-236439">Apply →</a></td><td>18d</td></tr>
 <tr><td>NEXT</td><td>Level 3 Nursery Practitioner- 20 Hours</td><td>Leicester, United Kingdom</td><td>Base: £13.13 per hour; Bonus/Equity: 10% attendance bonus; Benefits: Not specified</td><td>—</td><td>—</td><td><a href="https://ekeq.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/API抓取/jobs/77019">Apply →</a></td><td>19d</td></tr>
 <tr><td>Seetec</td><td>Credit Control Delivery Tutor 3 Month Fixed Term Contract</td><td>United Kingdom, GB</td><td>Base: up to £32,000 p.a. pro rata; Bonus/Equity: Not specified; Benefits: 25 days annual leave + Bank Holidays + Birthday Day off, 2 Volunteer Days, 5% Employee 5% Employer pension, healthcare cash plan, 3 x salary life assurance, annual salary review</td><td>—</td><td>—</td><td><a href="https://jobs.seetec.co.uk/job/1411428133">Apply →</a></td><td>21d</td></tr>
-<tr><td>Philosophy Education</td><td>Graduate Teaching Assistant Contract Full Time</td><td>Leytonstone, GB</td><td>—</td><td>—</td><td>—</td><td><a href="https://targetjobs.co.uk/jobs/graduate-teaching-assistant-contract-full-time-235817">Apply →</a></td><td>26d</td></tr>
-<tr><td>Philosophy Education</td><td>Graduate Teaching Assistant Full Time Temporary NEW</td><td>Slough, GB</td><td>—</td><td>—</td><td>—</td><td><a href="https://targetjobs.co.uk/jobs/graduate-teaching-assistant-full-time-temporary-new-235783">Apply →</a></td><td>26d</td></tr>
-<tr><td>Philosophy Education</td><td>Teaching Assistant YR6 Part Time Placement NEW</td><td>Islington, United Kingdom</td><td>—</td><td>—</td><td>—</td><td><a href="https://targetjobs.co.uk/jobs/teaching-assistant-yr6-part-time-placement-new-235751">Apply →</a></td><td>26d</td></tr>
-<tr><td>Philosophy Education</td><td>Psychology Graduate Teaching Assistant Full Time Placement NEW</td><td>Haringey, United Kingdom</td><td>—</td><td>—</td><td>—</td><td><a href="https://targetjobs.co.uk/jobs/psychology-graduate-teaching-assistant-full-time-placement-new-235745">Apply →</a></td><td>26d</td></tr>
 <tr><td>NEXT</td><td>Level 3 Nursery Practitioner -24 Hours</td><td>Leicester, United Kingdom</td><td>Base: £14.44 per hour; Bonus/Equity: discretionary 10% attendance bonus; Benefits: staff discounts, free on-site parking, health and wellbeing services</td><td>—</td><td>—</td><td><a href="https://ekeq.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/API抓取/jobs/76910">Apply →</a></td><td>27d</td></tr>
 <tr><td>Gloucestershire County Council</td><td>Early Years &amp; Childcare Business Officer</td><td>Gloucestershire, England, United Kingdom</td><td>Base: £41,771 - £47,181 per annum; Bonus/Equity: Not specified; Benefits: Not specified</td><td>—</td><td>—</td><td><a href="https://careers.gloucestershire.gov.uk/job/1360527155">Apply →</a></td><td>31d</td></tr>
 <tr><td>Northumberland County Council</td><td>Lecturer In Childcare And Early Years Alnwick Campus, Lindisfarne Road, Alnwick, United Kingdom £35412 - £39152 Fixed Term Apply By 17 August, 2026 Posted On 3 August, 2026</td><td>Alnwick, United Kingdom</td><td>Base: £35,412 - £39,152; Bonus/Equity: Not specified; Benefits: Not specified</td><td>—</td><td>—</td><td><a href="https://jobsearch.northumberland.gov.uk/jobs/job/Lecturer-in-Childcare-and-Early-Years/3212">Apply →</a></td><td>35d</td></tr>
 <tr><td>Windsor Forest Colleges Group</td><td>Sessional Welding Tutor And Assessor Slough &amp; Langley College, Station Road, Langley, Berkshire. Sl3 8by., United Kingdom 262.58 Day Rate Sessional Apply By 19 August, 2026 Posted On 29 July, 2026</td><td>Slough, Berkshire, United Kingdom; Langley, Berkshire, United Kingdom</td><td>Day rate: £262.58; Not specified; Not specified</td><td>—</td><td>—</td><td><a href="https://careers.windsor-forest.ac.uk/jobs/job/Sessional-Welding-Tutor-and-Assessor/792">Apply →</a></td><td>38d</td></tr>
 <tr><td>dorsetcouncil</td><td>Teaching Assistant Level 2 At Somerford Community Primary School</td><td>Christchurch, Dorset, GB</td><td>BCP Grade 4; pro rata; 38 weeks per year; 30 hours and 50 minutes per week</td><td>—</td><td>—</td><td><a href="https://www.jobs.dorsetcouncil.gov.uk/vacancies/36447/teaching-assistant-level-2-at-somerford-community-primary-school.html">Apply →</a></td><td>39d</td></tr>
-<tr><td>Philosophy Education</td><td>Psychology Graduate Teaching Assistant Full Time Placement</td><td>Haringey, United Kingdom</td><td>—</td><td>—</td><td>—</td><td><a href="https://targetjobs.co.uk/jobs/psychology-graduate-teaching-assistant-full-time-placement-234257">Apply →</a></td><td>39d</td></tr>
 <tr><td>City Football Group</td><td>Part-time A Level Tutor</td><td>Manchester, England +1</td><td>—</td><td>—</td><td>—</td><td><a href="https://careers.cityfootballgroup.com/job/Manchester-Part-Time-A-Level-Tutor/1411023033/">Apply →</a></td><td>40d</td></tr>
 </tbody>
 </table>
@@ -1990,7 +1973,7 @@ Other seasonal work in this snapshot; a seasonal tag does not mean Christmas hir
 </tbody>
 </table>
 
-### Temp & seasonal (269)
+### Temp & seasonal (268)
 
 <table>
 <thead><tr><th>Company</th><th>Role</th><th>Location</th><th>Pay</th><th>Shift</th><th>Checks</th><th>Apply</th><th>Age</th></tr></thead>
@@ -2022,7 +2005,6 @@ Other seasonal work in this snapshot; a seasonal tag does not mean Christmas hir
 <tr><td>SANTANDER CONSUMER BANK S.p.A</td><td>Customer Experience Advisor | S1 | Retail Banking | Southall Branch</td><td>Southall, United Kingdom</td><td>Base: £27,138; Bonus/Equity: 8% discretionary performance-related bonus; Benefits: £500 flexible benefit allowance</td><td>—</td><td>—</td><td><a href="https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/Southall/Customer-Experience-Advisor---S1---Retail-Banking---Southall-Branch_Req1607457-2">Apply →</a></td><td>4d</td></tr>
 <tr><td>Primark</td><td>Visual Merchandiser</td><td>Chester, United Kingdom +11</td><td>£13.43 Per hour; Not specified; Not specified</td><td>—</td><td>—</td><td><a href="https://jobs.smartrecruiters.com/Primark/744000147012279">Apply →</a></td><td>4d</td></tr>
 <tr><td>Primark</td><td>Retail Assistant - Weekend Only</td><td>Chester, United Kingdom +16</td><td>Base: £13.00 per hour; Bonus/Equity: Not specified; Benefits: Pension, Discounts, Holidays, Wellbeing initiatives</td><td>Weekend</td><td>—</td><td><a href="https://jobs.smartrecruiters.com/Primark/744000146975099">Apply →</a></td><td>4d</td></tr>
-<tr><td>Aldi</td><td>Retail Management Placement</td><td>Chelmsford, United Kingdom; Swindon, United Kingdom; Darlington, United Kingdom; Bolton, United Kingdom; Atherstone, United Kingdom</td><td>GBP 30000 YEAR</td><td>—</td><td>—</td><td><a href="https://targetjobs.co.uk/jobs/retail-management-placement-238055">Apply →</a></td><td>4d</td></tr>
 <tr><td>The Works Stores Ltd</td><td>Retail Sales Assistant</td><td>Skegness, United Kingdom +25</td><td>—</td><td>—</td><td>—</td><td><a href="https://www.theworks.jobs/jobs/8308044-retail-sales-assistant">Apply →</a></td><td>4d</td></tr>
 <tr><td>Urban Outfitters</td><td>Urban Outfitters Sales Associate (32hr) - Metrocentre, Gateshead</td><td>Newcastle, United Kingdom</td><td>—</td><td>—</td><td>—</td><td><a href="https://stores-eu-urbn.icims.com/jobs/31382/urban-outfitters-sales-associate-%2832hr%29---metrocentre%2c-gateshead/job?hub=15&amp;amp;in_iframe=1">Apply →</a></td><td>5d</td></tr>
 <tr><td>TJX Winners HomeSense</td><td>Retail Associate</td><td>Torquay, United Kingdom</td><td>—</td><td>—</td><td>—</td><td><a href="https://jobs.tjx.com/global/en/job/REQ148963/Retail-Associate">Apply →</a></td><td>5d</td></tr>

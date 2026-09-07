@@ -40,5 +40,119 @@
       }
     ],
     "meaning": "No longer selected; not proof of closure"
+  },
+  {
+    "asOf": "2026-09-07",
+    "removed": [
+      {
+        "id": "targetjobs:674bb9d6-1bad-4ebb-b913-5ccc6096fd84",
+        "company": "Aldi",
+        "role": "Retail Management Placement",
+        "location": "Chelmsford, United Kingdom; Swindon, United Kingdom; Darlington, United Kingdom; Bolton, United Kingdom; Atherstone, United Kingdom"
+      },
+      {
+        "id": "targetjobs:5d57c69f-478d-4aaf-b328-ed89d10ebffa",
+        "company": "Philosophy Education",
+        "role": "Graduate Teaching Assistant Full Time Placement NEW",
+        "location": "Edgware, United Kingdom"
+      },
+      {
+        "id": "targetjobs:a0501405-e4f4-4bdb-8c53-a556e1e44e43",
+        "company": "Philosophy Education",
+        "role": "Maths Graduate Teaching Assistant Full Time Temporary NEW",
+        "location": "Romford, United Kingdom"
+      },
+      {
+        "id": "targetjobs:21742c07-ffae-43e8-b5b4-b584f9d8a6de",
+        "company": "Humly",
+        "role": "Cover Supervisor / Unqualified Teacher / Graduate / Sports Coach / Tutor",
+        "location": "Gosport, United Kingdom; Fareham, United Kingdom; Stubbington, United Kingdom; Hedge End, United Kingdom"
+      },
+      {
+        "id": "targetjobs:0fbb254b-38d4-4b56-b1d6-b02f5c4a395e",
+        "company": "Philosophy Education",
+        "role": "Teaching Assistant YR6 Full Time Placement NEW",
+        "location": "Islington, United Kingdom"
+      },
+      {
+        "id": "targetjobs:222044a9-1641-4a1e-82ee-319151ec63bc",
+        "company": "Philosophy Education",
+        "role": "English Graduate Teaching Assistant Full Time Temporary NEW",
+        "location": "Romford, United Kingdom"
+      },
+      {
+        "id": "targetjobs:a3b147f4-8d26-41cd-ad70-c29fc6ebb649",
+        "company": "Philosophy Education",
+        "role": "Psychology Graduate Teaching Assistant Full Time Temporary NEW",
+        "location": "Romford, GB"
+      },
+      {
+        "id": "targetjobs:6976c96f-ab71-4adc-9d64-44d9ad0ea36d",
+        "company": "Philosophy Education",
+        "role": "Graduate Teaching Assistant Contract Full Time NEW",
+        "location": "Wandsworth, United Kingdom"
+      },
+      {
+        "id": "targetjobs:2ad193df-7993-4747-95c9-be79e77f82cc",
+        "company": "Soas, University Of London",
+        "role": "Graduate Teaching Assistant / Teaching Fellow",
+        "location": "London, United Kingdom"
+      },
+      {
+        "id": "targetjobs:80473bfc-6dd2-4902-9dd4-9d433cb96cf7",
+        "company": "Elementa Support Services",
+        "role": "Graduate Teaching Assistant",
+        "location": "Cardiff, United Kingdom"
+      },
+      {
+        "id": "targetjobs:b5479379-19da-4216-8055-9f7f42618b2d",
+        "company": "UCL",
+        "role": "Post Graduate Teaching Assistant (PGTA) - CDE",
+        "location": "London, United Kingdom"
+      },
+      {
+        "id": "targetjobs:bbaac8eb-da8d-44c8-b763-04b113d008e2",
+        "company": "Isle Of Wight Council",
+        "role": "Under-Graduate Support Worker",
+        "location": "Newport, Isle of Wight, GB"
+      },
+      {
+        "id": "targetjobs:891659e0-17da-46ad-b927-65e6e70d5965",
+        "company": "Philosophy Education",
+        "role": "Graduate Teaching Assistant Contract Full Time",
+        "location": "Leytonstone, GB"
+      },
+      {
+        "id": "targetjobs:e37900f6-362e-4fcb-806e-8d61f6f0336f",
+        "company": "Philosophy Education",
+        "role": "Graduate Teaching Assistant Full Time Temporary NEW",
+        "location": "Slough, GB"
+      },
+      {
+        "id": "targetjobs:e3ff038c-78e7-44ea-ab50-632b5381223a",
+        "company": "Philosophy Education",
+        "role": "Teaching Assistant YR6 Part Time Placement NEW",
+        "location": "Islington, United Kingdom"
+      },
+      {
+        "id": "targetjobs:3df43af8-b3ad-4ed2-a75e-cc8ffb32b217",
+        "company": "Philosophy Education",
+        "role": "Psychology Graduate Teaching Assistant Full Time Placement NEW",
+        "location": "Haringey, United Kingdom"
+      },
+      {
+        "id": "targetjobs:de509836-3458-4565-a31b-d924dbe6ad10",
+        "company": "UCL",
+        "role": "Post Graduate Teaching Assistant",
+        "location": "London, United Kingdom"
+      },
+      {
+        "id": "targetjobs:40b3e665-655a-4826-958d-f173ea16dbb0",
+        "company": "Philosophy Education",
+        "role": "Psychology Graduate Teaching Assistant Full Time Placement",
+        "location": "Haringey, United Kingdom"
+      }
+    ],
+    "meaning": "No longer selected; not proof of closure"
   }
 ]
