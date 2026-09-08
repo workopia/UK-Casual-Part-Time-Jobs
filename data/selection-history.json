@@ -154,5 +154,263 @@
       }
     ],
     "meaning": "No longer selected; not proof of closure"
+  },
+  {
+    "asOf": "2026-09-08",
+    "removed": [
+      {
+        "id": "284973",
+        "company": "Vodafone",
+        "role": "Retail Adviser 25 Hours/week - Sheffield Meadowhall Experience",
+        "location": "Sheffield, United Kingdom"
+      },
+      {
+        "id": "288109",
+        "company": "Vodafone",
+        "role": "Retail Adviser 20 Hours/week - Redditch",
+        "location": "Redditch, United Kingdom"
+      },
+      {
+        "id": "288110",
+        "company": "Vodafone",
+        "role": "Retail Adviser 20 Hours/week - Birmingham Kings Heath",
+        "location": "Birmingham, United Kingdom"
+      },
+      {
+        "id": "288112",
+        "company": "Vodafone",
+        "role": "Retail Adviser 20 Hours/week - West Bromwich",
+        "location": "West Bromwich, United Kingdom"
+      },
+      {
+        "id": "288113",
+        "company": "Vodafone",
+        "role": "Retail Adviser 20 Hours/week - Bromsgrove",
+        "location": "Bromsgrove, United Kingdom"
+      },
+      {
+        "id": "f3d15301b93762e7ea822e73245fc1f4",
+        "company": "Greene King",
+        "role": "Housekeeper",
+        "location": "Hitchin, United Kingdom"
+      },
+      {
+        "id": "6137790aae632b2cfb2f3511efcd47db",
+        "company": "Greene King",
+        "role": "Cleaner",
+        "location": "Dinnington, United Kingdom"
+      },
+      {
+        "id": "ef902cc42ff329523c9965d036abaaf1",
+        "company": "Greene King",
+        "role": "Team Leader",
+        "location": "Chandlers Ford, United Kingdom"
+      },
+      {
+        "id": "1691c61cd96b9d0e90e5bc0222bef5e5",
+        "company": "Primark",
+        "role": "Retail Assistant",
+        "location": "Milton Keynes, United Kingdom"
+      },
+      {
+        "id": "ffe843f02bd95f7f8655b733e9e616f0",
+        "company": "Iceland Foods",
+        "role": "Home Delivery Driver",
+        "location": "Andover, United Kingdom"
+      },
+      {
+        "id": "86e7239159df94d6a1455502a62502be",
+        "company": "Iceland Foods",
+        "role": "Retail Assistant",
+        "location": "Sunderland, United Kingdom"
+      },
+      {
+        "id": "145379b6a774009a4a0bd7906bbec6b5",
+        "company": "Greene King",
+        "role": "Kitchen Assistant",
+        "location": "Bargeddie, United Kingdom"
+      },
+      {
+        "id": "320da0199b8ade24abb40032fd388233",
+        "company": "Iceland Foods",
+        "role": "Cleaner",
+        "location": "Rutherglen, , United Kingdom"
+      },
+      {
+        "id": "36c850f994499dc50acdf9bd09c4c5c6",
+        "company": "Greene King",
+        "role": "Chef",
+        "location": "Corbridge, United Kingdom"
+      },
+      {
+        "id": "97dec8f18e56e46715dff90e4d5c648c",
+        "company": "Entain",
+        "role": "Retail Customer Service",
+        "location": "Crowthorne, United Kingdom"
+      },
+      {
+        "id": "6bed439f70c2fdc67815106cb2ffd4c2",
+        "company": "Superdrug",
+        "role": "Sales Assistant",
+        "location": "Stockport, United Kingdom"
+      },
+      {
+        "id": "6bd4cab21e9570a9b82067fa10a1dcda",
+        "company": "Primark",
+        "role": "Retail Assistant - Night Shift",
+        "location": "Newcastle Metro, United Kingdom"
+      },
+      {
+        "id": "c47a2d192ad3bf1563b435566020a475",
+        "company": "Lidl",
+        "role": "Cleaner",
+        "location": "Motherwell, United Kingdom"
+      },
+      {
+        "id": "2fad4487948c6bf59b2900282c81c0ef",
+        "company": "Welcome Break",
+        "role": "Starbucks Barista - Nights",
+        "location": "Corley, United Kingdom"
+      },
+      {
+        "id": "3ecf7d0046ade7ed6d313a5ba04c1ff0",
+        "company": "Primark",
+        "role": "Visual Merchandiser",
+        "location": "Chester, United Kingdom"
+      },
+      {
+        "id": "e085721798f789143742040eb70aa270",
+        "company": "Greggs",
+        "role": "Team Member Clovelly Road Bideford, United Kingdom £12.91 Per Hour, If You Are Under 18 This Will Be £11.03 Per Hour Permanent Apply By 25 September, 2026 Posted On 26 August, 2026 Contract Hours 25",
+        "location": "Bideford, United Kingdom"
+      },
+      {
+        "id": "edcc33b8df7c8d1bd1d69d265c867f3c",
+        "company": "Greggs",
+        "role": "Team Member 93 Piccadilly Manchester, United Kingdom £12.91 Per Hour, If You Are Under 18 This Will Be £11.03 Per Hour Permanent Apply By 13 September, 2026 Posted On 26 August, 2026 Contract Hours 16",
+        "location": "Manchester, United Kingdom"
+      },
+      {
+        "id": "54b8167fb75b6e496a93d108ebb12232",
+        "company": "H&M",
+        "role": "Sales Advisor 12h",
+        "location": "London, United Kingdom"
+      },
+      {
+        "id": "0bc4cf3e4097da93ee6a7572a0912c5a",
+        "company": "Free People (URBN)",
+        "role": "Urban Outfitters Sales Associate (seasonal Ftc) - Brighton, Uk",
+        "location": "Brighton, United Kingdom"
+      },
+      {
+        "id": "65115e7a5061210ccc11df0fea99760d",
+        "company": "St. Regis Hotels & Resorts",
+        "role": "Commis Chef (casual) - Sheraton Heathrow Hotel",
+        "location": "Heathrow Airport, West Drayton, England, GB"
+      },
+      {
+        "id": "dcfc002b80a3ab2e9697fb8d8c916e2b",
+        "company": "Urban Outfitters",
+        "role": "Urban Outfitters Sales Associate (seasonal Ftc) - Brighton, Uk",
+        "location": "Brighton, United Kingdom"
+      },
+      {
+        "id": "2a51313e8cd440f03146fb7298ab1dd9",
+        "company": "Welcome Break",
+        "role": "Temporary Cleaning Team Member",
+        "location": "Telford, Shropshire, United Kingdom"
+      },
+      {
+        "id": "f626c5e60888cbdc7591b6a771c90e46",
+        "company": "Welcome Break",
+        "role": "Housekeeping Team Member -gretna",
+        "location": "Gretna Green, Dumfries, United Kingdom"
+      },
+      {
+        "id": "0b09af3f247d4b9bbca365c383f260a7",
+        "company": "FMC",
+        "role": "Healthcare Assistant - Part Time",
+        "location": "Taunton, Somerset, United Kingdom"
+      },
+      {
+        "id": "e9ec5dff7f300885d0cedaff507e6acd",
+        "company": "Fsmjobs",
+        "role": "Healthcare Assistant",
+        "location": "Bodmin, England, United Kingdom"
+      },
+      {
+        "id": "ba122b6206496cdf4d7f4d423622ee7e",
+        "company": "Radfield Home Care",
+        "role": "Care Assistant - Part Time",
+        "location": "Watford, England, United Kingdom; Borehamwood, England, United Kingdom"
+      },
+      {
+        "id": "f1c0fc7cf03f21e21d71243a40863436",
+        "company": "Joseph Gallagher Ltd",
+        "role": "Tractor Driver Cpcs &amp; Hgv Class 1",
+        "location": "Welshpool, Wales, GB"
+      },
+      {
+        "id": "8791bbc1054b4d5a9c22790b7840b6a6",
+        "company": "Radfield Home Care",
+        "role": "Home Care Assistant - Horsham Area",
+        "location": "Horsham, West Sussex, United Kingdom; Crawley, West Sussex, United Kingdom"
+      },
+      {
+        "id": "51446ac820e17dad0ae07bb95b0339b9",
+        "company": "Lancashire Holdings",
+        "role": "Flexible Van Driver",
+        "location": "Wolverhampton, WV10 7DG, United Kingdom"
+      },
+      {
+        "id": "a92369ac6e7d53523901cef363607535",
+        "company": "Sports Direct",
+        "role": "General Assistant / Cleaner Ftc",
+        "location": "Londonderry, United Kingdom"
+      },
+      {
+        "id": "6c03f9bbdf7d286698be03d55d9409c4",
+        "company": "BMI Healthcare (Circle)",
+        "role": "Healthcare Assistant - Outpatients",
+        "location": "Bury St Edmunds, England, United Kingdom"
+      },
+      {
+        "id": "7df50cf74cd63607de75742400b5935d",
+        "company": "Greene King",
+        "role": "Team Leader Foh",
+        "location": "Kenilworth, United Kingdom"
+      },
+      {
+        "id": "d17e75b6681f2f91af1f3fed85b3e571",
+        "company": "HammondCare",
+        "role": "Specialised Carer - Dementia Care",
+        "location": "Cardiff, Wales, United Kingdom"
+      },
+      {
+        "id": "c2e9943d9facfa07aefc2d847aae9b55",
+        "company": "W Brisbane",
+        "role": "Hotel Cleanliness Expert Guest Room Attendant Maternity Cover Fixed Term",
+        "location": "London, United Kingdom"
+      },
+      {
+        "id": "52e36413f9620605e131bc4e2bb846ac",
+        "company": "Jellycat Ltd",
+        "role": "Retail Experience Lead - 12 Month Fixed Term Contract",
+        "location": "London, United Kingdom"
+      },
+      {
+        "id": "39e32c03487d8464d822f8c416c02445",
+        "company": "Footballjobboard",
+        "role": "Casual Kitchen Porter",
+        "location": "St Mary's Stadium, Hampshire, United Kingdom; Staplewood Campus, Hampshire, United Kingdom"
+      },
+      {
+        "id": "caf51ed9987e999b6f8a56a8b23c9b85",
+        "company": "DECJUBA",
+        "role": "Casual Retail Assistant - Newmarket",
+        "location": "Newmarket, United Kingdom"
+      }
+    ],
+    "meaning": "No longer selected; not proof of closure"
   }
 ]
