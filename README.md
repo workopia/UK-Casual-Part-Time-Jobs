@@ -4,15 +4,15 @@
 
 ## Explore beyond this selected directory
 
-| GitHub directory | UK search collection — launching soon |
+| GitHub directory | Live UK search |
 | --- | --- |
-| **2,082 selected roles** | **25,579 searchable postings prepared** |
+| **2,082 selected roles** | **25,579 searchable postings** |
 
-The prepared collection includes **17,805 casual, part-time and contract/temp postings**, plus **7,774 related hourly/seasonal postings** with their real employment labels. Snapshot: **2026-09-14T07:32:29.984Z**.
+The search collection includes **17,805 casual, part-time and contract/temp postings**, plus **7,774 related hourly/seasonal postings** with their real employment labels. Snapshot: **2026-09-14T07:32:29.984Z**.
 
 This directory groups matching employer and role postings across locations and applies category and employer limits. Its selected-row count is not the full search collection or the entire UK job market.
 
-**UK web search is not public yet.** Apply through the employer links below for now. This section will link to UK search when it launches.
+[**Search UK casual, part-time and temporary jobs on Workopia →**](https://workopia.io/casual-jobs/uk?utm_source=github&utm_medium=repo_readme). Apply through the employer links below or explore the wider search collection on Workopia.
 
 Maintained by [Workopia](https://workopia.io). Counts refresh with the daily data pipeline.
 
