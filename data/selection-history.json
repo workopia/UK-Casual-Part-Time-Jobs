@@ -14284,5 +14284,323 @@
       }
     ],
     "meaning": "No longer selected; not proof of closure"
+  },
+  {
+    "asOf": "2026-10-06",
+    "removed": [
+      {
+        "id": "63d12ee5bebe5ea984fb22360b05a8f9",
+        "company": "TK Maxx",
+        "role": "Retail Associate",
+        "location": "Uxbridge, United Kingdom"
+      },
+      {
+        "id": "2315178fb0ba3e47c6a99dd1b1ce2fb0",
+        "company": "Koninklijke BAM Groep NV",
+        "role": "Cleaning Operative",
+        "location": "Bromsgrove, England, United Kingdom"
+      },
+      {
+        "id": "523162d706a95f5e130efac7ec5bc567",
+        "company": "Asda",
+        "role": "Customer Delivery Driver",
+        "location": "Hatfield, United Kingdom"
+      },
+      {
+        "id": "bbef08873778b6876c0dbd63c3aa4ed7",
+        "company": "Sanctuary Housing Association",
+        "role": "Care Assistant",
+        "location": "Plymouth, GB"
+      },
+      {
+        "id": "adae68cf27ecdbf4e95f6983ceacb0b4",
+        "company": "Sanctuary Housing Association",
+        "role": "Assistant Chef",
+        "location": "Plymouth, United Kingdom"
+      },
+      {
+        "id": "1d15d1e7104263d318a104c1d1dfd36e",
+        "company": "Homesense At TJX Europe",
+        "role": "Retail Associate",
+        "location": "Swindon, United Kingdom"
+      },
+      {
+        "id": "2f7b1c76ef79e90bd6d3d7df40f19ac7",
+        "company": "SSP Group plc",
+        "role": "Replenishment Team Member - M&s Simply Food",
+        "location": "Glasgow, United Kingdom"
+      },
+      {
+        "id": "13dc3d229850bac2825c11027527189a",
+        "company": "Iceland Foods",
+        "role": "Retail Assistant (inside M25)",
+        "location": "London, United Kingdom"
+      },
+      {
+        "id": "1283ba44eccce08bea201a5903580a8d",
+        "company": "Iceland Foods",
+        "role": "Home Delivery Driver",
+        "location": "Hull, United Kingdom"
+      },
+      {
+        "id": "167d69976734a12211346a0ba1780988",
+        "company": "Iceland Foods",
+        "role": "Retail Assistant - Online Picker",
+        "location": "Burton-On-Trent, GB"
+      },
+      {
+        "id": "238bbf6dfdce57c70f8090da6ae10215",
+        "company": "Iceland Foods",
+        "role": "Home Delivery Driver (inside M25)",
+        "location": "Harrow, United Kingdom"
+      },
+      {
+        "id": "4e3bebca2bac81c92c904f091daec1db",
+        "company": "Iceland Foods",
+        "role": "Cleaner",
+        "location": "Preston, , United Kingdom"
+      },
+      {
+        "id": "900c0dfb85c1e28a1ee1b3119f700a63",
+        "company": "Lidl",
+        "role": "Customer Assistant",
+        "location": "Motherwell, United Kingdom"
+      },
+      {
+        "id": "a554fc61b9418ef49b2a895d50d596c7",
+        "company": "Lidl",
+        "role": "Cleaner",
+        "location": "Leeds, United Kingdom"
+      },
+      {
+        "id": "2880b762da2f90403e812b711604d830",
+        "company": "Morrisons",
+        "role": "Customer Assistant - Online",
+        "location": "Malmesbury Road, United Kingdom"
+      },
+      {
+        "id": "560b1c2b28738ed80189e755added559",
+        "company": "Morrisons",
+        "role": "Customer Assistant - Replenishment",
+        "location": "United Kingdom"
+      },
+      {
+        "id": "d9ad51d4b699d06a6a7a27fe12d6e500",
+        "company": "Morrisons",
+        "role": "Customer Assistant - Service",
+        "location": "Malmesbury Road, United Kingdom"
+      },
+      {
+        "id": "01620f9f4997e727e4330e0c8ac35bfa",
+        "company": "Nando's",
+        "role": "Back Of House Nandoca",
+        "location": "Beckenham, United Kingdom"
+      },
+      {
+        "id": "1d8f98a09a488a9da83be2311753baea",
+        "company": "Nando's",
+        "role": "Front Of House Nandoca",
+        "location": "Belfast, United Kingdom"
+      },
+      {
+        "id": "faee891cf2e590492d9d5504fc5dd597",
+        "company": "BMI Healthcare (Circle)",
+        "role": "Housekeeper (bank)",
+        "location": "Thornbury Hospital, United Kingdom"
+      },
+      {
+        "id": "d32f7fb5e5873e129004b8c6a69c6e27",
+        "company": "Greene King",
+        "role": "Kitchen Assistant",
+        "location": "Dorking, United Kingdom"
+      },
+      {
+        "id": "764e8442900838f87c569c506d526329",
+        "company": "Primark",
+        "role": "Retail Assistant",
+        "location": "Motherwell, United Kingdom"
+      },
+      {
+        "id": "257dbe338b3f1e088878a2227089ee29",
+        "company": "Greene King",
+        "role": "Chef",
+        "location": "Bewdley, United Kingdom"
+      },
+      {
+        "id": "4eb66a4e22a6cd29c0c7c2c932abae3a",
+        "company": "Greene King",
+        "role": "Cleaner",
+        "location": "Goole, United Kingdom"
+      },
+      {
+        "id": "60f65dacd11c0fd6db3e97ab770f8802",
+        "company": "Greene King",
+        "role": "Team Leader",
+        "location": "Swindon, United Kingdom"
+      },
+      {
+        "id": "48fbd2bfc0eed2c3a1de784d90d0c994",
+        "company": "Upprewards",
+        "role": "Part-time Cleaner",
+        "location": "Exeter, United Kingdom"
+      },
+      {
+        "id": "81ddd163a0dd16e71cbf07e3ac0d0493",
+        "company": "Morrisons",
+        "role": "Customer Assistant - Market Street & Cafe",
+        "location": "London Road, United Kingdom"
+      },
+      {
+        "id": "61cd36ad5e7472d2654cb69eaec5f20c",
+        "company": "Sports Direct",
+        "role": "Part Time Sales Assistant",
+        "location": "Lurgan, United Kingdom"
+      },
+      {
+        "id": "061106b736661dea6ec24961dae45acd",
+        "company": "sb-fm",
+        "role": "Cleaner",
+        "location": "Sutton Coldfield, GB"
+      },
+      {
+        "id": "f8fba72cd9e9247ecfd4aa9debd97c34",
+        "company": "Warehouse Jobs UK",
+        "role": "Sales Advisor",
+        "location": "Hexham, United Kingdom"
+      },
+      {
+        "id": "0e849430a956afb49f753e5f7f63e979",
+        "company": "gsfgroupcareers",
+        "role": "Delivery Driver (zero/casual Hours)",
+        "location": "All Locations, United Kingdom"
+      },
+      {
+        "id": "bcb5d24c10d73f5c19328afa4856fbc0",
+        "company": "TOPPS TILES PLC",
+        "role": "Sales Assistant",
+        "location": "All Locations, United Kingdom"
+      },
+      {
+        "id": "728f7f42b1f70353ff75df7124caf1ce",
+        "company": "Koninklijke BAM Groep NV",
+        "role": "Caretaker",
+        "location": "Bromsgrove, United Kingdom"
+      },
+      {
+        "id": "cfc9ff87bc766907ef7c1885cc09a0f4",
+        "company": "Sanctuary Housing Association",
+        "role": "Housekeeping Assistant",
+        "location": "Pencaitland, East Lothian, GB"
+      },
+      {
+        "id": "bf8e689c37644a387634bcfb01e77490",
+        "company": "Entain",
+        "role": "Retail Customer Service - Weekends Only",
+        "location": "Tonbridge, United Kingdom"
+      },
+      {
+        "id": "bf7cf2ccdfa3b8524259ef31c5f535b3",
+        "company": "VF Corporation",
+        "role": "Sales Associate (part-time 10hr)",
+        "location": "Tewkesbury, United Kingdom"
+      },
+      {
+        "id": "a5e879bcbee8e7a64bddc5919fa41182",
+        "company": "NEXT",
+        "role": "Team Member - Lincoln Valentine Retail Park (n130154)",
+        "location": "Lincoln, United Kingdom"
+      },
+      {
+        "id": "a70304e43f28ee959d7b7102e6227fa0",
+        "company": "NEXT",
+        "role": "Team Member - Blackpool Clifton Retail Park (n130119)",
+        "location": "Blackpool, United Kingdom"
+      },
+      {
+        "id": "b710d1cf9ed1934a24d76fa57b610c85",
+        "company": "H & M Hennes & Mauritz AB",
+        "role": "Sales Advisor - Woking (part-time)",
+        "location": "Woking, United Kingdom"
+      },
+      {
+        "id": "abaeb733774e7cc3f6f983e823b017f3",
+        "company": "H & M Hennes & Mauritz AB",
+        "role": "Sales Advisor - Didcot (part-time)",
+        "location": "Didcot, United Kingdom"
+      },
+      {
+        "id": "1e4653cf2dd6c6ede8016024a766c944",
+        "company": "Santander",
+        "role": "Customer Experience Advisor | S1 | Retail Banking | Falkirk",
+        "location": "Falkirk, United Kingdom"
+      },
+      {
+        "id": "49213e694f3430363f0ac6727bd7b836",
+        "company": "Pinnacle Group",
+        "role": "Cleaner Newbury £13.45 - £13.45 Temporary Apply By 26 September, 2026 Posted On 22 August, 2026",
+        "location": "Newbury, GB"
+      },
+      {
+        "id": "0f44e35e3e5ec512f5a71c27ba81ff78",
+        "company": "Nuffield Health",
+        "role": "Domestic Assistant / Housekeeper (bank)",
+        "location": "Chandlers Ford, United Kingdom"
+      },
+      {
+        "id": "1ab30174e7e737d9d3e322f33f99adc2",
+        "company": "John Lewis & Waitrose",
+        "role": "Warehouse Partner, Nights",
+        "location": "Coulsdon, London, United Kingdom"
+      },
+      {
+        "id": "1413aad2ac7d4a91fffebc0ca2041789",
+        "company": "Drcf Org",
+        "role": "Retail Assistant Shop Manager (east Dereham)",
+        "location": "East Dereham, United Kingdom"
+      },
+      {
+        "id": "9a9c578eb5a0b8b9001a2eeeacf94a9f",
+        "company": "Drcf Org",
+        "role": "Retail Sunday Assistant (bury St Edmunds, Abbeygate)",
+        "location": "Bury St Edmunds, United Kingdom"
+      },
+      {
+        "id": "d3cc7e8a03de62c3daa57e1a340047fb",
+        "company": "Drcf Org",
+        "role": "Retail Assistant Shop Manager (mere Green)",
+        "location": "Mere Green, United Kingdom"
+      },
+      {
+        "id": "370cc7f1cf5079a8fd1a3f0152546bee",
+        "company": "Warehouse Jobs UK",
+        "role": "Delivery Driver 3.5t",
+        "location": "Great Yarmouth, United Kingdom"
+      },
+      {
+        "id": "987ee01a298131ec074c8cc9c08186ea",
+        "company": "Plumb Centre",
+        "role": "Sales Assistant",
+        "location": "Loughborough, United Kingdom"
+      },
+      {
+        "id": "ccb5294e4cf568c4dcb5570caba84627",
+        "company": "Primark",
+        "role": "Visual Merchandising Manager",
+        "location": "London, United Kingdom"
+      },
+      {
+        "id": "b962caed01b9e61960ad028a8162f96e",
+        "company": "Nuffield Health",
+        "role": "Cleaning Operative",
+        "location": "Farnborough, United Kingdom"
+      },
+      {
+        "id": "459621313ed44e7244bf5e50f1fb1835",
+        "company": "IOLLA Ltd",
+        "role": "Retail Assistant - Optical Stylist (10 Hour Contract)part-timeaberdeen",
+        "location": "Aberdeen, Scotland"
+      }
+    ],
+    "meaning": "No longer selected; not proof of closure"
   }
 ]
